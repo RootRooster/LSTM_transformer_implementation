@@ -14,6 +14,38 @@ from torch.autograd import Variable
 from torch.utils.data import Dataset
 
 
+def greedy_sampling_lstm(lstm, x, num_chars):
+    # x -- b x onehot_char
+    outputs = torch.zeros((1, num_chars, x.shape[2]))
+    t_outputs, (cell_state, hidden) = lstm(x.float())
+    for c in range(num_chars):
+        output_tmp = torch.softmax(lstm.proj(hidden), dim=1)
+        top_ind = torch.argmax(output_tmp, dim=1)[0]
+        tmp = torch.zeros_like(x[:, 0, :]).cuda()
+        tmp[:, top_ind] = 1
+        outputs[:, c] = tmp
+
+        cell_state, hidden = lstm.lstm_cell(tmp, cell_state, hidden)
+    return outputs
+
+
+def topk_sampling_lstm(lstm, x, num_chars):
+    # x -- b x onehot_char
+    outputs = torch.zeros((1, num_chars, x.shape[2]))
+    t_outputs, (cell_state, hidden) = lstm(x.float())
+    for c in range(num_chars):
+        output_vals, output_ind = torch.topk(lstm.proj(hidden), 5, dim=1)
+        output_tmp = torch.softmax(output_vals, dim=1)
+        top_ind = torch.multinomial(output_tmp[0], 1)[0]
+        tmp = torch.zeros_like(x[:, 0, :]).cuda()
+        tmp[:, output_ind[0, top_ind]] = 1
+        outputs[:, c] = tmp
+
+        cell_state, hidden = lstm.lstm_cell(tmp, cell_state, hidden)
+
+    return outputs
+
+
 class LSTMDataset(Dataset):
     def __init__(self, chunk_len=200, padded_chunks=False):
         # Character based dataset
