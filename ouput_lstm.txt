@@ -1,0 +1,708 @@
+---- Epoch: 0, loss=3.26, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thoutet  tettetaoaot aattooaae at t oo a  to     oa  e e  e t eee otoee e  eetteoeea  e o aa t  te ot   too ettt oea   o    oaaee t otot te e   e toooe  e  oe t  e   aa  oa e ee  t oa te e  oa ae o a e  tet  e o to    oe tto t oeeee  ooeooatet e  th o  oot  e    ott e     eoe ota eaaao t ooto e  e  a e 
+
+---- Epoch: 0, loss=3.26, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou                                                                                                                                                                                                                                                                                                            
+
+---- Epoch: 1, loss=2.63, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thouthar shand she mald whend wher saringame core bount athes soro thale te toed mordithens mire whan milde mor ao lon thes wer merashous mird whande sire sist to mere anot aor mond sher th tin the s shand whind anr thes aror sheris the sher tous miteraror moto thireethanteastont tarere sit an se then t
+
+---- Epoch: 1, loss=2.63, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thous the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the th
+
+---- Epoch: 2, loss=2.36, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou the hal tant he se me mor so bes so ter and wound mes and mar moun houlle, Iou hould ar hand tor te thang the sore to the whou he so s onde thar thath why whe hou than s till tars an se hour, soure than the shit her ho t man wind sond whird woth to teand wor this has arthe then, anto garers the thi
+
+---- Epoch: 2, loss=2.36, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+
+---- Epoch: 3, loss=2.26, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou deang tare wathe, se te watt and ate hy and mates and mine at as al with ar ar war is ar asther ofer thee me mang tha sit to whathen woul sond thes ange he he hith, shet tars shene sores,
+The tor ar wiss is mith matithe mathe he mo tis meres,
+Whis me monese,
+The mese wits the tilllle tis thee meren
+
+---- Epoch: 3, loss=2.26, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+
+---- Epoch: 4, loss=2.14, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thour to bot and ard,
+To her as of tou t is harthither stires al ant shor heand wire shere to the her thes songeds,
+And hins ant se to sene thin, I hours,
+The mangiss in ther the mend steat hind sis my he thyel sin thou thes ar asen will, the hor to sor ham ser mant asper in, sin woll thou sin mime to t
+
+---- Epoch: 4, loss=2.14, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+
+---- Epoch: 5, loss=2.05, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thous lave still are than wo hears ares mo fot on mate serse stordss ars the mard will toous mand and the hear sour sir thathel on ther mo ther ho be tous trom the marthers so him sore, sone the parest marter and to mayes my, bule his then she heal of she make thou derand of reand so muse thes ang tar i
+
+---- Epoch: 5, loss=2.05, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the sore the so
+
+---- Epoch: 6, loss=1.95, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou dreand sterest me whan marther.
+
+COMENIUS:
+And to heren my heveres a day
+Tomy woth mont,
+To maye hers ald mare wires, the mantors a wolth the tid hor hambear this arest the mear
+Thather,
+And what wers though mand in thou drustord hit he mant,
+And to the thend the sife trone histreat
+Singing that we
+
+---- Epoch: 6, loss=1.95, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond and the have the sond
+
+---- Epoch: 7, loss=1.88, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou some, I head hire sous,
+To my lear so freass,
+Ang well be chent or my lart the sour,
+And a toll and with my loventer will and the tours of that as.
+
+CENTUCHAS:
+I ser ale to him but tham thy plould to must
+Tis mane out thess wirl to sight heave thene stell
+
+But thit my lave sin the hates the stire t
+
+---- Epoch: 7, loss=1.88, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the sond the sond the sond the sond and the sond and the sond
+The sone the sone the sone the sond the sond the sond the sond and the sond and the sond
+The sone the sone the sone the sond the sond the sond the sond and the sond and the sond
+The sone the sone the sone the sond the sond the sond 
+
+---- Epoch: 8, loss=1.82, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou, sors the pood of the crient.
+
+DUKE:
+I wish a most the could a brich.
+
+BENRUCHIO:
+No to but that by some and are that hemperse. The ford my that ast the soors and some.
+
+CAPETIUS:
+We he parions the wolld and a mantens,
+The forent of shall will a mane to hears,
+And the sene atay stould till shall.
+
+
+---- Epoch: 8, loss=1.82, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the sone the sone the sone.
+
+CAMILLO:
+Why for the sone the sone the sone the sone the sone.
+
+CAMILLO:
+Why for the sone the sone the sone the sone the sone.
+
+CAMILLO:
+Why for the sone the sone the sone the sone the sone.
+
+CAMILLO:
+Why for the sone the sone the sone the sone the sone.
+
+CAMILLO:
+
+---- Epoch: 9, loss=1.78, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou hang and the serthange,
+This my sheen all with to standioun wor thes.
+
+CAMILLO:
+No, and that he sar thy lands and his lord of merich
+I wire with hon my hanged in wise had hon mower to hust we caust of my faim it may shall here
+And tell, she them and that them thy larmed and seavant so me
+Alation an
+
+---- Epoch: 9, loss=1.78, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the sone the sone the sone.
+
+PETRUCHIO:
+Why, I will the sone the sone the sone the sone the sone.
+
+PETRUCHIO:
+Why, I will the sone the sone the sone the sone the sone.
+
+PETRUCHIO:
+Why, I will the sone the sone the sone the sone the sone.
+
+PETRUCHIO:
+Why, I will the sone the sone the sone the s
+
+---- Epoch: 10, loss=1.73, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou, a till and ward his mander
+Wire you make ho well that with make thou well the suppentise.
+
+KINGELENTA:
+Thas your surs you sourse theer this fore
+I am sure high our thoust we my brean.
+
+KATHASTA:
+I and all bring heave as you, whar, you will will when.
+
+Lood:
+Will to by he him. Sundice off of the fi
+
+---- Epoch: 10, loss=1.73, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou do the ward the sone.
+
+LUCENTIO:
+Why, I will so for the son the sone the sone.
+
+LUCENTIO:
+Why, I will so for the son the sone the sone.
+
+LUCENTIO:
+Why, I will so for the son the sone the sone.
+
+LUCENTIO:
+Why, I will so for the son the sone the sone.
+
+LUCENTIO:
+Why, I will so for the son the sone th
+
+---- Epoch: 11, loss=1.69, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou her to the bark of home.
+
+SARISNI:
+I dishone is a mittior's care out to be shave the connot.
+
+KING RENCIA: Cansiess that home and will sell, but som to heart this, tarks all this for of
+
+CARISLE:
+I wall's boon's and what too here are by hense
+Whothar thou a tore as your take one housie though tells
+
+---- Epoch: 11, loss=1.69, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the hath the stands,
+And the stand the stand the stand the stand the hath the stand
+And the stand the stand the stand the stand the hath the stands,
+And the stand the stand the stand the stand the hath the stand
+And the stand the stand the stand the stand the hath the stands,
+And the stand the
+
+---- Epoch: 12, loss=1.68, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou som, to this lik of my,
+Then, the shall to sont the stall heaven the sour.
+
+BUCKINGHAS:
+Than, and here he stell a there that strive one wance
+I would tonest my serted wife though that here.
+
+CAMILO:
+No, sails our sence wisthate, with sure hears of thy home
+That she seed that have so fealless a pard
+
+---- Epoch: 12, loss=1.68, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the stands and the stand
+And the stand the stand the stand the stands and the stands,
+And the stand the stand the stand the stands and the stands,
+And the stand the stand the stand the stands and the stands,
+And the stand the stand the stand the stands and the stands,
+And the stand the stand t
+
+---- Epoch: 13, loss=1.63, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thought you think thom of the world,
+We conder this she hil leads in hands as men my stranger,
+And thinks that the sents my luef that thou that so a met.
+
+PETRUCHIO:
+Stinges, thou trink, sir. Comes,
+Some's all an weachis not some have to heart he wain
+this would the seed of thy words think.
+
+CLOFFID:
+I 
+
+---- Epoch: 13, loss=1.63, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the shall the shall heart
+That the shall the shall the shall the shall the shall the hands
+That the shall the shall the shall the shall the shall the hands
+That the shall the shall the shall the shall the shall the hands
+That the shall the shall the shall the shall the shall the hands
+That the
+
+---- Epoch: 14, loss=1.6, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou, a child.
+What, as that what it all the wards
+That the king in mering thise to stroughter
+Woult him and them her hisher thy life. Wall our bosters
+To beto my sone he bound it. Son thee, with your bangest, at houss
+Bo yeard is in one would not, arg this.
+
+CORIOLANUS:
+And whem that I spee that thou, 
+
+---- Epoch: 14, loss=1.6, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou hast the stand,
+That the stand the stand the stand the stand,
+That the stand the stand the stand the stand,
+That the stand the stand the stand the stand,
+That the stand the stand the stand the stand,
+That the stand the stand the stand the stand,
+That the stand the stand the stand the stand,
+That th
+
+---- Epoch: 15, loss=1.59, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou art to him.
+Why her from the cheaster to must che the cauls,
+They thank'd tell with her trumble to thy caust
+To might of think, whore he she they
+With have to the creasing of this.
+
+MENENIUS:
+In that thee so the senter,
+That here it on our corfore of all bet tooke their comants.
+And me trood to sen
+
+---- Epoch: 15, loss=1.59, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art to the prince
+That the stand the prince of the prince of the heart
+To make the prince of the prince of the prince
+That the stand the prince of the prince of the heart
+To make the prince of the prince of the prince
+That the stand the prince of the prince of the heart
+To make the prince of the pr
+
+---- Epoch: 16, loss=1.56, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art though they,
+That that them will things.
+
+PASPET:
+I had bes trait, I save him trance,
+Thire the shall being allone, and an werping.
+
+DUKE VINCENTIO:
+Ay, I am tow so find me thee shall no life,
+And them to myselfen of the prison, I had her to best
+This musting, the worly should broods for the solven wind
+
+---- Epoch: 16, loss=1.56, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou will be must be must
+The prople the consent of the prople the world
+The prople the consent of the prople the world
+The prople the consent of the prople the world
+The prople the consent of the prople the world
+The prople the consent of the prople the world
+The prople the consent of the prople the wo
+
+---- Epoch: 17, loss=1.56, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou his bades and a blace
+To shout a mind the cristres wards and beach,
+For were what is the life, I well as the warl
+To patting of the barth a death what instart.
+
+PETRUCHIO:
+So to thee weak you so fare, sir, is by the count
+Is nawing and mune as he sourn son,
+If all the son's; I say, buting in muth r
+
+---- Epoch: 17, loss=1.56, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou shall be the state,
+That shall be the state and the state and the state,
+That shall be the state and the state and the state,
+That shall be the state and the state and the state,
+That shall be the state and the state and the state,
+That shall be the state and the state and the state,
+That shall be 
+
+---- Epoch: 18, loss=1.53, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou shill been busing of his
+To this my brother we arior, the graching
+To the sunce their still of troops the rison
+To the seal'd to make my fore is alpent.
+
+BAPTISTA:
+I see him to see should have ans a bown, thought in the prople.
+
+KING HENRY VI:
+And, my goll, and must cannot another with a saur.
+
+BUS
+
+---- Epoch: 18, loss=1.53, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the stands,
+And the stand the stand the stand the stand the stand,
+And the stand the stand the stand the stand the stand,
+And the stand the stand the stand the stand the stand,
+And the stand the stand the stand the stand the stand,
+And the stand the stand the stand the stand the stand,
+And the 
+
+---- Epoch: 19, loss=1.53, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou all to my stretch:
+That thou way.
+
+MARIANA:
+It may the pass that how the counsers my
+To the past that shall to be are thee.
+
+Shepit:
+Tell, them how how here arms if I seem and tring
+O pupporam this a more.
+
+KATHARINA:
+I have nothes, and her have be some hate
+Is them a had holld indreased man are.
+
+
+---- Epoch: 19, loss=1.53, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the propertion
+That the state and the prople and the proper the proper
+That the state and the prople and the propertion
+That the state and the prople and the propertion
+That the state and the prople and the propertion
+That the state and the prople and the propertion
+That the state and the propl
+
+---- Epoch: 20, loss=1.52, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou with stow the
+
+Lutch and will all my friends,
+And but thou drands to the world altend
+And, for I have deserther fortune the sunters
+That I sen some our strek a ment the stranitions,
+To the confence, so shall sound you may
+And than men to thy ciling be speed be thee
+That the bed, and will to death; 
+
+---- Epoch: 20, loss=1.52, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art to the world
+That the state and the state and the sent of the state,
+And the state and the state and the sent of the state,
+And the state and the state and the sent of the state,
+And the state and the state and the sent of the state,
+And the state and the state and the sent of the state,
+And th
+
+---- Epoch: 21, loss=1.5, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou say,
+To be an as indome indres it is makes.
+
+CURTIS:
+To the way to the poor.
+
+COMINIUS:
+Was thich;
+I did brother and her, where he shalt to brither'd his.
+
+SICINIUS:
+I darch,
+Within hell, sir.
+
+LARTHUMBORe:
+We shall say your good thise of my bost will best
+Upon the part of hersell, will so think.
+
+
+---- Epoch: 21, loss=1.5, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the fair souls
+That the state and the father the stand and the fair
+To the world the state and the fair so for the state,
+And the strange the state and the fair so for the state,
+And the strange the state and the fair so for the state,
+And the strange the state and the fair so for the state,
+An
+
+---- Epoch: 22, loss=1.49, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou alt their houst.
+To so, the confellow'd to my, they for you,
+Than my lord of the store; for you are the motter
+Though misere is the preasine.
+
+DUKE OF AUMERLE:
+No, I ald thy wood we as were a guiltity,
+And he would not bringled thin thy shounds to
+breed and son, what so it was when to see the marr
+
+---- Epoch: 22, loss=1.49, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the country.
+
+CORIOLANUS:
+What is the more to the perfore the common the counter
+And the state and the fair to the perfore,
+That we will be more to the prosence,
+The common the country to the prosence,
+The common the country to the prosence,
+The common the country to the prosence,
+The common th
+
+---- Epoch: 23, loss=1.47, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou seept the face,
+And that I have to thoused.
+
+PROSPERO:
+How in thyself man, the should tell your grace
+As to shake a shawled tires, we'll show yier.
+
+Provost:
+Thou art she hear and myself of him,
+And becold you are, and then hear them and sum.
+
+POMPEY:
+Then are not the service the charth as the were
+
+---- Epoch: 23, loss=1.47, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art thou art thou art thee,
+That shall be the strange of the strange of the stranger
+Than the strange of the strange of the stranged the state,
+And the strange of the strange of the strange,
+That shall be the strange of the strange of the stranger
+Than the strange of the strange of the stranged the
+
+---- Epoch: 24, loss=1.49, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou she is any, sument
+To some office in the saddess; as they stire
+Which wilts thou when, stay a frame thou dared,
+And stroughty with the chorses to the sadect.
+
+CLAUDIO:
+Not see, an in all of hang more as thou all,
+And his soldier than my for you and whose counsed
+Though to be to thee, the patters, a
+
+---- Epoch: 24, loss=1.49, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art thou art thee,
+And the strange the state and the strange the state,
+And the strange the state and the strange the state,
+And the strange the state and the strange the state,
+And the strange the state and the strange the state,
+And the strange the state and the strange the state,
+And the strange
+
+---- Epoch: 25, loss=1.45, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou art not that hears
+Which they shall be strenciage. I have demors
+For myself, before the was a the seem, sir.
+
+COMINIUS:
+This is an off my hangs, sir, as you have
+And woose the seritain in thee fortandes,
+And hear thee death that was, thou hose for streaks him
+he cheends as the were and the fairels 
+
+---- Epoch: 25, loss=1.45, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou ar
+
+---- Epoch: 26, loss=1.45, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou the werp
+The counters as a shower and tell my heart.
+I do my soul word of his father.
+
+LEONTES:
+They so it would straight.
+
+POLIXENES:
+I speak, I will see him as as are as
+I'll transo aly wond,
+The foen to the way, at thy soul and sound
+In the world be that wearing his sends tell you that this
+To b
+
+---- Epoch: 26, loss=1.45, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art thee,
+That with the world and so it is the sease.
+
+PETRUCHIO:
+I will be a seeming to the sease and stand
+The sendion of the sease of the sease.
+
+PETRUCHIO:
+I will be a seeming to the sease and stand
+The sendion of the sease of the sease.
+
+PETRUCHIO:
+I will be a seeming to the sease and stand
+Th
+
+---- Epoch: 27, loss=1.45, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou are thou thank'd and word
+Which it now,
+Say it to the more full'st too stown
+That shall tell him handstation.
+
+LUCIO:
+
+MONEO:
+What talls more on, so, then that thou saids
+Stand at thy face, but have a vendret,
+A lady that would to the deal disseeds to be
+but this somerering theer the baning some, w
+
+---- Epoch: 27, loss=1.45, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou art thou ar
+
+---- Epoch: 28, loss=1.43, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou, are
+palience to the stard, that's warrant tender alas
+In the world have the way to the will
+To make the willing his loss,
+Therefore have befter'd the resign the satters.
+
+CLAUDIO:
+She hasth weaking her looded of this fear
+To should high and hightent defend, at life
+I have see the woman's sup in hi
+
+---- Epoch: 28, loss=1.43, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou will not stay
+The sender the father to the country thee,
+That the strange of the country to the counter.
+
+LUCIO:
+I am the senter that the sen the country.
+
+LUCIO:
+I am the senter that the sen the country.
+
+LUCIO:
+I am the senter that the sen the country.
+
+LUCIO:
+I am the senter that the sen the cou
+
+---- Epoch: 29, loss=1.44, lr=0.005 ----
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou weary to briaf
+That witt the peace, but we shoused to be speed
+Where a caunes, worship of treasune.
+
+DUKE VINCENTIO:
+That we day speach; I'll be son.
+
+PETRUCHIO:
+And this bodor, I will be a brother burn.
+The world have been sounded at his soul.
+Wouct thou didless one world and state
+Thou will not b
+
+---- Epoch: 29, loss=1.44, lr=0.005 ----
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou art to me,
+And there is the world and the father and the
+charge the strange of the world and the fair son,
+And there is the strange of the world and the
+charge the strange of the world and the fair son,
+And there is the strange of the world and the
+charge the strange of the world and the fair son,
+
+

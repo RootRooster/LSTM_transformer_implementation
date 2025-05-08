@@ -5,15 +5,28 @@ import numpy as np
 from torch.utils.data import Dataset
 
 
+class LinearSum(nn.Module):
+    def __init__(self, input_dim, hidden_dim) -> None:
+        super().__init__()
+        self.linear1 = nn.Linear(in_features=input_dim, out_features=hidden_dim)
+        self.linear2 = nn.Linear(in_features=hidden_dim, out_features=hidden_dim)
+
+    def forward(self, x, h1):
+        return self.linear1(x) + self.linear2(h1)
+
+
 class LSTMCell(nn.Module):
     def __init__(self, input_dim, hidden_dim, output_dim):
         super(LSTMCell, self).__init__()
-
         self.input_dim = input_dim
         self.hidden_dim = hidden_dim
         self.output_dim = output_dim
-
-        ## TODO: Initialize the necessary components
+        self.linear_sum1 = LinearSum(self.input_dim, self.hidden_dim)
+        self.sigmoid = nn.Sigmoid()
+        self.linear_sum2 = LinearSum(self.input_dim, self.hidden_dim)
+        self.linear_sum3 = LinearSum(self.input_dim, self.hidden_dim)
+        self.linear_sum4 = LinearSum(self.input_dim, self.hidden_dim)
+        self.tanh = nn.Tanh()
 
     def forward(self, x, C, h):
         # x - batch of encoded characters
@@ -23,7 +36,25 @@ class LSTMCell(nn.Module):
         # Returns: cell state C_out and the hidden state h_out
 
         # TODO: implement the forward pass of the LSTM cell
-        pass
+
+        # calculate the input cell
+        i = self.linear_sum1(x, h)
+        i = self.sigmoid(i)
+
+        # calculate forget cell
+        f = self.linear_sum2(x, h)
+        f = self.sigmoid(f)
+
+        # calculate output gates
+        o = self.linear_sum3(x, h)
+        o = self.sigmoid(o)
+        g = self.linear_sum4(x, h)
+        g = self.tanh(g)
+
+        # update internal state
+        C = f * C + i * g
+        h = o * self.tanh(C)
+        return C, h
 
 
 class LSTMSimple(nn.Module):
@@ -35,17 +66,25 @@ class LSTMSimple(nn.Module):
         self.hidden_dim = hidden_dim
         self.output_dim = output_dim
 
-        ## TODO: Initialize the LSTM Cell and other potential necessary components
-        # You can use a nn.Linear layer to project the output of the LSTMCell to
-        #
-        #
+        self.lstm_cell = LSTMCell(self.input_dim, self.hidden_dim, self.output_dim)
+        self.proj = nn.Linear(self.hidden_dim, self.output_dim)
 
     def forward(self, x):
-        # x - One hot encoded batch - Shape: (batch, seq_len, onehot_char)
+        """
+        x - One hot encoded batch - Shape: (batch, seq_len, onehot_char)
 
-        # Returns the predicted next character for each character in the
-        # sequence (outputs), also returns the cell state and hidden state of the
-        # LSTMCell call on the last character. -- outputs, (c,t)
+        return
+        """
+        batch_size = x.size(0)
+        device = x.device
+        h = torch.zeros(batch_size, self.hidden_dim, device=device)
+        C = torch.zeros(batch_size, self.hidden_dim, device=device)
 
-        # TODO: Implement the forward pass over the sequenece of characters
-        pass
+        outputs = []
+        for t in range(min(x.size(1), self.seq_length)):
+            x_t = x[:, t, :]
+            C, h = self.lstm_cell(x_t, C, h)
+            out = self.proj(h)
+            outputs.append(out)
+        outputs = torch.stack(outputs, dim=1)
+        return outputs, (C, h)

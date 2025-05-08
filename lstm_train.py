@@ -14,14 +14,14 @@ from torch.autograd import Variable
 from torch.utils.data import DataLoader
 
 
-def greedy_sampling_lstm(lstm, x, num_chars):
+def greedy_sampling_lstm(lstm, x, num_chars, device):
     # x -- b x onehot_char
     outputs = torch.zeros((1, num_chars, x.shape[2]))
     t_outputs, (cell_state, hidden) = lstm(x.float())
     for c in range(num_chars):
         output_tmp = torch.softmax(lstm.proj(hidden), dim=1)
         top_ind = torch.argmax(output_tmp, dim=1)[0]
-        tmp = torch.zeros_like(x[:, 0, :]).cuda()
+        tmp = torch.zeros_like(x[:, 0, :], device=device)
         tmp[:, top_ind] = 1
         outputs[:, c] = tmp
 
@@ -29,7 +29,7 @@ def greedy_sampling_lstm(lstm, x, num_chars):
     return outputs
 
 
-def topk_sampling_lstm(lstm, x, num_chars):
+def topk_sampling_lstm(lstm, x, num_chars, device):
     # x -- b x onehot_char
     outputs = torch.zeros((1, num_chars, x.shape[2]))
     t_outputs, (cell_state, hidden) = lstm(x.float())
@@ -37,7 +37,7 @@ def topk_sampling_lstm(lstm, x, num_chars):
         output_vals, output_ind = torch.topk(lstm.proj(hidden), 5, dim=1)
         output_tmp = torch.softmax(output_vals, dim=1)
         top_ind = torch.multinomial(output_tmp[0], 1)[0]
-        tmp = torch.zeros_like(x[:, 0, :]).cuda()
+        tmp = torch.zeros_like(x[:, 0, :], device=device)
         tmp[:, output_ind[0, top_ind]] = 1
         outputs[:, c] = tmp
 
@@ -47,7 +47,7 @@ def topk_sampling_lstm(lstm, x, num_chars):
 
 
 class LSTMDataset(Dataset):
-    def __init__(self, chunk_len=200, padded_chunks=False):
+    def __init__(self, device, chunk_len=200, padded_chunks=False):
         # Character based dataset
         dataset_path = "./input.txt"
         # The tokens in the vocabulary (all_characters)
@@ -59,6 +59,7 @@ class LSTMDataset(Dataset):
         self.file, self.file_len = self.read_file(dataset_path)
         # Sequence length of the input
         self.chunk_len = chunk_len
+        self.device = device
 
     def read_file(self, filename):
         file = unidecode.unidecode(open(filename).read())
@@ -89,16 +90,22 @@ class LSTMDataset(Dataset):
         # The target string is the same as the
         # input string but shifted by 1 character
         target = self.char_tensor(chunk[1:])
-        inp = Variable(inp).cuda()
-        target = Variable(target).cuda()
+        inp = Variable(inp).to(self.device)
+        target = Variable(target).to(self.device)
         return inp, target
 
 
+# make sure that we can use the accelerator
 device_name = "mps"
+if torch.accelerator.is_available():
+    device = torch.device(device_name)
+else:
+    raise Exception("No accelerator is available")
+
 batch_size = 256
 chunk_len = 128
 model_name = "LSTM"
-train_dataset = LSTMDataset(chunk_len=chunk_len)
+train_dataset = LSTMDataset(device, chunk_len=chunk_len)
 trainloader = DataLoader(
     train_dataset, batch_size=batch_size, num_workers=0, drop_last=True
 )
@@ -110,19 +117,12 @@ output_dim = train_dataset.n_characters
 learning_rate = 0.005
 model = LSTMSimple(chunk_len, input_dim, hidden_dim, output_dim, batch_size)
 model.train()
-
-# move to macbook gpu
-if torch.accelerator.is_available():
-    device = torch.device(device_name)
-    model.to(device)
-else:
-    raise Exception("No accelerator is available")
+model.to(device)
 criterion = nn.CrossEntropyLoss()
 
 optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
 epochs = 30
-
 
 for epoch in range(epochs):
     with tqdm(
@@ -152,8 +152,8 @@ for epoch in range(epochs):
         # Intermediate output
         sample_text = "O Romeo, wherefore art thou"
         inp = train_dataset.char_tensor(sample_text)
-        sample_input = Variable(inp).cuda().unsqueeze(0).float()
-        out_test = topk_sampling_lstm(model, sample_input, 300)[0]
+        sample_input = Variable(inp).to(device).unsqueeze(0).float()
+        out_test = topk_sampling_lstm(model, sample_input, 300, device)[0]
         out_char_index = torch.argmax(out_test, dim=1).detach().cpu().numpy()
         out_chars = sample_text + "".join(
             [train_dataset.all_characters[i] for i in out_char_index]
@@ -161,7 +161,7 @@ for epoch in range(epochs):
         print("Top-K sampling -----------------")
         print(out_chars)
 
-        out_test = greedy_sampling_lstm(model, sample_input, 300)[0]
+        out_test = greedy_sampling_lstm(model, sample_input, 300, device)[0]
         out_char_index = torch.argmax(out_test, dim=1).detach().cpu().numpy()
         out_chars = sample_text + "".join(
             [train_dataset.all_characters[i] for i in out_char_index]
