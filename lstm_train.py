@@ -11,7 +11,7 @@ import unidecode
 import string
 import random
 from torch.autograd import Variable
-from torch.utils.data import Dataset
+from torch.utils.data import DataLoader
 
 
 def greedy_sampling_lstm(lstm, x, num_chars):
@@ -94,11 +94,12 @@ class LSTMDataset(Dataset):
         return inp, target
 
 
+device_name = "mps"
 batch_size = 256
 chunk_len = 128
 model_name = "LSTM"
 train_dataset = LSTMDataset(chunk_len=chunk_len)
-trainloader = torch.utils.data.DataLoader(
+trainloader = DataLoader(
     train_dataset, batch_size=batch_size, num_workers=0, drop_last=True
 )
 
@@ -109,13 +110,19 @@ output_dim = train_dataset.n_characters
 learning_rate = 0.005
 model = LSTMSimple(chunk_len, input_dim, hidden_dim, output_dim, batch_size)
 model.train()
-model.cuda()
 
+# move to macbook gpu
+if torch.accelerator.is_available():
+    device = torch.device(device_name)
+    model.to(device)
+else:
+    raise Exception("No accelerator is available")
 criterion = nn.CrossEntropyLoss()
 
 optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
 epochs = 30
+
 
 for epoch in range(epochs):
     with tqdm(
