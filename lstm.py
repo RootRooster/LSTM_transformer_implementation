@@ -49,6 +49,3 @@ class LSTMSimple(nn.Module):
 
         # TODO: Implement the forward pass over the sequenece of characters
         pass
-
-
-torch.zeros()
