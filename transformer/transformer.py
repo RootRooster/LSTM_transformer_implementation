@@ -10,9 +10,17 @@ from torch.autograd import Variable
 from torch.utils.data import Dataset
 from tqdm import tqdm
 import torch.optim as optim
-
-
 import math
+
+# set the device
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+else:
+    device = torch.device("cpu")
+
+print(f"Using device: {device}")
 
 
 class PositionalEncoding(nn.Module):
@@ -28,7 +36,7 @@ class PositionalEncoding(nn.Module):
         pe[:, 0::2] = torch.sin(position / div_term)
         pe[:, 1::2] = torch.cos(position / div_term)
         pe = pe.unsqueeze(0)
-        self.pe = pe.cuda()
+        self.pe = pe.to(device)
         self.pe.requires_grad = False
 
     def forward(self, x):
@@ -58,13 +66,16 @@ class ScaledDotProductAttention(nn.Module):
         # matrix of dimensions (length x length) after the scale operation
         # in Figure 2 of the paper.
         self.mask_opt = AttentionMasking(max_len)
+        self.max_len = max_len
 
     def forward(self, q, k, v):
         # length = number of input tokens
-        batch_size, num_heads, length, num_neuron = k.size()
-        # TODO: Implement the scaled dot product attention as described in
-        # the Attention is all you need paper in Equation 1
-        pass
+        # batch_size, num_heads, length, num_neuron = k.size()
+        qkt = torch.matmul(q, k.transpose(-2, -1))
+        qkt = qkt / math.sqrt(self.max_len)
+        qkt = self.mask_opt(qkt)
+        qkt = self.softmax(qkt)
+        return torch.matmul(qkt, v)
 
 
 class MultiHeadAttention(nn.Module):
@@ -72,9 +83,11 @@ class MultiHeadAttention(nn.Module):
         super(MultiHeadAttention, self).__init__()
         self.n_head = n_head
         self.num_neuron = num_neuron
-
-        # TODO: Initialize the ScaledDotProductAttention and other
-        # necessary components.
+        self.scaled_dot_product = ScaledDotProductAttention(max_len)
+        self.linearq = nn.Linear(dim_model, num_neuron * n_head)
+        self.lineark = nn.Linear(dim_model, num_neuron * n_head)
+        self.linearv = nn.Linear(dim_model, num_neuron * n_head)
+        self.linearf = nn.Linear(num_neuron * n_head, dim_model)
 
     def split(self, tensor):
         batch_size, length, total_dim = tensor.size()
@@ -96,9 +109,15 @@ class MultiHeadAttention(nn.Module):
         return concat_tensor
 
     def forward(self, q, k, v):
-        # TODO: Implement the Masked Multi-head attention module as described in the
-        # Attention is all you need paper in Figure 1 and Section 3.2.2.
-        pass
+        q = self.linearq(q)
+        k = self.lineark(k)
+        v = self.linearv(v)
+        q = self.split(q)
+        k = self.split(k)
+        v = self.split(v)
+        qkv = self.scaled_dot_product(q, k, v)
+        c = self.concat(qkv)
+        return self.linearf(c)
 
 
 class PositionFeedForwardNet(nn.Module):
@@ -225,8 +244,8 @@ class TextDataset(Dataset):
         # the idea is to predict next token for each token in the input sequence
         # therefore if the input is [1,2,3,4] the target is [2,3,4,5]
         target = torch.LongTensor(chunk[1:])
-        input_tokens = input_tokens.cuda()
-        target = target.cuda()
+        input_tokens = input_tokens.to(device)
+        target = target.to(device)
         return input_tokens, target
 
 
@@ -248,7 +267,7 @@ def topk_sampling_iter_transformer(model, x, num_chars, chunk_len, output_token)
         # int
         out_char_index = output_ind[0, top_ind]
         # int -> 1
-        out_char_index = torch.ones(1).cuda() * out_char_index
+        out_char_index = torch.ones(1).to(device)
 
         outputs[:, t] = out_char_index.item()
         if inp.shape[1] > chunk_len:
@@ -292,7 +311,7 @@ learning_rate = 0.0006
 
 model = TransformerSimple(chunk_len, input_dim, output_dim, batch_size)
 model.train()
-model.cuda()
+model.to(device)
 
 criterion = nn.CrossEntropyLoss()
 
@@ -332,12 +351,12 @@ for epoch in range(epochs):
             "I say unto you, what he hath done famously, he did it to that end:",
             "That in submission will return to us: And then, as we have ta'en the sacrament,",
         ]
-        output_token = torch.zeros(1, 1).cuda()
+        output_token = torch.zeros(1, 1, device=device)
         output_token[0, 0] = train_dataset.n_characters - 1
         print("Top-K sampling")
         for sample_text in sample_texts:
             sample_encoding = train_dataset.encode_text(sample_text)
-            sample_input = Variable(sample_encoding).cuda().unsqueeze(0).long()
+            sample_input = Variable(sample_encoding).to(device).unsqueeze(0).long()
 
             # out_test= greedy_sampling_iter_transformer(model, sample_input, 400, chunk_len, output_token)[0]
             out_test = topk_sampling_iter_transformer(
