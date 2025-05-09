@@ -103,7 +103,7 @@ else:
     raise Exception("No accelerator is available")
 
 batch_size = 256
-chunk_len = 128
+chunk_len = 64
 model_name = "LSTM"
 train_dataset = LSTMDataset(device, chunk_len=chunk_len)
 trainloader = DataLoader(

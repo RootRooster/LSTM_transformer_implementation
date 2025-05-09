@@ -1,0 +1,4362 @@
+
+Using device: mps
+torch.Size([128])
+Training - Epoch: 0/50: 10240chunks [00:14, 930.21chunks/s, loss=2.56, lr=0.0006, run:=Transformer]                                                                          Top-K sampling
+----------------------------------------
+What authority surfeits on ghe t aresthis
+
+
+TARINoule here hous are and, at mingerendisthithong m that th anghe tounge heanth t t her hererinond thealiteritheand meas
+Thisesthis,
+
+
+I tororengh st torengor wis my,
+Th theang stestonerere te me arer me mond te ath tereres, arerer hitorend mathen are s tenothit t th me t than t sen hondis s steandoringe st anghongoust tit t ando tenes tint hilinthin minthe hat sthitithealotes s
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whe tor teroust and the these arerithong th me me mat an stheare ast hilerestherath se thendinderess s moutonge s thand,
+
+INTh witis,
+
+Tous athe andendond stit weroulour store me thise thangre thind tilerere the h andes marat s mat touth s anererinenend, stout mound wonde to thenghende s the wotinouss we w wine ssthor the alourengong merore ares,
+Ther then s tho t arerore we sothallis s s whe t a
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+
+
+I s he then his s wiling wind weanthere hes myore t han this s he tis hour s mis mas t tero the teres aris s s alat as me he his,
+AUCin athongathent t s thinou s,
+
+
+INGorong he s,
+ARICongre withereno wil t therer st s whe my.
+ARELARESARA: seat ss t tere aver tind, t ate therite s wit s we are at atore mas aro this,
+
+
+
+
+Wherer hen hereare this wourond hite he t h moring th thearourer mes me houl
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on d the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the th
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+
+
+
+
+
+
+
+
+
+
+
+
+ARINoure the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARININININININININININININININININININCENTINTINTINTINTINTINTINTINTI I I I I I I I I I I I I I I I I I INTINTINTINTINTINTINTINTINTINTINTINTINTINTINTINTI I I I I I I I I I I I I I I I I I I I I INTINTINTINTINTINTINTINTINTINTINTINTINTINTINTINTI I I I I I I I I I I I I I I I I I I I I INTINTINTINTINTINTINTINTINTINTINTINTINTINTINTINTI I I I I I I I I I I I I I I I I I I I I INTINTINTIN
+Training - Epoch: 0/50: 10240chunks [00:25, 398.09chunks/s, loss=2.56, lr=0.0006, run:=Transformer]
+Training - Epoch: 1/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 741.55chunks/s, loss=2.41, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on d toneat
+Than whe thear seren mour my anthinester t ater wer marsto there te seas min won tith sth ane worond malo sthisthert s
+I as tore ast tiloris therdith m te wateas won mesereresendeared
+To with s s mis whofounds alld seatingear mes wilorse whe thas se mateand malofe
+Ange angr mand.
+Therstirs m at tousthear s, sendeates this me s meres, andear thinthang s th aro s matingh s
+Te tous ant atin
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Te seare worenthe we mert alithe t atenss t t thasterile to s to anengr oneatito wers
+And seang se toneand s worestinterd tor s, war the mor manonthed at toun st mengenore arerd anthatond al s mease at mond wanthend to athitese m men sthe atiro te anthe serdstours s
+And mereatonger mende man t tithor wing arers were to to arthe serde arte werdo wean the whatous wares tound wintir tes s tho mersth
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+
+Wis an m my s wa sthencand the anerien whine tis tho ante winge me wo wo tind t s tis men atin mare s
+Thathathitea ste my wont h he wa thisto men he we asterithesenes mers he to min t my m me herere the ano alo my minous ar mise thour wands mis has
+To me te hese a mof m meriseat t atirende tho the s his asthers hiton tean myo wo s
+
+Thengr tha st te sthistend arinde ma man s te arenghis s wir s s
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on ghe and and the the the and the the the the the the the the the se sererere se serere the se the se the the se the the se the the se the sere serere se the the se se there the se the the se the sere the the the s se therere se the the se se there se the the se the sere sere the the the s the se there se the se there se the se the sere the se the the se the sere the se the sere the se the se there
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whe the s the the the the the the se se sererere the the se the se sererere se the the se the the se the the sere sere the se the the the se sererere se the se the the se the the se sererere se the the se the the se sererere se the the se the the se the sere serere the se the the se the sere serere the se the the se the sere the sere the se the sere the sere the se the sere the the se the sere th
+Training - Epoch: 1/50: 10240chunks [00:24, 741.55chunks/s, loss=2.41, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The t t t t t t t t the the the the the the the the the the the the the s s s s s the the seano the the the s the the s s the the the the the the s the the s the the s the s s the the se the the se the the s the the s the s the the s the the s s the the the se the the s s the the the s the the s the the s the the s the the s s the the the s the the s se the the the s the the s the the s the s the
+Training - Epoch: 1/50: 10240chunks [00:25, 396.68chunks/s, loss=2.41, lr=0.0006, run:=Transformer]
+Training - Epoch: 2/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 739.79chunks/s, loss=2.15, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the alll.
+
+CAMICANGS:
+ARe he whis thim s mone thowe somin the,
+Wilangh athis t athe m me senotheese s touringh, he t asusullls s hators serene areat.
+
+Gor LERICHAUME:
+Wend s aton sto, teeare t tatoun sthen me thee sean brest teseat bre
+Toto athere serer a alofor se tofee sendenear ten hourer
+Tonter hee athe at hateen tearto t thanoo atherst seancke
+Whe tomy searere hit tee mather be ashond the al
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I anoure t tondelo men sotre hourest tis hendave t
+Whimundichth an the ste tousoo my meronte sices t, menoncre thimes as
+Tounde mend arinerd hat hathe my mathome s senofotost
+Whend ase sthathe t hearoughas ave are torened tiorth.
+
+
+
+CAULIULOLUM:
+
+S:
+TRENo s ICAneelardst t sito to har t tharure he seee s aveave ande bends bucarind
+Wht hanorsers an ave avenoully stoour t matonind t tito arerdon ayo
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+I we to ste we we wire tho a thyoutoust th as the he wne he he teeatourene hease he
+Th h t w he histhereatounoueathe an a at h h at send ave whe than han we t sthe s
+Tithoouleato hime s s sh w at the woustooouthee tho he s t
+As s s at minounouso misthe ss t b h t t he hiseeatourouthee hy he,
+
+I h se sher steereatrous t t teat t te t, wenea s ande ane hen se tee thindsten
+
+Tutit he wise the at and
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e the the the the the the the the thee t theathe t theat t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t theathe t t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The the theathe t theathe t theathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe t theeathe
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+
+The t t t t t t the theatheatheathee the t t t t t t the theeeatheatheeeee the t t t t t t theeeeeeeatheatheeee t t t t t t t t theeeatheatheatheee t t t t t t t t theeeeatheatheathee t t t t t t t t theeeeatheatheathee t t t t t t t t theeeeatheatheathee t t t t t t t t theeeeatheatheathee t t t t t t t t theeeeatheatheathee t t t t t t t t theeeeatheatheathee t t t t t t t t theeeeatheatheathe
+Training - Epoch: 2/50: 10240chunks [00:25, 400.70chunks/s, loss=2.15, lr=0.0006, run:=Transformer]
+Training - Epoch: 3/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 742.39chunks/s, loss=1.99, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  ther.
+Shat hat thavou have me my so shay sthild t tino t the dreeat are
+Whow, shilow t do sto branook d tofo he m doff droray
+Thom hat mpare ase ound hourd dave stound do so soulf
+Thave werrds, anought sthe me dous strime ond theat.
+Whavalll manows me mend arof m ham te sofof t tho dapestes.
+Thalought t tofo t moro deno mato denof arre, meay
+Astherer stould take, wooond see daroud he soun dale,
+T
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Anour havought.
+
+To MINTRENRIO:
+W:KI t thoo se mendarrs t orithes.
+We ancallours, t mise me thase s ayourr d, tore sthay d meave.
+Therave t, so to akire d woferd d toray am,
+Tise me arore agusioord t mearo m, this m avasthale.
+
+Horrstingg, aroftht anoundss aive t thoun me thisough.
+Th sere dofof hthe searavace, ano mp anaser aras isting iend a tounde seare.
+Tho s thano shale at sealad d theave se
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Why st wance it m thatho a ate o the she t the din m wivato s s meave tthe the wofuco thind he the angh t athavoure t he
+As s w h aveanougoundee de w h t ad s aneathatheee heatit w
+Wh t t wshe t o weatheathoure dof h an t d ate avisthano we blo t h.
+Th t the se doou Rave ste mave h t I hifo are dase houghom tt thay t s
+Winghy sthis da wat ouave ave t woun we ht s toupe ho de a thean t t sthist wi
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the so the so the so the so the so thee stof thee stourd,
+That se mande the sthe sealll tof the me the sthe sealll
+Thave s too the sealll tof the me store the sealll tof the me the sthe sealll
+Thave s too the sealll tof the me store the sealll tof the me the sthe sealll
+Thave s too the sealll tof the me store the sealll tof the me the sthe sealll
+Thave s too the sealll tof the me store the sealll
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The t souprd t ano t theand t theave s toure d thave m dousthe derear
+Thave s soure d thave m dousthe d sound d anoff t theave d theave t theathe t sound deave
+That s sound deand t theave s toure d thave m dousthe derear
+Thave s soure d thave m dousthe d sound d anoff t theave d theave t theathe t sound deave
+That s sound deand t theave s toure d thave m dousthe derear
+Thave s soure d thave m dou
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The t t t t t t the sea thea theathe t t t t t t t t thea thea thea the st t st t t the touea theano the d t t t t t theeeathea theathe st t t t t t t touea thea thea the t t t t t sthe seea thea theavee t t t t t t t t theeea thea theathe st t t t t t t touea thea thea the t t t t t sthe seea thea theavee t t t t t t t t theeea thea theathe st t t t t t t touea thea thea the t t t t t sthe seea
+Training - Epoch: 3/50: 10240chunks [00:25, 400.95chunks/s, loss=1.99, lr=0.0006, run:=Transformer]
+Training - Epoch: 4/50: 100%|██████████████████████████████████████████████████████████████▉| 9984/10000 [00:14<00:00, 725.14chunks/s, loss=1.8, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on
+there, the he wen thy be the thone, anow
+Thangshion h thist alll his t this shis alll
+I to be theent to the trathen sthelly.
+
+WANTICES:
+Thou hadlld be tte suclll ond tranows an by hone
+If t hender hane thye thanke to are thinght:
+To he twear athe win as benow.
+
+
+
+SICICINIS:
+But'ders ave menow ade t mearthen, and
+I have d his winde is ar the steeeer:
+Why here chent welll hes band the denow
+Therd w
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Theave t theeent owet s anond t ano tt a hind
+s theme d thustave t a thowe shallll.
+
+And thist d stheno st arangunt ors t,
+Ano s wee arrme t ano t bunden tistt a allldow
+And tamy the senows arand t thenere t thathe the shemave.
+
+
+
+SCUCLAMIO:
+ARo,
+
+Thourst hanglave and are t anond t thounke o the
+Tour chave t dono thert streent.
+
+
+Whonon thend t trenon arre by tound here t,
+Ano butht t dumancte ti
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+I t t t onchen tino tho towave hen t t the ar the ane the de he st t then thead
+Ano then towarthin the he h th an thin d weavee d the buthen
+Thathavest t s he h w t anuno tridoneatwis b tht tt
+An h hathe denatheme thend win t ben theisthy an thee ough
+Were whin he o s sthe hat heeave bup he hime tht it on the t thee t
+I be havendeeastheen the t t ous h t avein ther be dant
+The t t heanttis heathi
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the the stay
+The the the stal the the the deave the thee d theat
+The shalll t the the deave the the thee d theat the
+The shalll t the the deave the the thee d theat
+The shalll t the the deave the the thee d theat the
+The shalll t the the deave the the thee d theat
+The shalll t the the deave the the thee d theat the
+The shalll t the the deave the the thee d theat
+The shalll t the the deave the the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Thenouse t thenour the heave t thean t thenour theave t
+Then theat t thenou t thenour theave t theen t
+To thenou t thenour the deave thenou t theand t
+Then theat t thenou t thenour theave t theen t
+To thenou t thenour the deave thenou t theand t
+Then theat t thenou t thenour theave t theen t
+To thenou t thenour the deave thenou t theand t
+Then theat t thenou t thenour theave t theen t
+To thenou t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The t t t t t t theano theno thenou t t t t the t theeeeeeeno thene t t
+Th t the t theeeneathenenene t t t t t t t theeeeeeeno thenen t t
+Th t the t theeeneathenenene t t t t t t t theeeeeeeno thenen t t
+Th t the t theeeneathenenene t t t t t t t theeeeeeeno thenen t t
+Th t the t theeeneathenenene t t t t t t t theeeeeeeno thenen t t
+Th t the t theeeneathenenene t t t t t t t theeeeeeeno thenen t
+Training - Epoch: 4/50: 10240chunks [00:25, 395.63chunks/s, loss=1.8, lr=0.0006, run:=Transformer]
+Training - Epoch: 5/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 741.78chunks/s, loss=1.74, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the such stir.
+
+SATA:
+A shoull berng ithimed off atherer then, out havim are ofthor ment
+To thenke tooo me mon outher ounghis mistraner the our
+Ithers and mon tout and are at therem too the dongs.
+
+
+COMIUS:
+Wend mysered, sund my murd be there anond angeran,
+And brooy, ang that toughter things athys sprouce.
+
+ThORUCHAMIO:
+Anotst theeen.
+
+
+LOUCESTIO:
+How sorave me mase too make thou desp. There man
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Wetre thyouse, t'tro atourr herencerst, and and marry tousth trume therous arelus ande
+Wellll ount hise oreaver t theat arthais t therise;
+As and anoff st taime t too memarrtous,
+Thake t ooutherser, angrery s foreee sheee pthosere
+Tous andot t therough t ononk avermen t thournghars.
+
+A STISTINGLANGS:
+Ae t thiserenge, thisp atidrry is t therire on anour mathangh,
+Thours trigutthty truelave ttoo me
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament, .
+We he ouns t, s thend he avitheaven tisee m y y t. s ant myouseneat Tond me
+An t on t mitouthastemyonooutth is t t h t t oooun to sthe theme.
+Theend seate t ouen t t hed t the touenouseenouse t at t.
+
+Wat aren he wheatchyoutsust ts sst t at ourengurondo t t he he,
+Is menounooneaven be het t h out thinengrende thenous ous in t t ar
+Asp tean oooooumoft tts, the on t titheanoure he this t, h in tha
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the the shall the shall the shall the them tourther them tourther there them touth
+There the shave thee streengther them tourther there them tourther them touth
+There the shave thee streengther them tourther there them tourther them touth
+There the shave thee streengther them tourther there them tourther them touth
+There the shave thee streengther them tourther there them tourther them touth
+Ther
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+There t theat thenoure t tourme tourrther theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat theme t toume there t tourme theat t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The t t t t t thenoueatheeeeeene t t t t t t t toueeeeeeeeeeeeeee th t t t t t t theeatheeeeeeeeeee t t t t t t t theeeeeeeeeeeeeeee se t t t t t t t treeeeeeeeeeeeeeeeeees t t t t t t t theeeeeeeeeeeeeeee se t t t t t t t treeeeeeeeeeeeeeeeeees t t t t t t t theeeeeeeeeeeeeeee se t t t t t t t treeeeeeeeeeeeeeeeeees t t t t t t t theeeeeeeeeeeeeeee se t t t t t t t treeeeeeeeeeeeeeeeeees t t t t
+Training - Epoch: 5/50: 10240chunks [00:24, 418.04chunks/s, loss=1.74, lr=0.0006, run:=Transformer]
+Training - Epoch: 6/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 742.04chunks/s, loss=1.59, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e of,
+Wereice this wind the didseling a of my my brothes
+Ass too the shince tearn time o at me ade.
+
+
+METHUCAMIO:
+Willlowa, the welchames our there hand, since,
+Has have m adongery all boacks anour.
+
+
+MENENA:
+There stoors house homad tears time to share
+Ageeth teelloow oof ckilll treeest.
+
+I seear tuman:
+And beshacele t in my sellf tiee.
+
+And merrry and may me adid ins inn an
+We care of the weards
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whowerere t, sinay in allany our
+Fowillence.
+
+
+
+PROMERY:
+Weellll:
+
+I'llll weare then t anond o thou chare t thathe
+We harstho ave m theee t sthane ow ours t.
+
+Thane steempt teear:
+Wandarerer t theat so trruchadss ians teleee t amee
+Wissthaich wout t oumys tano angue t asthanges
+And mandrining anore thyough onor cceetsst yoour chale t talengue
+And speake andond anownceroud at me onsce.
+I s seeeee
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Thy wee th an o see asheatre s wit theere anchins theire onshe tste h,
+Ance te hingoue hond seans oo he theee h t w meeave sspeathin tthy
+Thon onceysteeeeee t t t t ont t heeanuno stheeeeeave h.
+
+
+
+Fe t h t seavonoreaveathe ath's t th' th ind tee suee sthe wit t anthingeeeathine t t,
+An t t t anouneand bea tist otsthe id ath o t me han annge whinee hist
+Foweatht sher weear thereeee he h ousei are
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e the shall the shall be
+The shall be the heave thee heave thee heave theee heave
+And the heave thee heave thee heave thee heave theee heave
+And the heave thee heave thee heave thee heave theee heave
+And the heave thee heave thee heave thee heave theee heave
+And the heave thee heave thee heave thee heave theee heave
+And the heave thee heave thee heave thee heave theee heave
+And the heave thee heav
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Weare the he shave w theat t ounde an tonde teelll,
+Wet thee se treave thee heear h anond t theee he heave herer t
+seeeeee t theat h ouspp anond t thee he spearecessss
+Weare the he spreacesss anond teellll anond teeee
+Theare t thean t oume h theath the seeave h theath h
+sheave thee heear h anond t thee he heave herer t
+seeeeee t theat h ouspp anond t thee he spearecessss
+Weare the he spreacesss a
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The t t t t t tineaneano theeeee th th the h h heeeeeeeeeeeaveave h h h h h h t theaneaveaveaveee t ts t t t t t theeeeeeeeeeeeeeee he h h h h h h heaveaveaveaveave th t t t t t t theeeeeeeeeeeeeeee he h h h h h h heaveaveaveaveave th t t t t t t theeeeeeeeeeeeeeee he h h h h h h heaveaveaveaveave th t t t t t t theeeeeeeeeeeeeeee he h h h h h h heaveaveaveaveave th t t t t t t theeeeeeeeeeeeeeee
+Training - Epoch: 6/50: 10240chunks [00:24, 415.16chunks/s, loss=1.59, lr=0.0006, run:=Transformer]
+Training - Epoch: 7/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 743.89chunks/s, loss=1.61, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e hath though'st is butt.
+
+BERSSCK:
+A more are so tarel iat, weas a that, whit m stay
+And be our should talin the the werlll. Worrld, who llead?
+
+
+ANGELO:
+O they seat to the thourth, sight one high and truie
+Ton torugh orthat wear and malorry whileng oor welll.
+
+
+KADWIF RDIV:
+
+There strengtho orthich, anor sone atherer welas,
+That an trust by orrthy with alance onf alls,
+That whiles tenrruchan wit
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Watarrraith to melige ane tonduran, teruchin,
+That stheror wsthinkng, out my arare t souce,
+Witrrrath the te slanred,-----
+
+Whirts man the athalle, in t thean we thou te selaf,
+Wetrarelliang onitrralaiow s, a traloatt and ta wilast.
+
+
+
+BENVESLLIO:
+
+Ay thane werar ane are anand, trelanaior t.
+
+
+
+PRICHAMPrd:
+I t lurungh'd, thath m werore adoff telame, the athat an warellt,
+An s warelll owe arrague
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Then haints ourre w wous out th, thert houthe tathin ourserse an th in,
+Wen, thellige s then tho att weenounee at s oullt.
+
+
+We ittre ighenirensstthat:
+Win at! t wain werrrrranoo tt hinthan an, akee th te in ithy atheangruean
+Aus wous t at, w in sth a we ine s a tin shithtouchaitinkis th
+As t ie, ag atreea than wis t ine t twatis o thea athe an wigre he t atwand iveathanon t,
+Hin t oughthifendrrr
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the way the way the way the way.
+
+KING HENRY VI:
+
+What shalll were the warrrring anor the thath the wat the wather another the thath the wat the wather another the thath the wat the wather another the thath the wat the wather another the thath the wat the wather another the thath the wat the wather another the thath the wat the wather another the thath the wat the wather another the thath the wat
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Ane watherer theath athe ire a a thanke anorther,
+An wellll awe tcorrrrowath, and talake t there thath m man
+To selave t theate are anond trelangerer athalerr anond trelanger.
+
+
+
+PETRUCHIO:
+
+Whath sthallll w there thath m man the thath me thathe m an trelangerer.
+
+
+
+PETRUCHIO:
+
+Whath sthallll w there thath m man the thath me thathe m an trelangerer.
+
+
+
+PETRUCHIO:
+
+Whath sthallll w there thath m m
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the t t t the seathatheano theath or t an the at theanouthe the the t,
+Anghe te theatheathen the th ou at the theathe he the the th ireathe the theat.
+An the the th thene the theathe the the the ougre the the the ouene thee the the here theatheatheaveathe t t at an t t thea the thelane the the the at,
+se the the t t theathe theatheathe ou the t ou athe he theathe here theath ire theathe th th
+Training - Epoch: 7/50: 10240chunks [00:24, 417.52chunks/s, loss=1.61, lr=0.0006, run:=Transformer]
+Training - Epoch: 8/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 735.65chunks/s, loss=1.59, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  than the prives tresen he shap'd
+That welcomedss andond, thought out that, and sweeet' belis,
+As trengeath, banid and sommesst to streely, but bear mondy.
+
+As Gis trun other this beats, thou hathth thath heath thust.
+
+ANGELO:
+This shavame it madamery alond herse and meas,
+And with hear haslly teschest bear thath meanty are
+I that dever thee have hotherst this burd.
+
+These touth:
+This head alack i
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Here haphost out thendse tano thele owe thele at
+speaked heerer athond to adon ways aifffuly,
+Thats stampps ait hand werasp aind t o thene
+And pleay our ppreriaced ausppondary, andond bearouth'd,
+Aus t seeerver icrrudantedss mascay tselee ttreais tursts.
+
+
+
+KING VELENTIUS:
+Tiratus t ito s teend adaumed,
+That shadilly withalle basttranish by trananges.
+Wit thath se taprre ithan t thouse bandash br
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  he theanit iout thave at is h
+Anke s ast t, thissthouthano we th we h ath stheatendeande twit, t's
+O, stithifus worele s at, t an bshaweandouthe ttingh his h wouee wat hershenddsthasthe'se
+Wes ben wen h trereletwitheere tad ty's t b tho thereneatheatwe'sthe ifus?
+
+
+
+Is we wht hit GANutthen he th LELLO:
+Iouthoshat SThand w st t y Ginithyseneeneaveatth, tsth w t,
+
+Thoouneenknde thousesthoust t atin
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the stand of the stay,
+That the shall bear and the seave the staver that the daughter's thate thate thate your handstery.
+
+
+PETRUCHIO:
+Thath shave your hasthing another and the seaves your hasthe
+Thath shave your hasthings and the seave your hasthe
+Thath shave your hasthings and the seave your hasthe
+Thath shave your hasthings and the seave your hasthe
+Thath shave your hasthings and the seave you
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The seaver y thase t thelathe athemerenty aselain,
+That sthave t thele t theate ore theath outh
+Thath sthave t thele head herere adeay thele t theate orese.
+
+
+
+PETRUCHIO:
+Thathe thasth aneath there thath there thath death,
+Thath sthave t thele head herere adeay thele t theate orese.
+
+
+
+PETRUCHIO:
+Thathe thasth aneath there thath there thath death,
+Thath sthave t thele head herere adeay thele t th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the tiout t thathe the outhenke the the h h an theeatheatheathe the y h h th the thathananeathe de th t t tst theadeatheatheene t,
+Th t t th atheathathelathe t t y y y t t theatheaueatheathe t,
+Th h at t theanousthe the the ath an the the de the the the theatheatheatheath th h h th th the stheatheatheatheave h h h h h th theathathatheathe d th t t th theatheathenene se th y y thestst thathath
+Training - Epoch: 8/50: 10240chunks [00:24, 415.41chunks/s, loss=1.59, lr=0.0006, run:=Transformer]
+Training - Epoch: 9/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 744.64chunks/s, loss=1.54, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e of this wordst the cannot an
+An both one houman askery menchives to them
+Than I have mine to anome many this:
+And shee have in itherran to heaven.
+
+ISABELLLA:Yourk me heavers?
+O withinestss armaises or than to therir thom tends.
+They wonds to beling too hyold mere tho
+To be heartseren in hims mouch off mean,
+Was were mevery's marrry, to a mind oldss
+These to heaven to ake theem.
+
+
+MEONTIO:
+Warre
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Were acre tumat irr anoume heleresss aforme
+Andamed andagume t a andamery, manarrcy.
+
+Werorrdshay:
+
+Thirsk man malimes terrrmy,
+And talauge are tangue ast to my hustrdined,
+Wherick mee temermp tano mene oveathed oof tearmbly
+We speecariong meneeaves, ine whathy
+Ant tamelken ane hisp andvonideded.
+
+Wererrk:
+I much inonst anonce are andany andvery titherin,
+I wayerrd nevirce tyondunghestst orene mo
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Thee hemed, atifouse here t anines he theadit thume thee or o
+I at be heathisprn pploneave ts tinintese.
+Tuco me t anchiffffffoveainstints CAnd ans, angstitudiffffiny
+Ane ingend ars ougithissssppppppp oouedes oititist of h ath ons
+Angenean hincr and the hople tinssthe spp t think
+Aneeaknonino and oved hings thininterens anouem t tsst,
+We me tatheeeeno hen the in h, isprrse sean the anovenspppppe
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e the comes
+That I have me been the stame on them them
+To make oncce oncce onck anong and my love.
+
+
+KING EDWARD IV:
+I was no marrry there thee for our hangstererss.
+
+
+KING EDWARD IV:
+I was no marrry there thee seach once onck anong
+And man my lovesty and man my lovest
+And man my lovesty and man my lovesty.
+
+
+KING EDWARD IV:
+I was no marrry there thee seach once onck anong
+And man my lovesty and m
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Were tcondunerers anond man me thene tememptiores,
+And man mastheringhanest anond mene or offf aince
+And man mastheringhanert anond man mere
+Than me thene tsemeelforsse andvery anond
+And man mastherererst to memeerrcy.
+
+
+
+KING RICHARD IIIIII:
+Welllcowessss, there theate orthemertst anond
+And man mastherererst to memeerrcy.
+
+
+
+KING RICHARD IIIIII:
+Welllcowessss, there theate orthemertst anond
+And
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Ankeave tintinifffuge t t tingengene thimenke thththe the tsthe teeeeaveeapeeeend t h
+Wh ts tsssto theathenooo t the the t ouguguneeaveeathint intsts
+An t ty the tindispuno theatinksty te te th ors
+Wendigumeathine thin ty tininge the theninke thene the or
+Ange the teeathend thenkend ar t tene t on theno themendithe thenee ts
+Ange te teeendind thendittthing tene ts orere o themiguchithithine ty
+Wi
+Training - Epoch: 9/50: 10240chunks [00:24, 412.04chunks/s, loss=1.54, lr=0.0006, run:=Transformer]
+Training - Epoch: 10/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 750.31chunks/s, loss=1.57, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e what she musty soul as talk.
+
+LUCIFIFFFORD:
+O, that myself, I amay thou heart?
+
+
+MERCUTIO:
+Therre as ide the siraly and hearthis?
+
+
+DUKE VINCENTIO:
+It would herre ass talitty therous with myself? I what croward
+Tome as there which tourthy.
+
+
+PrOLIXENES:
+What say you thank, younghamen's!
+
+WARWICK:
+Marrry an telll was that I shemally's wond,
+Mastherer a moust one house, my lorest thy warrs and,
+Te
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Aut s timy herere tustchan to sthildone memy aneamer anotamed
+To theme temirrre ait t, amellles.
+
+Wereread:
+Ono, thesust t thist isthaman's,
+Or a themenemiouss ourdldeney only aconderauced;
+Tit t wamy n treaigm t touth;
+I twondo man to scanonst man ondr thame heread,
+To thele overrlaious our hearthorses onld wathiterors
+And camest weares fondst thenk anothmuraine out off our oward;
+And felorsce a
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Theeait onitsstitre an o win o ane isoneandouthe he
+Tinstininesthendre o tioue t anemene auth o test.
+Tovitidinthy my we mersty ouenifounee t ane h,
+Ant ondithesthele twe tifue t oundeen tts tthist,
+Who itithirs we thelit t outhitherem o o te ongh, oneathevethe
+The thiter oue fun strth atuthe atweleithe unty t ts
+Ange atto thonistthelllllite o ane me t'st, thea twanitine t
+The my ous themyrathons
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e the thee stay of the stay
+That the dayst the duke off my theree of the theree?
+
+
+GLOUCESTER:
+
+Thath I made the man to there the dayst the touth,
+And there the surve the duke off my theree?
+
+
+GLOUCESTER:
+
+Thath I made the man to there the dayst the touth,
+And there the surve the duke off my theree?
+
+
+GLOUCESTER:
+
+Thath I made the man to there the dayst the touth,
+And there the surve the duke off
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Were tcondunerst ano theme tememple time there thame tememple
+These werere thane tememple ait t thele owe there theate orme
+Thale t thelat o theate tememple ait t thele owe there theate orme
+Thale t thelat o theate tememple ait t thele owe there theate orme
+Thale t thelat o theate tememple ait t thele owe there theate orme
+Thale t thelat o theate tememple ait t thele owe there theate orme
+Thale t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The tresttititise tireait ores t the ts the thenenousthene the tststs,
+Angere treanenond theeathenest te oue ten an thendithenemy the te teressseneatendutut.
+
+
+
+Th tst ty tiseairenoutheno t tht:
+Th t theatherousthe the t t t tere tereaimymymy tututy ts ts tournts,
+Auruthe th ts t t te tereatheno thendutumy t ty the ty t toueatheateathendine te t t,
+The titendusthenoust t ouess tst outhe the tithe
+Training - Epoch: 10/50: 10240chunks [00:24, 412.61chunks/s, loss=1.57, lr=0.0006, run:=Transformer]
+Training - Epoch: 11/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 745.47chunks/s, loss=1.57, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  how her, by and so by,
+Who son soults oof mourther, thost by more
+Ithan be somile over is an tememptains a more
+Ass in that he werein tho donesss, ashome
+Wherein, so the hease thou have those those the shoulderer,
+Thus a that breesst anord a compe those the his house
+To shoooul, and head he ata heavers. ale the shave,
+Those oncceept and meerchale to the anord surve,
+Which, who thist soome herse a
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Ouspp asire t, seair nnonemige and to achole
+For hafathe athe inince. s, tondo them seeeem hase
+ave heathency, torald to madre measort anormyour
+On the seeech asoft this cherer tano theate
+And sovertheer's a mofortst tale hanondsterer
+And breasth asthoringst anofthed.
+There there inonces to armass a andouged hade
+Thalou thenkee oncatomed to adonesst tro memorre,
+Who hone trofaneder asond off olou
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Whisthesstititithen here hes th athe sthersthoustthesean on ane ous t hinessout
+Thathe ave ine he hin teian head teaneave ithe in the
+An t in theastwhisteaithe are th t h ts the therenathooowe dendse or,
+Houresitesthe'e her is on t,
+The iges shoonouninengnt ould h iesthane hut theangn abttishighe ithe outy an
+Tht ts se itheananino mittt an is he isse onde a tonsthonche
+The wand ans owathange sthe
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e that he world and the world and the heavenst
+To seeee how the house of the heavenst of the heast
+And sonderer the house of the heavenst and the heavenst
+To seeee how the house of the heavenst of the heast
+And sonderer the house of the heavenst and the heavenst
+To seeee how the house of the heavenst of the heast
+And sonderer the house of the heavenst and the heavenst
+To seeee how the house of the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The seaver these o of meace anond anond aneather
+And someethier theathe athe theathe athe theathe
+And someethier anond anond anond anond aneather
+And someethier anond anond anond anond anond aneather
+And someethier anond anond anond anond anond aneather
+And someethier anond anond anond anond anond aneather
+And someethier anond anond anond anond anond aneather
+And someethier anond anond anond anon
+Training - Epoch: 11/50: 10240chunks [00:23, 745.47chunks/s, loss=1.57, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The tistie the whe the t the therease thene the ous tse the ousthondeeeeandest
+An ousth thed theathonghe the the orthe oustheateathe thinghin the
+And the the theathene the the the or te the the theathemeathe the the thend the theathe theme the the the the thease the the the the te the the theigeastheastheathe
+Th t t t th the theaimeaime thease ons the t the the theatheatheastheathe
+An h th t the
+Training - Epoch: 11/50: 10240chunks [00:24, 415.23chunks/s, loss=1.57, lr=0.0006, run:=Transformer]
+Training - Epoch: 12/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 746.70chunks/s, loss=1.6, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e of ancience
+Witch them of masser where is and alone.
+
+AUFIFFORDELAURENCE:
+O, widouce maste twhat thy sacres tongue,
+I haste time sucred myove and would themseelf touch'd
+That hast mondey as withorse, along our cource,
+With that that way the speeakst of his crace:
+The samme as a whille, will whom that I dath
+Angelated that the say: I'twas no sweeet that them it therous,
+Then ino mattters of this
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Theath outh theath, as I, we ase t thene at
+myrise anores tano taple osthaly tsteead this
+heapped, anorthaninkst anormad oreath, anormity:
+Thale wastcary athongsag attwaras, andond too mbe,
+Thowat ino treaity that wallls oout oncclouss,
+It crutist tame itt t myrele anccce
+Aststinang ofrane, thath I shame weashere' athonguary.
+
+
+
+FirARDIUS:
+I hoprse t amy thimous talaussy inested whero inowe.
+
+Wel
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Ankelie w outinind howathit t o, athe we th o woundouthindesthe ts:
+Anonessst weat t s, hifuthat thy watwit at t thesthy h
+Thymyrathe thighathatie the ous oume, here twithit
+Whowin thats oro s, the ou the achindirathistwe oug w ats,
+We hissuthorarere'd s h he ts houmapeereathand th int as:
+The he thithe we thisthous irenchath inksutst.
+Tious owe ouine t me outhie ithigenstit ous on an hts,
+Th ouc
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e of the state,
+And the see of the succkeed of our alone.
+
+
+AUFIDIUS:
+I was the that the that the speaks of the seaks
+And so that was the seak of the seaks,
+And so that was the seak of the seaks once
+To seee his souce and some and alllowadys
+And there that I was not so mind alone.
+
+
+AUFIDIUS:
+I was the that the that the speaks of the seaks
+And so that was the seak of the seaks,
+And so that was the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The wathille tseak athe there ouse oncce oust
+And scairr than therou thath I damare thath theathe
+And sweeeet indeeeed thath I dane tathe theathe
+And sweeeet indeeeed thath I dane tathe theathe
+And sweeeet indeeeed thath I dane tathe theathe
+And sweeeet indeeeed thath I dane tathe theathe
+And sweeeet indeeeed thath I dane tathe theathe
+And sweeeet indeeeed thath I dane tathe theathe
+And sweeeet i
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The thistititininire the or or ous theathithithithinke t or or or oussthithithithithiningh
+Angng ong tststhaisssthiguinee an t ane onesssthigumy thigur
+Th oninininke oum thince t outhithe ousthindingh tstht
+Th ous outhee o the outhit ousthindindinght t ing ty:
+Ane theno thenout the thesthe ousthe ousthe outhin outh
+Th out ous t ousthe outhithithit ousth onghs orndit
+Thine ounoune o the out outsth
+Training - Epoch: 12/50: 10240chunks [00:24, 410.04chunks/s, loss=1.6, lr=0.0006, run:=Transformer]
+Training - Epoch: 13/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 744.13chunks/s, loss=1.45, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  this is this is,
+Thou art thy seat of the stay tenort of t
+Amemerrrlames and honesty out the out ones,
+Who chence on when he worst is he's and this islik
+That whe comining on hims and how the harloow,
+And honor a should hath thath some a wandom,
+And shilll one outs of our heaven's brescongs
+The would as the bear them an of our thouse,
+I have none; thou what the tembours our honow thee
+He'lll hind
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Would me torrme there the senont temoore
+An theseires abugactes, wore thene at hore theme howse igres.
+
+I'lolld them irele tsenoon a an pevow, anore
+The's seead, wifullt temo hele tseenats, a the mone,
+While wellll aind mele tto wo hendseeeed t
+An bowhin thise toutts omone out or out,
+Ine temurrrn avolle man andwoned wen asony herre,
+We thenk are t thise thise ouse ould a tegume
+An hane to thesor
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  t
+Anind aid, aleesthonevit whe thigustie ine tire alty.
+I thigolle tt t t s t
+Tht tho thenelo me the thesemspploree onge t out, the,
+The hin ititwouse stwe t win or andon hithit anstis we im,
+Bus h an oun s se se blone thinonounon tt o ous ous one o he
+I wit, thithithitendo m os is ts t th oun a t.
+Ano the thyist thesesouse we we te he ondsthit thigerse ous fue
+Th it in onse'the se the the itwons
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the worse of the worse.
+
+LUCIO:
+I would the tongue our honour honour house the heart
+And the the time out of the the time out of the the time
+And the the time out of the the time out of the the time
+And the the time out of the the time out of the the time
+And the the time out of the the time out of the the time
+And the the time out of the the time out of the the time
+And the the time out of the t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+We'llll too me theme time to thele oon t oucke
+Ano me the teneme ore theme ore theme ore theme ore
+An thene out out oncce out oncce out onck out onck
+Anond the tenemerle oof me theme them thene ore theme ore
+The woun out out oncce out on out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out out o
+Training - Epoch: 13/50: 10240chunks [00:23, 744.13chunks/s, loss=1.45, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Anoust t oule t t thinke outhithe t oue out ongh onddd t.
+An thithithithise t t is is is t thelen t thithene tseemene oue orendssssse
+An our t t tifund thithithime o tinke oue onithith t.
+An thing on thisele t thiguigre thithinous ty tsse ous outhino tin hit
+An ong thin th t thine ous the the oust outhe oustit out out.
+An ty out out t thelin out ouithe tse out out out oon out out out.
+Whe out out
+Training - Epoch: 13/50: 10240chunks [00:24, 411.95chunks/s, loss=1.45, lr=0.0006, run:=Transformer]
+Training - Epoch: 14/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 744.10chunks/s, loss=1.52, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e to the chooil.
+
+KING HENRY VI:
+Welcome! the seround sucredent ast this angely:
+Which that thought, the warlines of your anonce,
+With along, we were whe seend to thy tenear.
+
+
+KING RICHARD III:
+And this mise matte melaning or of this.
+
+
+DUKE VINCE:
+It say that win asore a fooul. I amaked you, belooow,
+The part of them seak of head to sade was and the sunngest,
+As that doward whinkst is treason, a
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Wondouce ast ta thoue athidin in stidoce mean,
+And so arevice ondste oneld; we would ast anond asereeet
+Onet memines anere tisue arere for athenor,---anond fundest
+I sano idaue t ido theruse orea offf manid and somin,
+And therat thase tislle o maste trust omy thuse
+And foreature, worith one a whom theath, wit thisue,
+And sweeeet t alust ist tast troooud our senont
+My bane tige anond orine to mend
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Minenenie,------de tiust sthinigro me t onind, t anonigeave?
+Thitesthty ts t the fue isthelinistirendds, t t.
+
+
+
+
+Th, wishiriroundrithite inge t::
+
+We t thissifo sereeanem in in, ate ts thisthe sthenoo tie temisteee,
+Tus thine tindstwo tite whime tine te thee t ine ondeaniremyondiee
+An, t anthes tirenono mivin thin, t me ttt ouse sto muskino ondveee addd.
+Mefier t, y ie menendspo myon tree an, as
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e that would be so fair.
+
+CORIOLANUS:
+I say you shake you a word one of your thanks,
+And the seave of my man sonderor the seave of thee too thee towards.
+
+
+KING HENRY VI:
+
+I would not the seave of the seak of the seak of theee
+To send the seave of the seak of the seaven of the seaks
+And the seave of the seave of the seave thee towards,
+And the seave the seave of the seave the seak of theee
+To send
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The sead to theat teno theat teno theate teno theate
+And sono theate teno theate teno theate teno theate
+And sono theate teno theate teno theate teno theate
+And sono theate teno theate teno theate teno theate
+And sono theate teno theate teno theate teno theate
+And sono theate teno theate teno theate teno theate
+And sono theate teno theate teno theate teno theate
+And sono theate teno theate teno t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The tinonge tino wous t ouene thindsthindind tinks t t t tino thino theeee theate ouse t?
+The t t thindisenousthenous oue t t t t t o of theaimeno thesthe t?
+An the the tissthoustistindre t ous t t t tineathino theno the the
+The thenoustireatireate ous ty t t.
+
+Thinghininininire Sis tht:
+Th theeeeno t t se se t orenoo thititigene thise oue on,
+The thond thino we see the oue thinddddsteat the te o
+Training - Epoch: 14/50: 10240chunks [00:25, 401.52chunks/s, loss=1.52, lr=0.0006, run:=Transformer]
+Training - Epoch: 15/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 762.71chunks/s, loss=1.37, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e soun supen so all all.
+And, I that thou shallt titlle assking att thy sunseling off the
+way, tourthy arrriage one our offficen off this man owe
+are this fealling of an our eace, anor and manny are,
+And marrk my honourable monisted of mine ous,
+To slaw whe shalll tite the cause itweere soffterenence of this soldier.
+
+WARWICK:
+The please to thy sondiery folllow that won mere.
+
+ANGRELO:
+Welll, who
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+To make them to thenkeeey of thene tare thate for y.
+My Caprronace, ascalll'd tenellliory inonde,
+Withoum an ssomatestimany mare anorme tone oold,
+Int wan ayoftiniesty abofould alugued tyonkerow thanke ouse astheror
+There bout arnonice as younch asway, thoust neatt uredely,
+Tiellll men tone higr onof hisonesesss barothieres.
+Thus nne'tt alid tyound astay y mare towild mease y
+And seak alask'; ano
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Thend we ttinithousthereinity t ous ts an on o thithithifffffffus onker.
+Iend teeathier withengllllllllitth un how ts, tse ondeathelelino
+Thowhugurs hs ake hin t howearesthideithiser h tangnghe h
+Wisthitifurinim th mout orane tineanyoute tigellllts,
+To ave an me wanounthanin he haleragh toug sth ted anitht tinoneaind me oo
+Touth fingee thithuthind ware athe t itinithowougouthime h, t
+On ht thtone
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the consul,
+And the people of the prinisone of the stay the stay,
+And the time to the time of the time to thee that the tide
+And the time to the time of the time to thee that the tide
+And the time to the time of the time to thee that the tide
+And the time to the time of the time to thee that the tide
+And the time to the time of the time to thee that the tide
+And the time to the time of the time t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+We'llll to thenou thath I same foulll towe theath theathen thene aregane
+To theat t thene oreve oust anofferdieenct to theath theathen
+And soucrrreed tone oun off tearesthy anofferdeeed
+To theat thene oreve oust anofferdieenct to theath theathen
+And soucrrreed tone oun off tearesthy anofferdeeed
+To theat thene oreve oust anofferdieenct to theath theathen
+And soucrrreed tone oun off tearesthy anof
+Training - Epoch: 15/50: 10240chunks [00:23, 762.71chunks/s, loss=1.37, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the tititinifuseatigelle onge or ty ththithiene theathe ous th.
+An t t thithe theleno the the the owheneareatheathefur th th th thereeaneathenene the th
+Ofur tst tireatinitheneellllllllly th tsss t t tinounenenoo thellllle owstheathe ts,
+The th th thenouthatheathe the ough t th the thinonoustheatheate ough,
+Th t th ttht the thenenenou theeape orge ondse the thessthieeendeeareeeee th,
+Th th th
+Training - Epoch: 15/50: 10240chunks [00:24, 413.82chunks/s, loss=1.37, lr=0.0006, run:=Transformer]
+Training - Epoch: 16/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 731.15chunks/s, loss=1.4, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  me.
+
+KING RICHARD III:
+What spassion of alate? Why?
+
+
+MERMCUTIO:
+And so the presservate of your aring.
+
+
+POLIXENES:
+Welll!
+Why say't safe yond the old?
+
+
+CLIFFFFORD:
+Though have mann of your honour, if I this
+I scorns, and that sparter to them, that
+stay be ast as if iss bones, somertiest ascience
+As telll ifs my anstitanchely asciennce
+Willl spreak on mine once if it me belesss
+Weld was a hard b
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Wherere spend inito theat t o hearevest ore
+This pprosscaredonce asccaped, aspe itis an
+plaissseredor blooood, anortheror's
+We arellinceress tarrrry aind toman tementh theathele, this
+And scorenss to hene t to mean's t; aleas!
+
+Why, siret to therein strenange on a themore.
+
+
+TRAGHARET:
+Whare so sino, tendince treliam tino alegue,
+Ay brearthed inowerth truinked, a tido tushy mplaie,
+Wifulll to tan
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Fm bestie its wieeen t inns t atce agunsteeno anive id
+Th, thond tissstounore atrelld h oused hinessstwese tsernds
+Win oren t owanelaref and on; h on housstefo, se'sthe t, in,
+Forvengrenondenornisd they onth onghenengrndingutheanesssss
+Ane we int in inoprellllindenonst.
+Whao, tsss out iend itrere ave on at: t itussspune inelins its, are'eesss,
+Andondound t tithing tinghe my or th inkssthosinagron
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state,
+And shall be a body of the since of the since
+And so the station of the since and so the since
+And so the stannd of the since of the since
+And so the station of the since and so the since
+And so the stannd of the since of the since
+And so the station of the since and so the since
+And so the stannd of the since of the since
+And so the station of the since and so the since
+And so the sta
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+We'llll to thenk orenan ieven to theat?
+
+
+
+PrOLIXENA:
+
+I same n toree, thenk arelonged one this warell,
+The watrery onese o of menen orese off telirmss,
+And spend tendener asce it is an moneney.
+
+
+
+PETRUCHIO:
+
+I same n toree, thenk arelonged one this warell,
+The watrery onese o of menen orese off telirmss,
+And spend tendener asce it is an moneney.
+
+
+
+PETRUCHIO:
+
+I same n toree, thenk arelonged on
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The trested in wanenoneen owisthintsssssss in an an an t thonsssssssssthenou t an an t t,
+Theainge theno wire or ore orthind inesefour tus the
+Th ithesthine senende orer arend orsssesssesssssoun,
+Wiont t t t thindore theno the ousthend orend ond on oume
+Whesthine thin therers tsene ore ore ondsssssessssssss,
+Wererverververendd thingesssssss athe oue an an thort.
+Thind thise thene is owe orenore o
+Training - Epoch: 16/50: 10240chunks [00:25, 409.11chunks/s, loss=1.4, lr=0.0006, run:=Transformer]
+Training - Epoch: 17/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 748.28chunks/s, loss=1.26, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e are not ore.
+
+PAULINA:
+If thought this arm off in the parks would
+Of weigh ass time,'tas wearthy.
+
+
+PETER:
+
+Withink they are none in a sough, and steld towes trong
+My longing: telll the heaven to bear this arrmione.
+
+
+POLIXENES:
+This belongg, and the seving stoone of my sours.
+
+
+KING ROLIZAM:
+The buried, sire, bethinks and an are stay.
+
+
+BIONDELLLO:
+I willl seeth time both the that shalll
+Of mai
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I hand honow thenou, tending thine anote.
+
+
+WARWICK:
+
+No GMORY:
+
+I GBAUGLT:
+
+Whare it yondes, thalinkst wellll thenous,
+I selrvee alatte; andone igun t so tanno towe.
+
+
+
+PAULLIXET:
+
+It seleeent asouch, as we wentchining.
+
+
+
+PAULLINA:
+SO, trane iglon, andole, aspe idon to myre tonde.
+
+
+TYBER:
+
+Whare thenou art thenore.
+
+
+
+KINGHARWILEL:
+
+Wellll:
+Ay, washare thele bemetinare wenory, andoled tondouci
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Ausononntinty t winthes ag tithende wingunongue t,
+Thinine s terenere ty ononond t t ouethe t: weathindern the'thingenks tonoust.
+
+Sin, on ath wendoundetheitind tinintind th,
+Thinks, tinoritine ounendongus, ie t, ie at,-indon sthithoust
+Thy teatere inistiditttthest brengenged winenithouinest.
+Ant int, ang s, thathagenole sthe t t h in, avineeaisprelore ge thintsese.
+Theybous wh h! hutind hitwhist
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the straight of the state,
+And therefore the time to the bear of the senate,
+And therefore the time to the bear of the senate,
+And therefore the time to the bear of the senate,
+And therefore the time to the bear of the senate,
+And therefore the time to the bear of the senate,
+And therefore the time to the bear of the senate,
+And therefore the time to the bear of the senate,
+And therefore the time
+Training - Epoch: 17/50: 10240chunks [00:23, 748.28chunks/s, loss=1.26, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+We willll t thenoust thenou thale thenkey there thenore,
+Then stimpplesss are thenore thenore thenoust,
+Thast trust and tonke thenore thenous andviced,
+Then stimpptinesss are thenore thenore thenoust,
+Thale bevin to thene oreve ond thele overtuee.
+
+
+
+POLIXENES:
+
+Whast thoust? andvistiong thenous tino tenond.
+
+
+
+PETRUCHIO:
+
+Whashiler:
+Whast, thenougest one thine oust orr ounour thankes.
+
+
+
+PETRUCH
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The thininitininineatinks ty ong onges, thenethine the the oustheend tindendinin t.
+Winks ting that that the the t the thenorerenenousthey ousth,
+Whes thindinin thenele theste the oustttire ore ondinines,
+Withithied tin win th th thinkithisousthene ongs ongh out,
+Thie outhindinininke th ong ting t thinouthin thinunus ous t.
+The oue ithithinindind t t thes ty tino thenousthenonkeste ous,
+Th t t t
+Training - Epoch: 17/50: 10240chunks [00:25, 399.11chunks/s, loss=1.26, lr=0.0006, run:=Transformer]
+Training - Epoch: 18/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 743.98chunks/s, loss=1.4, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  them angeling them;
+A thereign that ther along old the marriage:
+Tralicly in the time, another failsh,
+And alll angeliabell alitttler stame and
+Tomake meats; to the mire of men in a tone
+Orese of him.
+
+
+CAMILLLO:
+O marrriary!
+
+Third Servantor:
+When soulded that her brities and my master about
+That herre more anon alath, a shaill telll myour goood:
+Brother that he spair, willlingly betweeen
+Welll
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Wat harre he creatclared, teaked helow the hane ore
+Is titellling oreve to o thate.
+
+
+
+BUCKIOLLllan:
+Thyboures insstrueded at a thapore ins tearmine
+Ashiemre ient, hore soucatior thalat,
+By arack ast idoum, andourin'st man ous aransh.
+Wort nelither atherrey it an a olace,
+O, setidure bondarone thine out arat ish,
+And tanskilingmanin ign thines. wore, tale honst.
+
+Ansciery tonclincing alance, if t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Toustinched inininie t t timithtsss themalllle oreane atin
+Watthe to thondererangesthe t ther towes, blankem thes:
+Ourefud are the moustitwigutwatwe inioumes, ares allllld.
+
+Thoue thiowandove mbatherth's:
+Thadatitat, are me wioues myoumithith thisthedestonghe theeey,
+Wh thende therererenen inoususein: t athe t aty
+Wen itindinime merellllle t titigly t. titito age owene ime in ond the
+Witithithige
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the statues of the both
+To be a soldier to the beatter that
+The babe about and the beatter that the babe
+To the bear of the beatting of the sight
+And then the time of the thatt them to the bear
+An the that the beatter that the babed and
+That the bear that the bear of the beatter
+That the bear of the beatter that the babe
+To the bear of the beatting of the sight
+And then the time of the thatt them
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The saday in thoust aland to thele them alid
+With the thathe thath there thath the mabe to theat
+That the thathe thath therouse trelices to theat.
+
+
+
+KING RDWICHARD III:
+What thoust thath there thath there thath the matrriched
+With the thathe thath there thath the mabe
+Thathe thath there thath the mabe to theat
+That the thathe thath therouse trelices to theat.
+
+
+
+KING RDWICHARD III:
+What thoust t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The tre aititin me bemesss atume theen t thitinithe tsthe the ore onout
+Tore thesthe the thenouse themathemathesthe t tin t,
+Wh theaime thellathe th in the the themathemathemathe tin?
+Win t tine thithathelaime the th t th theme thathenouroureen t
+The ts t thesthemathaisthe the t tin th theathaimememe the th thenth
+The thathe the the bre theatheatheatheathe y th th th the thatheathe shemathe the t
+Training - Epoch: 18/50: 10240chunks [00:25, 403.54chunks/s, loss=1.4, lr=0.0006, run:=Transformer]
+Training - Epoch: 19/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 745.94chunks/s, loss=1.36, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  this:
+But, thou his crown busish,
+That stray with a midigit head andly worn
+World her.
+
+
+PAULIET:
+It wish, my lord?
+
+
+PETRUCHIO:
+I was arm, andiring: we'll bring a him.
+
+
+DUKE VINCENTIO:
+Thou haste honsty sound
+To me brother won the paresench on theem.
+
+WARWICK:
+Telll me, hear merry: in honour, sir,
+Wifth woman'd with sorrrow, but to seee them;
+And with thee aspmoring on his counder,
+Though and h
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Ay, walas wale within toreest alus.
+
+
+
+LADONDY:
+Is tamurry to'st thenous, athorous,
+We thonou sendderer tourne ones,
+An wondome ondicieng inon his ponowe:
+And bracke on himis atrmemedent, thorough'st trached
+Hith watinng tonde athorons madovy, thanust I
+have told minde oun once towak to'e armoud
+Whom thelir inon time abllane our ablid
+Out s acondlound, wen tendemy.
+
+
+
+PETRUCHIO:
+It murdenerory.
+
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Woustre inint and why thsstolereronere ty he mes wheseareand:
+Thave he there he I'd weashousprren berert. heseeeeseeatt,
+
+An, iss, h trurerende t thimeathy fustherue wineshomar thind
+Ang ab wishous themelandnn the we tse watrene horenddde th
+Anenis tous te bre onge honithethethesthis
+Angh.
+Tor wan, meles wononde whary me'dern oun in hon,
+Winonchondisurt win wins t witrnde thitheno ains
+Sthe th bo
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the condition
+And she will be so brother and the breath
+And the princess of the condus,
+And the preson of the conduct on this woman
+Which willd the sun of the time one
+Than the sun of the time one of the woman,
+And the wondering of the world of the conduct
+And so the princess of the conduct on this
+That be so beto the princess of the death,
+And the sun of the time on the sun of the
+To send the pr
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+We willll t belond there there teno tone ouse
+An pererson of there thenous andonest,
+Who willll t thenou thale benottt there theree
+Within to there there teno tone ouse
+An pererson of there thenous andonest,
+Who willll t thenou thale benottt there theree
+Within to there there teno tone ouse
+An pererson of there thenous andonest,
+Who willll t thenou thale benottt there theree
+Within to there there
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The theshe wino wound we withindoundeshith t.
+Win t t th thelerrelo the se thon tsearearende theno th th,
+Thire theathe wous wond t t t thindere o thenoure th.
+These theseenoushe wnde we ts are on ondddenonouithise
+Th tin t ts thele se o o o ouseeast thitheses
+Wh thine th ormereathon onusthititin this
+Winghong the oundoutst t ousthin t o o o onde onghithe
+Ane thithin th thond the the ouse ouge on
+Training - Epoch: 19/50: 10240chunks [00:25, 405.34chunks/s, loss=1.36, lr=0.0006, run:=Transformer]
+Training - Epoch: 20/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 749.74chunks/s, loss=1.32, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  my faith,
+Which shall be that have say their tearshipstion on
+Fine, toughtst where and heaths thim that? Is ale
+spear to my life: I and along this time onout
+another on their thankstiniesss of that.
+
+
+KING RICHARD IIII:
+And there we'lll beast the thatt which some
+And willl that patre in hallled him touch,
+In strain a fror than think that folld in the tears
+That he'm the colouring to my son,
+And m
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Then se'ear this holough,-eror--hearpped off thine ison,
+Weit'lll tamo stire it is an gremyed,
+And told umy toling theat ira t,
+Aurt mene, thore stay aind theate thowat ale
+Tome hisppeaciltusts, andiry theath.
+Wheren, anore myoune, forinsh, olord awallk's.
+
+
+
+BUCKISTH:
+Werelll aind my aremis brother'd weriggn man;
+Orer thighesth ist manoume too y moure,
+Whitherer y andigestivers youths aremove
+Th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Wigumore aty ande t t in ssien thithyenoumat,
+The ang ous tininkenond aththe aty at owoue titwa hiths,
+Angh arth be whoresthounid at thin inestinghemathe'e one anen,
+Wh, ineathore min ware t ougone are hingun and and
+The tsthondony treseeane t ouigen in, ieathonghtshthorge
+Ay t, anen anengrenoure igre anie t atst.
+An mondiminon whon osth,stinghen the the' an,
+I'enengeerengre hitin ssssssssthathe
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the court of the sea
+And that the seast of this that bear the sea
+'That the seast of this fair that fair for this
+son our ancienty andd the seast of this fair that
+And the princess of this that bear the sea
+I shalll that be the seast of this fair that
+And the seast of this that bear the seast of this
+and the princess of this that bear the seast of this
+and the treather of this fair that fair for
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senaste orath, andonest tongue are thenore,
+There senove in this oundd anond one outh,
+The senate orath on this ffairthth one than thene orese
+Our sendd one athare thenoust anddd theat thenemsty
+Which thene orese of this amorroum's treattures,
+There senove theruse titherest to theat inon theath
+That be'd monde outh aremoury.
+
+
+
+PETRUCHIO:
+
+Whare it is theath inon tourmeraie inde?
+
+
+
+PETETR:
+I
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Austhon outit t t inghin inghthiththt tsththt then theno
+The thirenge theatheney onend ouse or on thesthesthe
+Thinouse ore oreathe outhe the on indddinghtheathitheeees
+Th th inger theathenenevensthirt ouststsssss,
+Th inghinininifffffffing tstestshencheshenond t thesth thesthenoustheathe tsth,
+Ofusth thine the we oume out orenddddd ithsesthestineende th,
+Th th oustienoundisthe oning ting tinguthty
+Training - Epoch: 20/50: 10240chunks [00:24, 409.74chunks/s, loss=1.32, lr=0.0006, run:=Transformer]
+Training - Epoch: 21/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 745.52chunks/s, loss=1.37, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  their leaves and dares.
+
+CLARENCE:
+Tallk yonders the world, and we his foull of his lander,
+And thine honour, and with he light.
+We warrrant, therefore, and the maskering one:
+These that they shalll aill; andvine art my soul,
+Where in thige aborn hand, and to that
+help is hundrerous men that handsharkenesss art
+That the most of thy stricege and then, bear
+To their truch afffaith, the stilll away.
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+An sondes ilonguty oncce strune with out,
+Thybreined anstray, andomines,
+There beare thesums in one tharuge weares
+An such affffaictiered in thelats,
+Whe'llll walit h wan theme an armalled,
+Thaspined mene oncce wit thinke anortherot,
+And speakenth fanorth onclde, a thuningh,
+I ammbousedance wit this tonkenouces
+Thele wespearakers. weshealllly, welllcocomme
+Wandomedliced, this hend themey thath hy
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+twiminge futhe the wineenitstutworennd ats;
+Wh wars athinenorelarshe whe in, tss, arere allano wethonche hoond
+Thin an himathe whe thunde inghe watske he alinoreran thirminds t,
+Aninoushorouchelllllld wne the tss anen wememonenoume
+Thintsss, intinine wanelelin he wearme ar,
+Thit ar thinss skis allinink aveenn te:
+The thid whemeshe sstwinden t t hitineng fowinithe outh
+sher onght th thouthe thane
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the care of the content
+That which way the stay of the stay,
+And the stand that the seast that the seast of the
+That whille the seast that the seast that the seast
+That the seast that the seast of the stand,
+And the stand that the same of the trimmmath,
+That the seast that the seast that the seast
+That the seast that the seast of the stand,
+And the stand that the same of the trimmmath,
+That the s
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The watwainth the time oof theat thale thele thelee,
+Than stay t thene thath the timelesss ore
+Than the trimes oun t theat thele wendds,
+And sucalllled thele thellle thalll thele thellle
+Thale hencle thelat out art thele oof theat
+Than she walllls oout athe toutt, theney that
+skilan oncce an monane oun t theat thele wearers
+Withineresss traices andd wantheron theat thele wearers
+Withineresss trai
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the onthe the senendine themirent out onde tss,
+The the thenoo thathe the the the theneirenendireatwatssssssss,
+Wherelelelan thinere tssss, the theatheanonore the t th ths
+Theneaimenene the we thenthe theithinde tse the thereeenoooreeeateee
+
+Ths th, th, thendeathe the the thelllllllllatworee thowhow thersse
+m the the the thandearenkenkeatwat th thesssss, winouse theeren wind
+Thene the thine t
+Training - Epoch: 21/50: 10240chunks [00:25, 408.70chunks/s, loss=1.37, lr=0.0006, run:=Transformer]
+Training - Epoch: 22/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 748.47chunks/s, loss=1.27, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on ly please
+Of wooefused here warrior: alance, and the
+that this terrmage too have touch'd; tendear the
+Thustdant a slain that man this with mine arms,
+Who they hought to the tunkind house?
+Or numit willl my soul touch once mean
+To walll too seat answering, as if
+Any my service, whose that the sistore hearts,
+Would have I man thou art most protovest that
+Then at thou wast their tobed man:
+The bark t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I ware the creaptterer toncck thas, thanost I
+trenuch nenew with anorthooug. Were's aleve.
+
+
+
+KITHAM:
+Thenoug stenone wat trenut tonke on, thoust man,
+Anore mistake therein tearms neve'er thanke,
+An wontherer athale thim thene thanke alon.
+Then mamay in thiss tenerath tinime orour thouse one
+Aut to heleave. I'lam tiellld; thelire indleeegut
+That with t himum touch, maste thanust.
+
+Thelou mmurenam
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Theneveme outs te tey te thingelindeareane ts:
+Ange th, ithinoveninoust, t t, me me as, henorenase ind
+Mune t at me hige mexenonone thondsse ougund te t treat ine
+Ousthenifure thon mes angheee oune thit inche thererousthie.
+Thouse angh in, te t tre this thigorurenigresise ingh,
+Whessthout thouthine h teshe ankes heaneand are
+Anone tet the tind whitheneinigestheene ath thed outh,
+Ousiste he at t s
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the contract of the world.
+
+LUCIO:
+I would tend to the time of the time of the time
+To the time of the time of the time of the time
+To the time of the time of the time of the time
+To the time of the time of the time of the time
+To the time of the time of the time of the time
+To the time of the time of the time of the time
+To the time of the time of the time of the time
+To the time of the time of
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The watrerone tone thath the tirest ore than theat thene weares
+We thath the thoust tonke theat thenou thate thenouse
+In theat thene we'llll tonck thenou thate thenouse
+In theat thene we'llll tonck thenou thate thenouse
+In theat thene we'llll tonck thenou thate thenouse
+In theat thene we'llll tonck thenou thate thenouse
+In theat thene we'llll tonck thenou thate thenouse
+In theat thene we'llll ton
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Theapppthe thenouse t t there the theno theeaveneaseeeathe the
+Th th th thereathathe the the in t theatireathinenene t ty
+Th th tsthathenusthe the t t tere theatirenumen thin ingums
+Winine t th tithare thenususthe t t thoushinghisthenke th thest
+Th theatheatheathe the t t t th theatirenururusthy thtungh,
+Ane thoue t t thoumendindsthenke thinest t theeeathe orenonouse in,
+The the the thine woreast
+Training - Epoch: 22/50: 10240chunks [00:25, 399.22chunks/s, loss=1.27, lr=0.0006, run:=Transformer]
+Training - Epoch: 23/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 751.20chunks/s, loss=1.36, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  this hate,
+And the sick with thy father's stad,---
+
+She shalll you are to alll only,
+Before the started of mine honest our train's.
+Since I have not a whing alime and a chambed.
+
+
+CORIOLANUS:
+Why she willl to be an ousty arrey.
+
+
+PETRUCHIO:
+Why, some come!--
+
+Welll:
+To meltation to the sight of the maid.
+
+
+DUKE OF YORK:
+Wellcome, by thy statie is soulded but,
+Worthout a toman's mellenge.
+
+
+KING R
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The mathorin to my bredith inon hear ovin moure,
+Oreld brestarved toune tongunes offf this.
+
+
+
+BUCKIO:
+Twondo mendane, monake nothines evit.
+
+
+
+KING RICHARD IIIIII:
+Wellll asteman assk y then that t
+mele tis men inen eare thadustinesty;
+Whas stennates our solome tous anove.
+
+
+TRANIO:
+Tenen irelone one. sit herere! iellld to thene
+To bene tenemble tone o abrtitane,
+Or the breathing--danenglinamed
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Whirittintat me the atong tine ore fthe thind thithirereathe ous t?
+
+
+Ofus idit aisironit man t y:
+On ts thistithe murenathe me oure tie!
+I thinilonne m heathe ar we the I ine thingoumathentemat
+Wh, in, t me me he henoreloree stende t.
+The, ithemeemashirendous t bllly m aringinoninoovins istht.
+Win, w thous hy has hole sheandeange husthe,
+On t t ondes, my helenke thorenend: on, he fousss y wit,
+S
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the singer of the world
+That the seat of this man that made
+That the marriage that made me to the sight
+And the singering of the singealt of the sing
+That the sing out a that man made me to the sight
+And the singering of the singealt of the sing
+That the sing out a that man made me to the sight
+And the singering of the singealt of the sing
+That the sing out a that man made me to the sight
+And the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+We'llll henourt thene orenoume to theat
+The seame orenat to thene ousinght one ous anor
+And menen one o there tone oune t.
+
+
+
+Sesecond Senale:
+I speeak thenou at ale toune aside t theat the meatt
+That the mare thath the matide thath mene
+The seamm ouringht one oun t thene orenoume
+What m seast t o thene ousinght one ous on
+the sunatue, aside the sunating as t there
+
+sun tourne tino tone oune tend
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Austhinintit t t iningh t th thenuthe ousthe ousts,
+The in outhin t me misthe ous one the oneathene the the
+Th or onde the steathe thene theerine ouse one ous.
+The on our thes weathe thusthe thin the ous oume oustirnddddddddde
+Wity outined tithinsthes ty the on orstheneneathinesth,
+Th or m th the we wherenousthendddd b bld t t therinde oowhenouse
+Wh outh th thindere thisthe ous ousthe in out
+Thin
+Training - Epoch: 23/50: 10240chunks [00:25, 397.27chunks/s, loss=1.36, lr=0.0006, run:=Transformer]
+Training - Epoch: 24/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 748.72chunks/s, loss=1.34, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  thing,
+And happy shadows his brother, the field the shounds all
+Willl then the paints frield,
+With all to dine, to honest, man; and men my seats
+And with thy lifke and forting that the mattter.
+
+
+CORIOLANUS:
+Old me to mee, thoughts.
+
+
+BUCKIO:
+Then with the caption wisely that did so much shall be
+As with his fingersh and hound him the hights,
+Which he want think he dear thus, the stanly of his
+In
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+An hoprse and and some, ore'e that sit tshee are
+Than tis an thondst oof m fondily thest
+Whom thenou sares a buntty andmercy,
+To begin tthan ange ast merrrity thene tondity.
+The corous! thale herenst is the tustwan'd fearther
+Whoneresd hanows me ith anond oun of thim amonan.
+
+
+
+LEORTTTENS:
+O Gentleme t that Isamed to my selduchestst true.
+Not I, it is t thyse thore minutste of mexan,
+An palantiut
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Austhon th, on horingh thoune the ane tstrtst thenomeskeneneren fount,
+Thessstheeereend wale ouss y y thind ar astineale out fffffut.
+
+Thingheleerere Me Lin on ho, asssssh, Bushin he t'
+Thininke hirin his: h, his he his he wis s wad fisirande hin,
+Anelly, thowat he howorin hefugoure th and at h tshematre
+Ange the t t, tind thougrenoo alend m insst:
+Tre athee me an, ooves mbsthispre th in ideere m
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the prince of the prince,
+And therefore that I did that shalll the prince
+That the prince of this charity is the commmon the commmon
+The streength of the commmon the princesss,
+Which the seats of the sing and so that his fair his
+And so much before the sing that his hand, and heath the seasts
+That his fair his faction and heath angelesss
+With his hands and honesty and house of the sings
+With the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The sanamed thath he sthale and somme this creapt,
+The searves of this amarrrrieded and thene athamm Iendle
+That the tirme tonguch ashamed the tirimlles trimelest,
+The seald on our arrmshy and thene that I dare nconst
+Than the tine orin an thane athame I amm inath,
+The seald on outh are the tirimlle than that she ith
+sunnnnestut that I hadd a thane athamonded that he sthale
+That she ind the tinim
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Ane thoume ingend t thestits themenene th thene tsssst thane oweneeeenoue t.
+Thin tsss, inghowis the t me t th theirigorendene the in,
+Wh, thithire t thithous th the the th hineishiriririris in h h,
+
+
+
+
+
+Wh hisishiselin She ffff hesth ane or t ashisthe thinowit th
+Th the ts the oune ousthaine th athin out athingh th,
+Angh t t the thore thendengrmathe the orn aty the theathinge the the ous orende
+Training - Epoch: 24/50: 10240chunks [00:25, 395.84chunks/s, loss=1.34, lr=0.0006, run:=Transformer]
+Training - Epoch: 25/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 748.09chunks/s, loss=1.28, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e on out
+With honour out their sight warning.
+What this tout, and think it merrratant,
+But show my soul weary have in think.
+
+TANGONT:
+Why, the timess or of our mann?
+
+
+COLAUSNDY:
+I willl not tear to them, and what myseast?
+
+MOPTASTA:
+Then it is, take my honour of those thouse treaths, broad minde.
+
+ISABELLLA:
+It is it theere,
+Were it a speak of liftt to take atrms;
+And I'ling to my sovered for mi
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+My surddered fuled to ake thele out athorilsh.
+
+
+
+Fiears:
+Ay, welll, tellll tele youth!
+
+
+AUCHISTIF GAULLLET:
+Why, senooules tamen, aspe termiales too thele owhee t,
+Andifed temarrly; ase taskedory this, as idoust ast trueall
+
+And timedess, tiflle toutt to myreaninson,
+Wheren tooge abrtitatate as t
+Aut Lalord adones, asir.
+
+
+Thirke thate y whould bowe thouse treleanch are abasst.
+Why wifuld alass
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Tougond attit wavininin t tit th ous, thelathelemine'ene
+The in th, twireriran the thild in thesenouty owit.
+Fore are thin melefore the wane thore atey t.
+Wougouse thin whe wed arerus, hon t an haghifo!
+The honouns andouste t the ond med thelitove owathige ths:
+Thes an t oue me wormovide ourenan ores it.
+Thins twe are me owinde thidore or mes the th twithissseneatimenes t,
+An ous in, aro wendin s
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the sun: therefore they
+sea to the seat of this true to the sun.
+
+
+CORIOLANUS:
+The seat of the seat of this man of the seat,
+And then they are to the sun of the time of thee
+That the time of this true to the sun.
+
+
+CORIOLANUS:
+The seat of the seat of this man of the seat,
+And then they are to the sun of the time of thee
+That the time of this true to the sun.
+
+
+CORIOLANUS:
+The seat of the seat of
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senate orath, andoned there ino touce,
+There in theat t thele thele thele tellll thele thele tellll
+
+Thaird ino toucke there ore there teno tourt,
+The senate orath, andole to thele tellll thele thele tellll
+Thee teno tourt out out athes.
+
+
+
+Firorst:
+The senate orath, andoned there ino touce,
+The senate orath, andole to thele tellll thele thele tellll
+Thee teno tourt out out athes.
+
+
+
+Firorst:
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+They tidintitifutirt t ty ores t ongo thene thene the
+Toust te orere t te theld theno thelousenene ouge t, thess,
+Thes thenoust wore ore tse therthithesthellle ous ous, t,
+Thout athe tino te t the the thendenousthenireney ths,
+Thes t, arenoust trenele the thenoooutsttheyeates ous ous,
+Th th athe out t te the tithe o thelloume tuthelite tioutitutes,
+Th tutus oud t t t ttue out o thelele ut outheat
+Training - Epoch: 25/50: 10240chunks [00:25, 405.76chunks/s, loss=1.28, lr=0.0006, run:=Transformer]
+Training - Epoch: 26/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 748.67chunks/s, loss=1.28, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  her sat to-morrow to-down,
+When, she ights, wellcome, tallk, take here;
+The lark that think the state hold field their tappe,
+Third he, telll the sun of the most peny,
+When hour stout arrry her foull, another;
+For nothing she was a prerial tries time imple.
+
+
+LUMENEN:
+I am gloory of the life?
+
+
+SeMOREEET:
+Why, sir? then was thou art thou art telll wear?
+
+
+LUORTTTUS:
+That imple it, theneif, I have
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The bares, mastharord walay as lure,
+Thale tonke ino him tenorm; thele with anote sundderating
+Tyalll fourt off thene ire thenemst oreaton thine oreate?
+Whorere wore notone? serent asore thas mouth
+Withour subaddued aseremon bound thim,
+Ane ifond won some pearpls trelemph inonoce
+Than stride nevier treall toncly. Whe cause?
+
+
+
+SOMORRFOMEOLE:
+Wherere are t thou shame? I amm theneme torine
+Thanks y
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Onustre ove onen'es shesthe'e our ithoulllllldstont,
+Th t ts war, winounutren hin t, t s areeidindelelenoumingn
+Win, inge inge sthe thiththouthithirne ous s; h.
+Th, tee anofowon whenkenonth wndshen watre theeee sterere irre ffffflld
+Onn theloreeee wineeairse, offfund. inge he herthowhe
+Whimithe ard, with t in ale waleraigenons aun.
+Th or t me t the onounone sthairmour ougonge ffun,
+The, anererffu
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the country,
+And therefore the sea the sea that same I saw
+The senate of the seas, and the seal of the sea
+The senate of the seas, and the seal of the sea
+The senate of the seas, and the seal of the sea
+The senate of the seas, and the seal of the sea
+The senate of the seas, and the seal of the sea
+The senate of the seas, and the seal of the sea
+The senate of the seas, and the seal of the sea
+The
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senale of this sunade aland, andiny,
+Wherere in the searve of this claudy alond,
+The senale of this sunade aland, andiny,
+Wherere in the searve of this claudy alond,
+The senale of this sunade aland, andiny,
+Wherere in the searve of this claudy alond,
+The senale of this sunade aland, andiny,
+Wherere in the searve of this claudy alond,
+The senale of this sunade aland, andiny,
+Wherere in the sea
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The tre oume t watenoneathe ore hin th th the thimoumathe sthoum ous
+Th t tre tre watre ononememendere the th. t,
+Theenoustherenore we the or the therenoumathe them or oun,
+Theme the ounde wat the tear oworerenenemppun th
+Th or ts t the the ounonenenemaremave the ous,
+
+
+
+The te theren sene tenore oneit t the the the thenousthirmatumatugh
+Th one in, te twathe the thende the themare thememarem t,
+T
+Training - Epoch: 26/50: 10240chunks [00:24, 420.80chunks/s, loss=1.28, lr=0.0006, run:=Transformer]
+Training - Epoch: 27/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 753.52chunks/s, loss=1.34, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  to blood and his
+cut out off, and with all that honour, telll me true,
+The lest married and lesss fall telll the stormers,
+And would tear him fortaken the troumphand.
+
+TRANIO:
+Tush, then it went so much fellow. Were he did,
+I taking thoush money shamelesss with a bloow
+Which way streengle would truell felllor with
+And sole pour tone of the plucks, as thoughts it bonest,
+Tends it bonds to akelesst
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Tone here beshomemd, that treasponestst alese.
+Thus cannnstreay, the washomered tonkenory.
+Thenoure tellll, madarkingedocame to takenont,
+And brinkenen asund to thenk teno tongue.
+
+
+
+PRISTER:
+I wis nnote: ase't is trale igloues, toreruled,
+Whitherein abrtiaicins ware in alemps;
+Andvowid there trest anirmellesst aget tooo hear
+Againstst an there telimerity.
+
+
+
+PERTRUM:
+I telell ike alimps asought
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Ane anooumed ifind sppp init t angeneeathitooo'e.
+Ay ing wes, it waghe ast? male as inonoure hia t th,
+Antousth tho at t t tedin thonenimithin h thig
+Whsss t. anue onile thoorry wines, therouse althenonks the hugrand,
+Withouttsht an thoranes, angese thouge tind ivere he ithe
+Thid mare t t sese one aneno theeene t. it; the or arrrut inousthouguiele,
+tarernes ts h, wooon won.o touthithe wind, wout!
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the world be the world,
+And that the seast of the seast and alll the seas
+That the seasts overtaly to the seast of the seast,
+And that the seast of the seast and hearts to the sea
+That the seast of the seast and alll the seas,
+And that the seast of the seast and alll the seas
+That the seasts overtaly to the seast of the seast,
+And that the seast of the seast and hearts to the sea
+That the seast o
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I same ile to take thee tenory, to theat the tearmpestst ore
+To thele thenouse tale tone towakeras to theat there
+To senove to theat the tearmpestst trueallly, torinke anond preace
+Titus tuto theat the tearmpestst ore this
+s so dereatafured to theat the tearmpestst trueallly,
+And so atale andd tearrnedst to theat the tearmpestst ore
+To senove to theat the tenory owaths too theat the tearmpest,
+Th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Austenone tit t t tingesss o theno then oveathe theme te
+Ther tre t trrrrenenigoono tueeatssss oune thed t tsthesprese to o oooutssssssseesese
+Angelan t t t thonesssstheno the our an an ininkearmeshist
+Angellly ts thond tho tino the the thenke onoreateatey onof ous.
+Th, ine our ar wat t tesernidelereno themes thousss, te t,
+The te thitheno trenorenke out thees theeeenghe oue the th,
+Tor tr the th
+Training - Epoch: 27/50: 10240chunks [00:24, 421.73chunks/s, loss=1.34, lr=0.0006, run:=Transformer]
+Training - Epoch: 28/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 750.30chunks/s, loss=1.27, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  me?
+
+CATESBY:
+And, and then the mariagal woman to hear.
+
+
+LADY GREY:
+Well, I say not me not some, my lords;
+Thou'ldst not so speak men and old, my fatal.
+What is the name? Warwick, where I wan?
+Then wars not this night; for I warrrant him,
+Tell where I wand a spirring, and to aknot
+Held and so honds in his pillery
+Shouldst not be so not.
+
+
+LEONTES:
+I'll be the moon of the side,
+And that ne'er by
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I's t nimimat mendly.
+
+
+
+KATHARINA:
+If neveer bear this inin y trime ore ta hinnd;
+O hele ffataind, what's y, ithereins much afre
+That be twatcredingst welorngus.
+O mifffflleeecy; bethalll theme tone o thankes
+Of thane wsoran.
+Thile neveer w wondomeresss mone are t
+melee, aside, iff the polin clourin and trigumes,
+And with thim to be aredour and tonke.
+
+
+
+FLADOUL AMNUNE:
+Alas, as madane indesst t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Austhinde t ine me wang melan asssthane me t.
+Ay he thorere fffffundenege thattenery! mese ou th, oure t,
+Offinine se meathe s, s at min in anaminony onin he e
+Th, our athe mine thininonininie athous. o., es ous t, at
+The'the are iny min in tithide mosthindime th thess, oregenithire o
+Aniven, tus athares t, ine minifffffo an sth, tsts he
+I ide ane ne marrelithid tieiniery mes onke thus,
+ORove fow
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state,
+And the state of the state, and the state of the state,
+And then the state of the state of the state,
+And then the state of the state of the state,
+And then the state of the state of the state,
+And then the state of the state of the state,
+And then the state of the state of the state,
+And then the state of the state of the state,
+And then the state of the state of the state,
+And then t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senale of mine ond a thaning tone towan to theat
+The senalessss ome one that the timale on outh.
+
+
+
+SICALLLUS:
+Telo mendane them to thene athange and eligeves,
+The senalessss off thine oun atharage men,
+That t the timale tondines of our atemening,
+Then seeen asomed abe tale tone abe tone abre to theat.
+
+
+
+KING RICHARD IIII:
+What ilingly tongues and to thene athange and e
+That t the timemes on
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Anirme aie in t the th t thideime sthimime oues oure angh,
+The ther the the se se foniririrendit thes ongshss,
+Angre the oue theninenindind the or ors ous the the
+An the one fingond thene ther one the fone theatheme thesthe the forme the thingoninithe thingsts
+Whs ounings t thathind an are th ffue the t
+de theeeeme ffffffffffffffor thindindindine the ous, ty,
+The tindd the the stheninene thirinin
+Training - Epoch: 28/50: 10240chunks [00:24, 414.50chunks/s, loss=1.27, lr=0.0006, run:=Transformer]
+Training - Epoch: 29/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 748.27chunks/s, loss=1.2, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  me?
+
+PROSPERO:
+Neither, my lord,--
+
+PROSPERO:
+Servanting agues?
+
+
+PETRUCHIO:
+Nay, then, I thought the stand, and thou seees' that,
+I seeem here it as thought thy fainty is,
+To-morrrow, that the sea the more on the
+death other wanted heir.
+
+
+BUCKINGHAM:
+Telll me on our sores,---
+That she inster, should bleeed thee and breat
+And bround an old that had none but two made their heatso hath
+she dealest
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The wore time to heave, it s truch are t
+o thim at s omurrrn abortingered inoteous,
+Wheren that I have seno in tearms,
+And brotooned a iminng tone tritume.
+
+In Greost aselemgies:
+I tmultory, ast t my senat torune men.
+
+Andvoncarstedo that helow, in allll, stay t
+Woould n meve w treak nor tonese it, andest thele
+An holeassse t thine ist.
+
+
+
+PROMEO:
+That windowst alasour soundered,----
+
+I GRUMIZEY:
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Aunkenore me and weat ovean t tit are athe thon
+Th. thitithe these ous inke t. thon mithestho O, fowe th
+I thelelor thaneneneme hougin tsssss, t, inghtheleleneno heest t t'ssst,
+Orellimelooo anethees, tio, id t wout ins at a oo t
+Withinouthougone t ts, out anesthithin onge and ange
+Anonon ongre wond thine; athe he o ouese hand,
+Whindd howne we therene athere ouse in it t he he int
+Orunenireave ai
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the controller,
+And there in the sea of the seast of the sea,
+And then the sea that shalll be the sea,
+And then the sea that shalll be the sea,
+And then the sea that shalll be the sea,
+And then the sea that shalll be the sea,
+And then the sea that shalll be the sea,
+And then the sea that shalll be the sea,
+And then the sea that shalll be the sea,
+And then the sea that shalll be the sea,
+And then
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whe here in theat thene at t theat thene ire youth
+And seeen y thale thenous andvertey tongue
+That seveerest trueall tone abre thoust to theat thene at t theat t
+alesss traices andouged tonke thenore of theat t
+are time to thene at t theat thene ire youth
+And seeen y thale thenous andvertey tongue
+That seveerest trueall tone abre thoust to theat thene at t theat t
+alesss traices andouged tonke th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Aneappe an t t t tititithinime o o o onges onthththe
+An the therere thene the oreende orendearsthesst themed,
+Wh, t the thorenerenenousthese ossssss onge ove t t thithive
+Thime o the or sthe thestheathane one orese oue t,
+The the therelo he the the on isteatheatheathen ths th th,
+Th the the oune tre theateave onooon t t ths the theathenouse ththerd,
+Onghere theeeenene the the tstsst I theathenere
+Training - Epoch: 29/50: 10240chunks [00:24, 410.42chunks/s, loss=1.2, lr=0.0006, run:=Transformer]
+Training - Epoch: 30/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 752.42chunks/s, loss=1.25, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the hellow of his
+fairer dancers, would me to-morrrow having desert,
+And sommetimess than my senate happpy tremits
+To maidle this masires the masides. I seee
+Where hath made me betresss' trueffull atword and like aside.
+
+ISABELLA:
+Some master to thy streade? a think iscarrries
+Thrust thy customes was that myrrets me in this die?
+Was marrk and let us miscale and close them forgive
+To senate of you
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+This heliry arermed trenathe hand meadary manan;
+And telimes here it lide thoughts itheres traices.
+It chan isount fut theme firerery tames
+To my missdy arere tile a fality falireness?
+No, nevit ierrclee compes here sono,
+Thalilling matttter him tenderer destate,
+Thie horrnarove trile towardds ore thane anomed,
+That be'delieshed menased myoutiedes; theleresss
+Willll therus ino hear t.ie Geneorly,
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Thichimicy on watrssty s ie sounerelinitremities,
+
+Thed ouss atinishorour are h ing, m hesouitreagene'st mes;
+Wh one h, itre ithour he t t t, th mumiraidimy mathe istity
+Winde thtres hithin thigeifuis m thime ts hsidende ine
+Thowe outhitigre tert ther ones themengey-------pe it.
+Thorushithilis t trs h h, winde uthimidre ass titthe ty
+Thimas imeinkenenus w mple war atsthinainithinime ane e;
+s, ine
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the matter of the matter,
+That shall be that some strike that man made me
+To the season of the most starped of the mattter,
+That she was the seas of this death that like a day
+That shame in the streeeth of the massteriesh of mine.
+
+
+KING RICHARD IIII:
+What said is true to the court?
+
+
+KING RICHARD III:
+What saish her souls out a tribunes?
+
+
+DUKE VINCENTIO:
+What is the colour of the death?
+
+
+PETRU
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senarious shaiesh tremeained that here senove
+Then sucoldester than thene breathed thatought
+The madaily one thatre menane is treneathed,
+That sheipherd menase merrrimedenessss or seldieshes,
+Thale manake menane or there ith is treaity.
+
+
+
+KING REDWARD IV:
+Sondaroce tile thele that here senove mere
+Than somme so mile atore thime to thele menan,
+That shaie in thiss traice and monaneder than th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Thenene ouches whe me t our ore thirendinesesesperessss,
+Th w witheeereistre onder thin onees theeathe th,
+Thige the the the the thorerirerirereatin in ous on ingundeit.
+Thine th tives me theatige he thirre ingeneneatine titheeersss,
+Thenker fore wine me theatherereitire the in in fus,
+Thirithithighit me th ther ts the theatheaimene fffird fuerent thieeeeatheeee
+The in in th theatrea thithenire i
+Training - Epoch: 30/50: 10240chunks [00:24, 413.23chunks/s, loss=1.25, lr=0.0006, run:=Transformer]
+Training - Epoch: 31/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 749.00chunks/s, loss=1.28, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  my heart days
+As I will not,--who think, if he does me selt
+In pain twelt down with himself well.
+
+
+PATHANIG:
+Miness in that the won, where I think on me?
+
+
+PRINCE:
+This is it the purpose of thine, awaked here.
+
+
+COMINIUS:
+O, sir,
+Where set, alas! those that the ward if
+This stir, tilll mine own own ignorant, and tale well.
+The great is!
+What new more? can yet no death? I were note
+With alll wher
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+These seeeas nouge o bloddy, withest allmss.
+
+
+MARIVANAL:
+Thou sare t thelee msurely ame fond
+For hite on thelein: I woupp t thelem heave.
+
+
+Sexcuse:
+O held! whyore dofe! I prerint, thas I went myseelf
+As spourt but messlvesh fon mmendy tonge; if t
+thele weak inde, with were furenior.
+
+
+
+MIRIONAND:
+O, belesss, mindd!---
+
+
+
+MENENENIUS:
+Whe doukes here fonclly?
+W clamed tielll! wit in heis, ande!
+T
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+O teare t its, thele memelen whe out ted,
+Thit matwathen twiseles oule t, th fingovespplenout, oul,
+Win, fus, ishe whe'thorit we werererere ithit,
+Apt, t fun me hen helellllin hist the ied mele blonkext,
+Thiglesthed t o tre outh memyonitheathesthed,
+Theged in, an menoust thindondn, ine thine ine te puthe orend
+Theatststwithenore win tss, wied thithinin t thelatse th ameleire whenkeanin
+Theshen me
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the common of the common
+The common of the commmon of the commmon
+The commmon of the commmon of the commmon
+The commmon of the commmon of the commmon
+The commmon of the commmon of the commmon
+The commmon of the commmon of the commmon
+The commmon of the commmon of the commmon
+The commmon of the commmon of the commmon
+The commmon of the commmon of the commmon
+The commmon of the commmon of the commm
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The wateres in allll tone thenore for this.
+
+
+
+CLARENCE:
+
+Then duty in thele a condempt one that
+The wanderas to thele thene I waran to thele themee.
+
+
+
+COMINIUS:
+Wellll, thele wendd neat y.
+
+
+
+COMINIUS:
+Wellll, thele wendds, thele theme were t,
+An ware the tremesth on theat thene I waran t
+Ourne texteernchy, andit thele wendds.
+
+
+
+COMINIUS:
+Wellll, thele wendd neat y.
+
+
+
+COMINIUS:
+Wellll, thele
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Austhonge int t winghesthithithe aly th th th thime thememathe fueen
+The t out iry futstthesuthe theert or ore ore tseme
+Authe the thin thore the the ore theniremememoun the t.
+Offfore the thele wathe themem thithinde the the ous orememeatemesthe
+Thithss, thin the s thelele we tearene or t hin ther thinone
+The theathe ougenghenke oustht orsts t t
+Ange ougut thelind t me o the thstheloresthemememe
+Training - Epoch: 31/50: 10240chunks [00:24, 414.47chunks/s, loss=1.28, lr=0.0006, run:=Transformer]
+Training - Epoch: 32/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 750.48chunks/s, loss=1.15, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the compation of
+crabins.
+
+CAMILLO:
+In alll diest desires, sir, to death.
+
+
+KING HENRY VI:
+Alll to send for the disorrdiness of the
+otaken in time to breeast win a few-dearing.---
+And hear, sir.
+
+
+LADY CAPULET:
+As we are; a dolour wind, asister;
+The warm itsgent wanted are so spender.
+
+TRANIO:
+Is so, in asumer sore as shit from home.
+
+
+KING EDWARD IV:
+The wanton souls window the firery;
+Well sain
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Then were shen we'llll; I ampprinestenched
+Than menan tenderned dead.. The womane tonde?
+
+
+
+FirORDINEL:
+Why, sino?
+
+
+
+MISTRESSSS OVERDIO:
+Sino atrmenit,
+Whomates merrcy, was ashe hondds to theat orad,
+The sunamedia, sinck ale ivis oneated.
+
+
+
+LEORDO:
+Tono wearthenessd andd sweainst talll to thidink.
+
+
+WARDARWICK:
+Ay, monanster, thoou trimes,'tingst an mole
+This celerting, ale wanomed inotocrate,
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Toumande ore t sinininigoun tha me ar oneseane the.
+Whated, warm beare's, whoune hoved, ditherear w thenone tr.
+Farenere t, ty frewineewigrinoriesh sssssser
+Wer adddddn mithe showinestore osthe outs or.
+Thily f hinime he he sheis we spad sthincheavit alene ane
+Ans, mes iste thonoren, it o owinouge masthncch anghn orre aneand
+phear ware ind wastr thincransthin toue ate ine finineddd,
+Oumeareared,
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the world,
+And the word with the word of the world of them,
+And then the world of the world of the world,
+And then the world of the world of the world,
+And then the world of the world of the world,
+And then the world of the world of the world,
+And then the world of the world of the world,
+And then the world of the world of the world,
+And then the world of the world of the world,
+And then the worl
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The wared ino o sldeeer atomenent.
+
+
+
+KING RICHARD IIII:
+Then were nconstaninted with theathen and lenis
+Welll for anor of sligncining anor soucres, anormone.
+
+
+
+LEORDSNELEL:
+Whare y, sino?
+
+
+
+POLLIXENA:
+Ay, mast massk me this weared asid inon mone.
+
+
+
+KING RD RICHARD IIII:
+So sad 'tis trueall for thim andolingest.
+
+
+
+KING RICHARD IIII:
+Then were nconstaninted with theathen and lenis
+Welll for an
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Aneare ore out mind s the werninineinoneaptch oung ons,
+Th arin anino whe wansthed wadom was we teand thithindonen,
+Ane the ous orend winirndinssss tind alesh omelakeandore
+The titin tine he watrme o onead hithitinof war th ts ong,
+An ano theathend whe whe tr the the spreneneneadeatstst oussss
+Th win the ooondeathineatind ous, or or,
+Th the thinoun the ousthe oughe ormatst of aninofforrrealinoned
+Training - Epoch: 32/50: 10240chunks [00:24, 413.70chunks/s, loss=1.15, lr=0.0006, run:=Transformer]
+Training - Epoch: 33/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 731.00chunks/s, loss=1.27, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  mine;
+And whose trickless thus in spreador's bolows were in the
+Howe'er sit at ales, and so water's happpy tit.
+
+
+BAGAT:
+I'lll make my leave of theem only speech!
+
+
+Alll:
+O mean of me! we'lll were in some searve, and with their bolow;
+We willl the time of this friend,
+With shows of the can, talled off the dangerous
+And to the streen, would nott thigh were the crown;
+The since were nor so too tall
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The musicks welomed theat, thas a mare, torene,
+And somoooth with ous orne cunstolessss weared
+In somarrch thie thaus benot.
+
+
+
+BUCKERTIN:
+Warencun thas, torald melorads; the ware
+Oftwaive iddly, bun that theruse off thone onddes,
+As senoves truske onf a trarused falith
+That brouch'd amiddd ano our sucoves astamed;
+Thowe ino stande for thim he'lp aton theat.
+Our charoos:
+A socared, boloow, with w
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The tre ie fut wonememevestwithe s, t, wh,
+An, manuno t t trenone t ondeeaithe at.
+Auther merindie! thusthorch, as at wan te a te wes
+Whoremement t, houne ti, whenke ar tho horeressthidathe?
+Auson an ine ind s whistho mea anon, owe sthit;
+The ithenon ore ire wales, athor thougoupplan thithous,
+The the is thunkeremathon the on or me athe sthefoure.
+Thireme ther ithe in ithem on an sthondat ougethe
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the sea,
+And that the senate of the world of the sear,
+And the sent of the sear of the search,
+And that the sear of the sear of the search,
+And that the sear of the sear of the search,
+And that the sear of the sear of the search,
+And that the sear of the sear of the search,
+And that the sear of the sear of the search,
+And that the sear of the sear of the search,
+And that the sear of the sear of t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whe sare y gunsporest were atore them at theat.
+
+
+
+BUCKIO:
+Twentherey, if t then thenou bothes ano emen.
+
+
+
+BUCKIO:
+Twentherey, if t then thenou bornd with theath,
+And thele thenous andviced tonke thenore.
+Then seeeen tearms there torrme to thim thale meve
+Theathes trimes to o stheer.
+
+
+
+BUCKIO:
+Twentherey, if t then thenou bothes ano emen.
+
+
+
+BUCKIO:
+Twentherey, if t then thenou bornd with theat
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The thon outs t wounde out oueathind t.
+Thithingh the t wat is oumatimale ffffffforr's,
+Theeeeend, t the we th thenenoureareathe or ous ous or,
+Aunour athithithare are t t ies th, thithende the the we oremeaththeareathe
+The in t th the seatreathe sthemenorved orere out,
+The the thesthe woure meme ore ond on than thethithine the
+The there orre watemem ofoun t. ithithith, thillle is in whoustst,
+Th
+Training - Epoch: 33/50: 10240chunks [00:25, 404.02chunks/s, loss=1.27, lr=0.0006, run:=Transformer]
+Training - Epoch: 34/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 751.95chunks/s, loss=1.19, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  are all their chooses:
+If I must not be down in persolve
+And plucke his hand oft on the preservatiolan
+Were his horse or horses or suing
+Shall serve mine habppined; and so
+two within to--morrrowing.
+
+
+
+
+
+KING EDWARD IV:
+Talte wherewore thou wert to bash an one.
+
+
+
+FLORIZEL:
+So me were with my bearst arm of my service,
+And mean to be a pursue.
+Come, some with made me what I add masst him,
+And towa
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whomat inon mean our besoure of
+ccaptair'e, ithe stops trowe asheduly,
+And tast more itin tines abuge t
+And hanored our sorerrier entemies,
+While m tore orin theree,
+And soucre tourmes o offf mine owice
+To hear m hisp ageainst that thenuse
+Fearth the tige--seadd ascheded man,
+And to thanir that I am n sureed ofe.
+
+
+
+TRANIO:
+Widoure, in thy toreld o chare, I warill.
+Treleave these fasthioons, andi
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+pe hond, ontat t igre be wone fouthe twefarndgorts be t
+Fone. were thorizend wathe iere. owofore are.
+
+
+
+
+
+
+Che thome warearellinougon, in wing, andourtighit
+Shind th ine inchop the thithogenesthe hererer owors,
+Ton in, hin hiverave hine his hesithoware s fongh!
+Thsthitholy anoure d fut ssesh,
+Ithighonndeellleles wane an ie an w.
+We hole thondo'shearrse the oure, in, t he arse sthas tore m
+Suingo
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the stroke of his father,
+And then the senate of dispersed the seat,
+And thene were as the world of the world,
+Where is the senate of death of the seas,
+And thene were as the world of the world,
+Where is the senate of death of the seas,
+And thene were as the world of the world,
+Where is the senate of death of the seas,
+And thene were as the world of the world,
+Where is the senate of death of the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I willll t be so trenizeden to thene and
+Then were are toling to thene orath.
+
+
+
+KING RICHARD III:
+So we wndownerer tongues to thene orath,
+And tonke thenore of this inonderer,
+The warerin ofier than the tenerrreshies our suiddes,
+Then were ast t thenoughe and age ond,
+Then were are toling to thene orath,
+And thenere of our armourr owin on this isle,
+The warerin indeatingerinesh on theathere,
+The
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the oont t se ore the oo hind the theatherstonouremert,
+Thine ous thin winks owe ousthithin oun our our ar
+The athunounshe he opphe arnd aver in here tinie thighererme
+The oue oun in heres our oure t.
+The winour on whe we wind oure it hithindesur ingh is ing,
+Tha thin thininore the the oue oughe ore onddddds
+Ane the thereearend he he win on ourerererereathines,
+Wies in ing t withore thigenend
+Training - Epoch: 34/50: 10240chunks [00:24, 412.94chunks/s, loss=1.19, lr=0.0006, run:=Transformer]
+Training - Epoch: 35/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 754.15chunks/s, loss=1.19, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  her butcher. Was this
+sift of a wasp too sound and about,
+And breathed them to bring them breather.
+
+
+CLARENCE:
+Alas, by me to poow your father, but y your patience:
+What motive you this danger other had,
+And then but shall be so much
+To brittke our friends. Tarquin it. Thou say
+the poorts anoth a pain of trematn: speak now
+with merry tinker-place of our appear,
+While with them, what an iguirar o
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I willll t slay tony thowe that s tay are ign it
+That sheares no waroning orof terming,
+An maprerope it menot be ast take o ild theat
+thinkefull ipuringhar howly thunke in thale spenit
+Than widos t theatwn ayward the wounds
+Bere thelat fourtterer fretherey:
+The putttting tofft alores, there shale w me?
+
+
+
+MERCUTIO:
+Alas.
+The prophessooop to hear, andoly thankes.
+
+
+
+SETRONVEL:
+To senore the destat
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  thirestioutat t at a
+Win's ffimingreshin plullle at areasshy at
+pons th t ome sthisowe oourathale th me ar te me touthin thoreme
+Ankes the th, woreeee thonithithar thin t t inge thise thy ths
+Thige funounorout heshey t ar athe athadiminopppppe t anst t hssteathe t
+The tho ofugrenge wathesthit owat hit th boun.
+Thth thinind at wathouge inkin ffande ht at:
+Weirthoride s, t hin t ous t t ous ankin t
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the common of the prince,
+And then the people of the prince that the people
+That shapes of the prince of the people,
+And then the prince of the people of the prince.
+
+
+CORIOLANUS:
+The punishment of the prince of the people,
+And then the prince of the people of the prince.
+
+
+CORIOLANUS:
+The punishment of the prince of the people,
+And then the prince of the people of the prince.
+
+
+CORIOLANUS:
+The p
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The saname in this orath ano e tremeant to theat mearr
+Than the pearpus ore that we hare the wount
+Of t dine obe thouse on theath ousur of our atrmenent,
+And thenoug the time out o of dearingng dout
+The punish'donke on our senout athe time to theat theath mearr
+Than the pearpus opaths oof our atrmenat,
+An so o man our stain or of thine eare,
+The senarve or this oun at theat theath mearr
+Than the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Theare ontat t the t the to theatimimemathene ths ine
+Th ore the ongithe ougonirne ty onghthth ongithe theron the
+An the t the thoppeatheaime the osth th th
+Angeathe oumathe ond t thed t to themeathe theloouse t,
+The t tous thele ounimoninithe out ont t t t t t
+The thealeakeno theme ord ory wathere thoun thithin
+The t the inke theatimeathe t the ine ts theathearmeareare t in te
+Ty ty thimes thime
+Training - Epoch: 35/50: 10240chunks [00:25, 408.51chunks/s, loss=1.19, lr=0.0006, run:=Transformer]
+Training - Epoch: 36/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 737.82chunks/s, loss=1.21, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  his losself, and his base
+As I would have more stimply trong.
+I would he made mee to the best,
+In to be so so soometimes sharpe and then wanters.
+
+
+KING RICHARD II:
+And such a potrency of them ass ylies, and shapes for,
+Willl I dream up my misstress,-or whom
+Is promised the beaster wind and that seerps
+The soul of shepherd's doouble abroach.
+
+Now, why, would hast you master here,
+A word which thi
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I have are sprairing; andince to mendeerss,
+Who haplminenessss ome themat torach,
+Where in such evexcents with amandedstey?
+
+We'ROTEn March aremous innsnuctorss affffuancy.
+
+
+MORIONANAND:
+O, thele mextaly, whas in aralll.
+
+
+GRUMIO:
+I woush wreath asome thanousesable.
+
+
+ROMEO:
+Ay, my serrrvice,----
+
+
+
+NuRORFORTEUME:
+Marrry, wife aspared toruse tournes, my steervesh
+Foror thenoug as I, an barate th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+A trandele. ts ppememessss Co t itss iby.
+Thitre wiffffffffffus t:--herictct wine he in, mare wind
+Ande't tan thoumes, t?
+Themouse; mass wou mest, thin, hinde t wathe w he tithe
+Mushishereare wildes s a.
+Sounnd meeeare whondshe th, were heresthe appald sthe wanguguge
+Theenteryss tineme mess, athenne t. whe's s,
+Anorenowere wenound, s!uthe heds! t orin, hourare the?
+Wathous we wat was ware wishith
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the world,
+And therefore the sea to make my soul.
+
+
+KING RICHARD III:
+What she was the beasts of my soul?
+
+
+KING RICHARD III:
+A man that shall be the seas of marrriage
+The seas of armour to bear the seas,
+And then the seas of many that bears
+Of them alass the seas off and secrviles
+The seas of an old and how the seas,
+And there the sea that she was the beasts
+Of the season and before the seas to
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would hadst t tho those thousand that mearrch
+There were tone aswes.
+
+
+
+KING RICHARD IIII:
+And heare mere tas the woundest to theat theme that
+mosthed byears thane to theat theme thath my boody
+Touch mere tale tonke on our sereents,
+And thene thenous were an aremourers
+Than the senaless ome theme to theat there in a thape
+Then seeeems to thene as a washomed byothed
+To thele as marrrchameded ton
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Anemare outs t wored the whe the thenoumathireeeathes
+Th t on on th the bemy thenoustireasememe anhe
+Onch th, t thore'd the thenougousthemarmats ous out t,
+Th the our akelelestirmounes tsssss oningeshstreleee ar
+Thes an tsst the trrenonooooonemaigeathes h.'stins
+Ths thoure ag aresthe t t t thouled themememe thouseme t,
+Tharrern tsemelele ms, thoouthin the t thesth themearmatheme be ts
+Thine the t
+Training - Epoch: 36/50: 10240chunks [00:25, 405.78chunks/s, loss=1.21, lr=0.0006, run:=Transformer]
+Training - Epoch: 37/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 727.26chunks/s, loss=1.06, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e and traitor
+And with the corse that thy cried to theee succh
+A father, stay; who with his hominis, this stone
+That so shall not bleess. What chose you
+That blist the court with the soless in town,
+And send theem how her hate my briddler.
+
+
+PETRUCHIO:
+There stout were a mellas to be these my life;
+And I'll bend the steal that hold a wasper
+So trouchers and his fine circle.
+
+
+SAMPSSON:
+Wellc hare
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+O shalll Isame so time too thane were to
+then mexas trone a tonguty andd tonck than he wondes
+For spevelll tilll then time aservant weith
+The conquertes are thene breathing with s man,
+That brathain we'lcllas tallk thenks in a arecce
+Thale come tonguch anccrosest inin heallth.
+On thousard nelig therough alond
+These fortes to this world, but tco this wates,
+Thorord w with hath child there them wen
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  id
+Astede tit t s ppllllato------hyssss foucke'donit alithins t,
+Who th ing owininslle t hin th whs titheathisthithene th
+Hinge an th he wispormisthist it h'd,-ssh'd
+Thon s hon t s the atinoure'thinkitt h f ad b ingh thisthid
+Offis at t t the thennimysss omesteees,
+Wheldds t w thelllerestho an t t tsss t fimalenkenouchenit,
+Ssss w ting s s istelineleaffffffin ang tst mere
+Ange stheale athe'sthein
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the court?
+
+STANLEY:
+No, my lord.
+
+GLOUCESTER:
+
+SLERY:
+
+Then be it s tread to the sun and stand alll
+The stands of the season and could bridegrooom
+That thou hast the matter there is a man
+To save the trimm that the consent that the widde
+And so much as the washing the courts to the sea
+The senate of death that willl be the constant to be
+The state of his commmands to the seas
+And with his such a
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I hadd ast amond my tone athmeratitions
+Than tone acore agat t thene bend out of a gracious
+And leave t theme t theme to thelll.
+
+
+
+COMININIUS:
+
+Come, come, tome thitherr.
+
+
+
+CORIOLANUS:
+The senale indevid to thele theme to thele wendd.
+
+
+
+GRUMIO:
+And so t soo nddwerer thene at them at t
+seall thine that we have sthale then before.
+
+
+
+POLIXF MNASTHASTIN:
+
+Goood thorn to thelll? thale mendds to th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Ankend t at t theneeeememememene fe t t t
+Th t t themenen themelele t tst t: in t, thimenelele'thit's
+Thint t wing t t t t the athememen thenemith it
+Thelle wh the whe b f thisthidelllourit t t ous
+Th atinkealin wanke tttssss, at t the telenorememememengllth
+Th th t wone t the thele thid themememst.
+Thoure t t t, t t t belelelo then thestssssthememenre t t t th
+Thin theno the the t.
+Thengrearerer
+Training - Epoch: 37/50: 10240chunks [00:25, 399.31chunks/s, loss=1.06, lr=0.0006, run:=Transformer]
+Training - Epoch: 38/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 720.18chunks/s, loss=1.16, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the world.
+
+First Servant:
+He's gift! how sweeet me asss.
+Sweet down! If you are you down.
+We shalll never set dread these arash
+These mustards of my writ.
+
+Secrvay:
+To were you govert me for this ass yet
+The mustard was the father word, along!
+O carrried! why, as it was?
+
+
+KING ELEWIS XI:
+What, with a hond shealthy had beeen,
+Where was more shubjest,
+Which shallt be the strives athims an
+Telll t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Therese clomeds, whe horse thath y houses andoucked
+There canon tread tho athsk hy linege,
+Theat'erein trenge what I shale hough?
+
+Foror Murdanery:
+Howne meascur!
+
+
+FLUCENTIO:
+O, where shence? whas we wile?
+
+
+FLORIZEE:
+Whith athere yond out twimo? our streeength.
+
+
+POLIXFFFORD:
+My faraie streenks on heard;
+Then made heare m treme thim thale theru halong me
+Torre temirrabls; andory nduratins are:
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  thordit ably
+Aurere ane tttt tchond, fungo thy thifureeeindeaneeane,
+Ton's, wssssstho ad athouin my;sppprt h,
+Thse hy wisthoushoureandddout tes h, wines,
+Alo meisplllllowhone thichores, a, heme tes andire tirrrrmin for
+The add atheshitheare th. tir bor thithy waremid,
+Ths wathillle wiffffors, in hith t ale athonde themesspppes.
+Ton hire tssst weme'de ano---h.
+
+Thorere hishe warey Gond s ffithinss
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the dead,
+That will be so far our father's day.
+
+
+PROSPERO:
+There is no more that widow off your worss.
+
+
+KING RICHARD III:
+O word, I would say 'thas your harm,
+That you should be marrry him that yrank.
+
+
+KING RICHARD III:
+O, what a wofull stay that word is the faultation of your sword,
+That you should be so hard a word,
+That you should be marrry of your aims.
+
+
+FRIAR LAURENCE:
+There is no more t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The warer indone tondrown andoror meadde
+That breainst my faunctie andd my streeengts
+Than the mardame to thene beattt me ore thank
+To theat theme break thowa orath anchores.
+
+
+CORIOLANUS:
+The ware orath wandering one that wounded towaker
+There ware them were t.
+
+
+FirORDIONE:
+Out on our atrmements so fareway.
+
+
+GLOUCESTER:
+
+Then dusty n ame I that my stade bend;
+And I wit hisour fince tham sourrt
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Themere wame wave m torererererere the tor tor forereadstheme
+The th th th the fatremathy hy hemy tan theathatharme
+The th irt t titreatremesthen th ts t,
+Th theathemen we wathe ore t thithinge thendenke warey
+Tore meeeend nt.
+Themuss areeee wathe time the thindememelllemeath orer
+Thossss the we watre bememendddd, thidd,
+Thinerenous there win ath the by thithore thead
+The ou owest he worndser fou
+Training - Epoch: 38/50: 10240chunks [00:25, 405.56chunks/s, loss=1.16, lr=0.0006, run:=Transformer]
+Training - Epoch: 39/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 752.53chunks/s, loss=1.14, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  his face.
+Thou hast a woman the fault's sadd soul,
+That with short a scrange of them way.
+
+PETRUCHIO:
+Thou, what'st tone thou wilt say some confess.
+
+FRIAR LAURENCE:
+A belough, I went nothing trage treasurage and
+To beats their could take abryeath.
+
+BIANCA:
+To be you talle!
+The sad so husband and leave years as we'll take thee and
+Of my son so much for the fiell out
+Most are so louds and many mos
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I t hale that skeleesss ago leneaven thus.
+O I hamede indeeeed, anduleten my ssonddey alid.
+
+Thirderar:
+I knowle nonot. to thele take indeeeed to takele anounthreran,
+It belestieves theme allaus I said h,
+Hencas my fathe, andied this fond that
+Whe have I brouild yeare tonduce thine oncce, tonked men.
+If here igopu that s shade tale tin this wandes tare.
+Wherere it t deleay hounds in this tackenes
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Mustimeled tssshoninge wareeelane abounthingeds
+Thielld wing an sth avithere myoldeaidingeshe tious mes!
+Ifuthede howean shan th mavelllanluce'sthe ty t as:
+Wh thenononomen she fein, the trerarer fispenemean oun.
+F fltss y ar Goleeaggin wagin't t in;
+Thoury sshinde ane shouce ts thisslddd, thelooue f,
+Hensk thindshelololelone ous, win a at,
+Thelendindongun t fsts ts s ablondeaneakenddownds, t.-s,
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the common common
+That he hath been so strange on the sun.
+
+CAMILLLO:
+I have noted to the sun.
+
+PETRUCHIO:
+I willl not seee the sea of the sea,
+And thenks the sea that she was the seas, the sun
+That the seas of the season and sends the sun
+That the sun that babes and stands alll the seas,
+And that the sea of the season's sake, and so say
+The sack of his face of his sister and souls
+And so happe t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I hadd asond asand aslly andone aslleeeyss;
+And thele thenou ale tone that bones thenee.
+
+
+ROMEO:
+I willll note bend for this finde that bades men
+The sunsueled of them alack, andined thereein:
+The sunspeakenesss in theat the caust
+And say strange athmen. I t cait yellll tenderornesss
+Than the caust one that braings thele that
+none sofft alack thale theme tonde.
+
+
+Firound Mandage:
+The sun indesti
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Anirend atat t theles, th thenoou thin the the thele themademarembllle in.
+Thus ts tsthondonde theake foune the the ther arme sthathembemerrrrale
+Thes ts ts in t treanimen theasthe ty in the the thidendeaththiremanes,
+Wh t t ts ts theneneno theno the ad athe bllleatwhthe hemennngus
+Therererery tshen sein in theneeit t theathe blld thenous,
+Theeeene the the sey thormathengonanone t ts the thsthend
+Training - Epoch: 39/50: 10240chunks [00:25, 403.13chunks/s, loss=1.14, lr=0.0006, run:=Transformer]
+Training - Epoch: 40/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 748.36chunks/s, loss=1.1, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on 't,
+Without mistrust her stand babes, and blue them,
+And say 'thank up thy distarve wretcly,
+Tevely with tears allowady,
+That bastards have toooks allliedge:
+Warwick's thirt to the clie untill my church,
+To woound my house thoughts too die.
+
+No marrry, master man, think thought the time too much pencius.
+
+CAMILLLO:
+Sirr, but as y and amoly he seas,
+Telll himself to the sun that hath brung me writ.
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Wherere it s deead, I wisht ino adoly's windock's,
+Than it'e n bevy trimegont andoly thale
+Theat marrrry hand watcary hath withind tith weallks, are nourth
+And sereely your commpenditange tongue toning,
+Were it nono mind to'thenk's mine ondes,
+As tararrvellly froze his fathers' windochs:
+O held byother'd dowed ay,
+What halond honour in a evinelyagene,
+I have doth them two thinked menorts,
+If t th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+he wnile its s we shine twealddoncowinghthow woms t t
+Anesthithe woooopppt m inge ous hind:
+Assss oundes arellare our he he ay, thatwrreathire thire
+Thts ngngrm tsteat thanees onoores ouge d: wne me
+thesthinon areadsey nks and s. ncreeeeee'thinoneveeenss!
+
+The win angelappptrent th mes when thextherre mit.
+se fugeee tht, horen uinond t ane hathats ademore mpppppplared
+Thenolaragied fue wors, wing
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on e that warrants that they
+have been the sea of this mann's word.
+
+WARWICK:
+Then we cannnot wit change the commmonderatelly
+That thou wouldst believe me lawful tongue.
+
+
+KING RICHARD IIII:
+What say you that would have heard me to this man
+south and the truth of our dear death that shalll be that think
+That he sends that he same straight too much
+That we have structed the course of dine
+That thou di
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The sendd to thele abre thim thale thenus:
+If would tearm the blast orath onde athmoronid
+Thale thenours to o bedd wend tone.
+
+
+CORIOLANUS:
+I dare never speeak think that sorrrrow hath meade this
+daggggeratefulll tone that black my band thank
+Than t thenut that thele mstuffff alandy,
+Thake that thenks thenore that thenks thele mstuffffleed andd
+That thought tend this dadam, that
+Thele sendd tone
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the outs t se trtrtrninimy thithsts ones,
+Anounge thid t whond thisth the om the the we madddddearearearestinen
+Th th th ty thonde theathend thegenure thenenireeery
+Ofun ats, th, thonde the we henksthe thearenereeenerme ts
+The an an tsthenenellllllestin ar.
+T t t wandre t who thondongggre the te thes t theadddenirearenke th?
+Wh th thollengenerenke the tssssssssthenordinophinop d at?
+Th here h
+Training - Epoch: 40/50: 10240chunks [00:25, 404.05chunks/s, loss=1.1, lr=0.0006, run:=Transformer]
+Training - Epoch: 41/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 743.09chunks/s, loss=1.17, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on ce that, because my brother
+But the sideration of thy bloood we willl thou wont.
+
+
+BRUTUS:
+The weapon, this hopelesss traitors hangs and my
+breaking,--thirty to hear an end,
+That while I lend thy friend tonger,
+That thy sovereign steern being the preservatiors.
+
+
+PELTRUCE
+TICHAMLLO:
+So sit easy. I am ass they say,
+Some willl beatt thee with come for thy heart,
+Whence't's morninght: but the tabless
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Then blowss my fooll-yminves, att least,
+That wantchy thony tale tspeasts ome scovererers,
+That hanonks, thine hirnd, wavitess, andviffinable.
+Thou shallt by ache more izunn,
+Than it lettss, if t amy benow's,
+And thenough his lenet.
+
+
+
+GRUMIO:
+Why, lthone indonest, as I asle t.
+
+
+TRANIO:
+Sirr, Go, yend mithe orsits
+In that diseeasince thenore torious.
+
+
+GLOUCESTER:
+Who ilin tvelllowst how ow the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Aneenove s ts, whor y I'douthit shest.
+Opp t ithe ms, hy me worussthe andddddd tinereves
+Wineno h ansssstwincesppt t fuere oreshssthessthe
+Witw ames, n therere withinowatore ith out w.
+Th uss! fffhe t hores, w-mir wneathe myonde hengere
+Ose thenord anchen w for, thmy thengougoonkeneatire I's
+Or a an s, t. thanoffrane ine, I, m wage foust t won ind:
+On hy wilouthe theanderddds twn blld an foooo he
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the traitors
+Are they to the prince that they should be the
+serves me that thy brother soft and my sorrrow!
+
+DUKE OF YORK:
+Why with our solemn comes to the sea,
+And therein they set down them to be a man.
+
+
+KING RICHARD II:
+So that will I lie thou the course of thy sorrrow.
+
+
+KING RICHARD II:
+So that stoop the seas that he was the complaints
+And thereit is not o strike the traitors of a man
+To se
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senale indleessss on the times oveather
+Than the timeme to thene were an masssserves
+Than the trenessss orefoore theneesss that the trastore
+That was thene before the timeme to thene were an masssserves
+Than the trenessss orefoore theneesss that the trastore
+That was thene before the timeme to thene were an masssserves
+Than the trenessss orefoore theneesss that the trastore
+That was thene bef
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The time intin tre time tsssth oooneme theele the wn the orm
+Ofirendeneneseses on owsssssssssthiddddes bs burere:
+Theeeeeeeeefon whe g, f, t the thenenenenene thtirey arsssst,
+Anes t t t t thend thy thy thy foreeenoneathyrenesthesss!
+Th, tsss, t ano tre theeno the theme twermemenemerearmps
+Ofon t, t, t, thorthe then the they they theyrmendenorenoneres
+s or me fus, and thesthithonore the the th th
+Training - Epoch: 41/50: 10240chunks [00:25, 397.11chunks/s, loss=1.17, lr=0.0006, run:=Transformer]
+Training - Epoch: 42/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 741.82chunks/s, loss=1.19, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e she tribunes of this death,
+The words of the world were strong and could trust,
+And bleeact at the parents of a man.
+
+HENRY BOLINGBROKE:
+Brake it is not thy lesssons and thyisheses;
+But now we mean to bettter a stande-faced son?
+
+WARWICK:
+Now shalll, withine eaglenesss, with alll themselves.
+
+
+PAULINA:
+No, not alole;
+I'lll send you hereall in acccust only:
+And, I'll brieflt itself my fearful wel
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Would we have I wearen alaways, thousase no brind,
+To woldome in ouses of mittty thundery:
+And thenough notot tellll he deares: byet are tone;
+It woun touth trushe andmomity.
+
+
+ISABABELLLA:
+Ay, myone are thus wart ofr a anctiall,
+I must benott asome tolan astomman.
+
+
+ANGELO:
+What t inutots madake in this breathinther?
+
+We Marrciumed:
+Take him ure tone, whonenkly andvage that woran;
+Anorothang byo
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Austre iffuly ale ssst t o fffivenddenonenor tt thesss,
+The thenourd inout wat bld olonnthe heshene the.
+Tound fure we blere athond ond; hesenouge one ower he.
+Ithondd me wearelan t owhit. th.
+Tofithererenoune h th, mors, y ashanoumin are mouge a
+Thesthedare t lle se fus, forenoveeld an hesthed the tone;
+Wh wnde withe sthiflifouth t atine, tth'sto thongenoo mine;
+The whe'de theavererat indsthe I
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the sea of the man.
+
+CLARENCE:
+The mattter of an old and her wit to the seast
+And thenk then the senate of death of the death.
+
+HENRY BOLINGBROKE:
+What means the mattter?
+
+
+POLIXENES:
+The mattter of the sentence of your honour,
+I have not sounder thee that yet should be
+Here is a man that hapled with the seas of York.
+
+
+KING RICHARD III:
+Ay, then I shalll be seeen the world of alll.
+
+
+DUKE VINCEN
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I say ndoth the senont to thele beneforce thenore,
+There ishe mathed benot theat the senonte
+That breathe in allll thenoughes to beatt;
+And to thele thenou at thenir theatses thereeofone
+To theat the senate inn tothe, there ware nonot thenee.
+
+
+HESTRUCHIO:
+What is t there isle trenount thenou at theme to theat theney
+That were an thone torach, andoly, theney are not
+Thele benet. I am nour ofof me
+Training - Epoch: 42/50: 10240chunks [00:24, 741.82chunks/s, loss=1.19, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The tre ame trele stheme torenisonoun the the ty:
+Ande tirenoreme't t thes thed, beno theare ble'd theatrd theshenowat
+The the fugh the heatreneshowathend oussss th's tre thes!
+he thenonore whereathe the t hererere irendsthore?
+Afond th t t the amo the heno bllle ouseareathenessedd,
+An t thed t wheino'the the hener blllleaneareaveaniness t ts,
+Th tout alithele onoughond tr tr the anesthemememe bo
+Training - Epoch: 42/50: 10240chunks [00:25, 398.71chunks/s, loss=1.19, lr=0.0006, run:=Transformer]
+Training - Epoch: 43/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 753.38chunks/s, loss=1.2, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  a thing of his shame, which thou hear'st
+Then winter's arm, halling them, whose hand anging.
+
+
+Secuper:
+What, he mattch, his swore, and willl accqent
+The shifft of your aught I day nought.
+Where's my tongue Lord Ha! wound to make us or
+too move my son.
+
+
+CAMILLO:
+I have nothing enough to speak.
+
+BESTHASTIO:
+So do; I, as, you should not seee your stard:
+I know not think you with him, sir, hold, th
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would tine awidould to take agawayer,
+And shealt with cheror hear the word.
+
+
+
+BRUTUS:
+Wencary badare keeeps, a stainding one one
+Our honomes are truempe then with beaut with dowe!
+The waill I aplitie thine armazed that sad went?
+Orone theat, givive n thim tourths, my mosth:
+Were that none w, an s, inon me ssomile one o'e
+Thes, sire abanded's mouth, adires;
+And with alid menale icould are too m
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The wile tit s horererererueappp a ould o, me t ouf ppeatheadeldesth.
+
+
+Th hth, s, sinonouswe t my ire, s mermealonse sorrrean,
+O; igrveshellt in hes, hon woweiglld w the ath theendouroreswingey
+Or w th, allllleloounou ad toow, t! s h. thilin furit Coue i!
+He ke fouraith daveeeear ars; h an the th
+There whore mese wirenthin treeerere, an ffouthouts, thige arn,
+Wine out ougore t t sthe offo: thy b
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the senses
+That the should be so for the warling them.
+
+
+CAMILLLO:
+I warrant your son with sorrow breaks our stands.
+
+
+KING RICHARD IIII:
+What with him, and he willl not so hellp to him.
+
+
+LUCIO:
+I would have so much bettter than the controversy of the
+shepherd's son,---for the world to the prince that she
+shalll be the senate of death and honest that she was
+The senate of the sun upon the sea ma
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would had nono mind me take onour athmero,
+Thake the oustward beattter and streeaks oun theat true
+Off alolle, which was t thenk for ano eleviesher.
+
+
+Secrvatator:
+Then so were nour servize thean to sendd theat hereaby
+To sendd then and exemperieshabed with brieatths,
+And thenk thenou ake ano oldd fame ount asomed a
+Trenemety, thenoughe termes there alll teas the meat
+Than shadow thenk foror th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Thestre apt s ware win thon thithithink he ous is is me is
+Thoun a are adoough t ss ke ffout aremindoweeare thes.
+Th w w s, there we washinous m hit hit and blind
+Wim h houre ts hore oldousthinisthe hest angh an wead,
+The thinge hine wathe ouere t arere ar thesthes t.
+Thore wire wo whougouthithithit h h t t in waroumanono hit
+Th h w tinders wisthishink oule an t. mesthes gofourin, in, wines,
+Th w
+Training - Epoch: 43/50: 10240chunks [00:25, 405.13chunks/s, loss=1.2, lr=0.0006, run:=Transformer]
+Training - Epoch: 44/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 733.37chunks/s, loss=1.18, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e that is not, not him.
+
+GLOUCESTER:
+No, no; but he cause in him that did nought.
+
+
+KING EDWARD IV:
+But holy are tower, and word thou wouldst devise me,
+That is no good with tumb one artille,
+That traitor's bridal is a shambly and
+Where alll firest tends at the wore.
+
+PRINCE EDWARD:
+I know not hour is not slaic an ord it is.
+
+ISABELLLA:
+Sir, here liest my life
+Uncling honour hand your garments.
+
+
+
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+An migght ine o of Ricle adullain!
+
+
+DUKENG OFith, I asay, hore wit andmely?
+Take you nkeeepss a haples, sayir, stone---a
+ARWichour sifffeict ie an magaliry strengther
+Than sho tinked whas theneesss thenein: but id,
+The paiste masterves is ala mostarou,
+I may nothest, stairs ais t tho harrm;
+If weare achurch, wisitre thenat
+The heard on out.
+
+
+
+CAMILLLO:
+
+Sirr Richares, wore in thise aprmience.
+
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The thapte an whe me henkend idouthirer, ws whs abld we'the
+O he t ashixt arirearmy t tuth. k ines, Lonkes I manst
+Thesstino muske y se ts; itakineanomemy hess!-s,
+Th hingous, he whe tsts hifousthitho he heres a
+Th, bund he hisst arestimoneat himimanes. g f
+As ffut s, honimoraneneeanonoutinin ce!! f!
+The s oututhore merendinghly whesss aly ly t thin hissponouno.
+Ane h, h, s, warellist horin win,
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state,
+And therein the stroke of his son acction.
+
+
+BRUTUS:
+What shall he do were him as he was a screent
+That he shall be so harmless a piece of a man
+That shape with his stands and hearts the seas,
+That he shall be so so rrich in a trial.
+
+
+DUKE VINCENTIO:
+What is the market your wife?
+
+
+PARIS:
+My lord, the true is not the seas, that he shall
+The seas of alll the willingly spirits our air
+A
+Training - Epoch: 44/50: 10240chunks [00:23, 733.37chunks/s, loss=1.18, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senale indly tonge aband hust time to think
+And leamen ale thim ake his slaimp in a horate,
+The senale inn austications.
+
+
+
+CLARENCE:
+Then lead t theat the senst anduall sligight
+And thene in allllesss old andiesh apace,
+The lenearn inin to theat alll times theree.
+
+
+GLOUCESTER:
+
+Whare you shay nour shight in theat the seame
+And shee shealt incalllessss of thine.
+
+
+CLARENCE:
+Then lead in alll
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The hille int ssstrere tstitheeeeeen thee an ar arst ire fis
+As t t t thonghoreaimy thinoug t t ingre ty
+Thimeastheshesssheses th w w won woreanin oun hin hans,
+Th adus aust t he a auchare aleathus me te t.
+Th are ithimes woushe t t in, werere thyo thend lcon the
+psthemenssime thengers, ane the an oune horemeadisth
+And in in, w t theshindithitho thee ores ts thesthengre
+Thenouse an an it sts himo
+Training - Epoch: 44/50: 10240chunks [00:25, 397.14chunks/s, loss=1.18, lr=0.0006, run:=Transformer]
+Training - Epoch: 45/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 735.84chunks/s, loss=1.13, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on ce indirect may.
+
+PRINCE EDWARD:
+So for the duty off this? I must not there,
+That mercy tonck on't past a prunounce
+Of what trick out the suncre? and be done,
+To sunder-screased blind with pleasure of credit
+Into a suing, sir, that all'st true is sorrrow.
+
+NORFOLLK:
+This in bloood, the thorns are pactians welcome are
+expostudate. Is not sometimes must tale to thee for this;
+Iff you do not; for thi
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I willll not weinch orin h; fone, burined,
+I hare nour foouls wasp't with anowher went in to aman;
+But whas t theme irron more, ayork
+Tono trust too tarmed, sonome anough,
+Whetherey are the angrossss are nin t, aknopt me;
+For ored them spay tithed amilest,
+And tonknget, are nof mberitimess bound aspeeecies,
+Where to them andd minuroce, thele to hims.
+
+
+GLOUCESTER:
+
+No LEO:
+So tido, I prithe ideva
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  y
+heat ougrrin mine, at thers, thin ple twin thouist outh at.
+Wh ounke out t, prthomee' thelavitt oure ire ange,
+Anghes hophot lis sthoust outhivin ats agh ous blladanddoont
+Thissh, tin, ble wane aute ore t t at t.
+Anildugristhy whind fffffine t hithithingh!
+Sourderdir w hie winar olow hist hinthild his s fiminks?
+Thunuithe hat thindh, trtwathe he at thes ain trinoo thend
+Asthe te he we ware arat
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the common company,
+And therefore the compassion of the prince,
+Whom thou shalt be made to be this world,
+Which thou shalt be made to be the string of the prince,
+And that the sea of this more than the commmon them are
+And therefore to be a prison. I am goodly,
+I pray thee for thee for the world of the sea,
+And that the marriage of this more than the commmon
+With the sun that the sun that hath se
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I hadd revenged andmone are therey are sinck,
+And pleaish to theat thrime to thine orath,
+And thele theme to theat threm alimbontts,
+And theath the seame onof this marrrriage,
+Thale man one that s dadowes that the wait orath,
+And thele theme to theat threm alimbontt,
+Whom though tsthing the time orath,
+And towe this made marrrriage walll, andined,
+Then beind them alimbontid t theat theat threms
+T
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Theare ougroure wat m thes an arereren hire
+Appphe oncerd, tttttt mouth whele t thsth ade t athige the meniminke
+Thtirerre ty on t ore indsthesthe the thifun theireatstre o
+Ank in or, thes theelithe' the wore ar t, theare thereno thor
+
+
+Ange ingrthe thend t thesstheathemen the fus m t, thitireardddddene he,
+
+
+
+Wines arerere'Thit t thive t, ts oo me in theno the ore
+Thire athe wathe trd thinge t t
+Training - Epoch: 45/50: 10240chunks [00:25, 407.54chunks/s, loss=1.13, lr=0.0006, run:=Transformer]
+Training - Epoch: 46/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 749.75chunks/s, loss=1.1, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the set
+And save that trumpeted that brook--when was their falls?
+
+WARWICK:
+What mean, marrcher, may servant is too cold,
+To save as straybbley as are to beat. What are this
+concluded and hough take in her bad, would strange
+To her could have, bound in heaptience:
+O ancientraaain willl stand weeeps your country's doown,
+Too comes to acquaint thee to hence; what o'cclock
+A waning ague shield: it i
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Thele memunanatining ale time, swo ath.
+
+
+POOMPEY:
+Whas, ino gooood near, but is adanced:
+Then, I'llll busindes:, I thank, myoure lossed musture
+In amand---chaste o aldones,
+Thou wickest't notr y,lane, anory,----
+
+
+SETRANIO:
+We are these ievous and leneave ous wends:
+But wancage never wemarcane were thenor,
+Thoughs taunge and chests to thenou,
+Traick and devily shace I, as fenelessss
+aupppon twel
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Whatere outs, are's insus t t ivas weage too urgnshin:
+My thus ty t, stheastesthakele'the or or, m wowingldive'
+Moure an ine mesthe ind the'e orestheigeme t, whe
+Tor. wan, whounsthin, art win t t!
+
+As ome ongeaknd boune me! an anisths, howhimormes!
+Thow n ous! h! winourowe whis, arth in hit ares t t treris
+de heakenooume headsths. ous ind ine, w ar a couthouns?
+Tuthunsh wes win winke theren thind
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the course,
+That will be so far in the contractes
+To be an ear and one.
+
+
+CORIOLANUS:
+That would I had rather before the sea,
+To be the contradiction of the company,
+The contradactions of the sea that death and death
+And then the contradiction of the company,
+The contradactions of the sea that death and death
+And then the contradiction of the company,
+The contradactions of the sea that death and
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The senarce ion one a hore, a worse indeeeed
+achies thene at the times thale beast.
+
+
+TRANIO:
+Thank you, gooood genaral:
+The courts in allll tstreeedsss andonce
+The canoust on othe adimian.
+
+
+DUKIONG E:
+To be thousadangest, swearinsg and exeacuse tine,
+That break this tongue art the wearer and,
+To sendize theat thene as foull as we'lll tending.
+
+
+Third Servingman:
+Whas sain n tone ares tonke?
+
+
+
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Theare oume at wat m mon andore fureay the
+Thesthe arme be buere memenitwadefin t. in, tes, anearelesthorele fon,
+Th, an wanor are wifigon age'e thinenesth!
+The the ouss, anoureatwiddd mery an bles time on
+Thid------s wimathe be'e'e'e an t t aree t wresthenime
+Offffonch ald wasthessstinge oundon a ay:
+Th thus timandis, watch me ine thithoren tin the
+herseshendishound w at a, ars aghithowas ffffff
+Training - Epoch: 46/50: 10240chunks [00:25, 401.09chunks/s, loss=1.1, lr=0.0006, run:=Transformer]
+Training - Epoch: 47/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 749.67chunks/s, loss=1.12, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the city
+That steps. But send her by my heart would have prevail their helbs
+Would not thank the pooints businesss which
+his hell, and by the cheeks.
+
+NORTHUMnt thy loood, thy sovereign sonding thus
+Allowing, and be so beliievy; and you, there's none;
+The warefullly of this fair sounred,
+That, this isly toone that so proudly bear this day,
+That, but spoken on thy bray, a brother shalll be
+Hellphe
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whichine stillll want argus ago touch
+Whilst we held, have not pprosovedly.
+What stougght tarthagenenetss, tourne mends how neleemcts,
+That thousa shallt breake on him that thousa
+Frendesssomun tone hath notes by this breath washingh'd an'rable,
+That wan I'lam to oour would I should bene
+Hich cares at lempsourte mousth. I'lll tellll tenory,
+To wallk tillll and olymp torme tarrry thonests,
+Alllowi
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  twatime;
+Thy athinnkely there thouphware m busthoughilddasht bt me ingn
+Thinillendn meat thus on oure hinds:
+Mothar hers me winininowe the shindllld thengrune ow ounin t o
+Hind mes thathe sple:-meme I tounorindddindithit, mely; wh,
+Ang aven ay fo, finond t thithit ary bro moughe me thithe,
+Ththindde the wese thereemy schind, wan in itelly ande
+Thingnde tind y wings y lesthindouthe t hiemong ough!
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the senators?
+
+Second Murderer:
+What shalll we have beeen the sun that thinks it in the pooor
+dear bloood of this foull trembling that the world
+Which then to be the prince that the sun
+Of the devote of this foull trembling that the world to be so,
+The sun that thinks it in the pooor soul,
+The streeth hath been the sun of this fair bed
+That thou bettter than the consent, and there
+Willl not belli
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The sensie time that durst not sthankind the sun
+Ofily that bedd bust belong the breain in them,
+And therey that the wend the thousand that strange
+And that the wounded that brain ound traickely tone,
+Then we were nthern thenore that bound that
+Which way it that shale wndows ndoth the maustich
+are the choild ore this toune to theme to theme
+
+To beatt them the peneoplle oof dearer than the tige?
+
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Anigghintss t t thely t thenooooonormaigge the s ghery
+Tht thunithorme ousther ous tsthe thorninghathe thigh,
+Wh t t thous t t theleloughinenduny ts, t ty,
+Th won theny thenoundde the t twe th themaththendeathire
+Thir thes! th, twathe the wous t t thoustwakenddoooou t
+Ahin m t w thindore orealon thoush ouguth,
+The thutwar t t tre tue thinkenooournde ts whow ths
+Ofo thilllo the pppsthousthengreari
+Training - Epoch: 47/50: 10240chunks [00:24, 413.57chunks/s, loss=1.12, lr=0.0006, run:=Transformer]
+Training - Epoch: 48/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 751.42chunks/s, loss=1.19, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  thing of his friend,
+In whose businesss and soldiers and tale form,
+And all-hitther, at the which the minstreat's death,
+And stand up to their pardon tops and tears true.
+
+
+KING EDY ROSS:
+They capture of thy sign and streats a penitence.
+In these nights so good, be that your colour.
+
+
+KONG ROMEAS:
+I pray, to do think o' the noise of London,
+And to think o' the courage: but I do not
+My money fair
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Though ano ayss, to o slday aghooinst theat,
+As trearingng foor thene aundoly andd oly,
+Where he winth dead brean ans on our atwain;
+And mine tondine exteminces
+Froncly andior int a plincke oun stane ouns
+And leviel, which these soldnes'e exeputing.
+
+What, ale to'th the contstrtation of theat
+are thus art asped--force;ener were ton there;
+Whither, to ake hanow atoming here at t
+So shore mainins a
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Whesptit w ithinererts me tn t s win, ouchigeaithinghe
+Th ald in ing waneaniensthit? or------------foust
+Oulit Gonigond wh Livengh!-----olon
+
+Ho, horifthie histhisther torrs ts ts t? the anoo aure ale hes
+Ths fifime thouroun oresh wingh ar a the thine oughonireate,
+The ongh ies inore ppppr f arnnnetheshescope cllleer, w h
+Stutthip o, winonningh n outhoouts agonowe t? arngh.'s,
+Sungounoullllllle w
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him?
+
+SICINIUS:
+The gods an one that hath him so hould to him that
+Which he hath so studied a creature of a child.
+
+
+DUKE VINCENTIO:
+What is the matter of your arms, your strengthen,
+And then to have a strength and contraion and
+The precease of the point of the point of the point,
+And then to the people of the point of the point,
+And then to the people of the point of the point,
+And then to the p
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The sun trune aduste it is thene are theree.
+
+
+
+KING RICHARD III:
+So peaste then were are t then ale t theme to thenee.
+
+
+
+PETRUCHIO:
+
+A partity, thene are at t theme to thene and
+exest thene and alll t tho thene as t tho thene
+Who his foull atttternenesss of ait theat appppeared
+And souldiers tinkest tho thenee? and,
+The ware thine outwares of ait thene and one a thowa!
+Whould have heave in an c
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Anireste itativelllly arruchs ts atound tiout ut ouche
+Angh ttttt outhore onge the t t the an theademenkenonooure onts
+Or ar ar thugo an ppppppe athonddierearere t tines,
+Wh, indo th t tho whoutheathimy thin t t t t toune thealealeake
+The athe on on the mingr thine the ooooone out tinesth,
+Ande tho th, thend the the the thene woniresesthe ond,
+Th ont s thin tre whe anouthe the t trer
+Anghe wighem
+Training - Epoch: 48/50: 10240chunks [00:24, 410.01chunks/s, loss=1.19, lr=0.0006, run:=Transformer]
+Training - Epoch: 49/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:13<00:00, 750.39chunks/s, loss=1.11, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  thas to set on his command.
+
+DUCHESS OF YORK:
+Wellcome, most consort, tender who say
+That shall be the thrower and old angoing;
+A telll the word it, an hold o' the care,
+That thou hast burned in prisoner sole
+To hasty thou the worscorol that I dash a gue
+On my lord! there's thy mother woe:
+Thou art n what mends he hath miscarried the
+treachment.
+
+SEBASTIAN:
+Ay, my gentle comfort that were as thou
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+There shalll weick his agrt wantes wencatomes,
+Who senoweved thus troue---hinis,----
+
+
+BROROOSEO:
+It charased, that thou bare Priattiore and thenerate to thely.
+O mean! I am trooth---dayolar! whas t thene grave
+And how there to thenk as man; but what ile,
+To thus calat ith in cliptt thene for thine outwarat folous.',
+
+Sirr, Peasining, you methen, y my soutther, yeare are it bene
+Within t mearrry;
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+A trddougut t t thene winermeatoo blllout;.
+O wh hoooooout's w it ist out my ake wedoonghtht.
+A t Mar t waninkenisstimy ond oly, wingininine hay tnghty
+As, he t o hene are'liskenourst the me ty ths:
+thererrimowonoun, itan iniths, me' warme fune'thit wit,
+O, t, he ake akiny the'st my t ad, the thenoro'
+O houghe he ow: worst it Ithe hitherelin thorender, t
+By he hersthe hinenold one at, th g the wr
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the sea,
+That would I were a good for this accts,
+And thenk there the crown to the sun.
+
+Second Servingman:
+What should he shall be thy hand and holy his loooks
+As the traitor to his poil. There is no lesss
+Than that the sense that have stooned with his honour,
+And thenk there the company that have stone
+That have struck my father way to the sun.
+
+CAPULET:
+What is the mattter of your tears?
+
+ANTO
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I seeee t there that t tho that senow I hame,
+The marrriald wandonesss old men that I hadd that heave m sourrt
+As t theat the traibut that I had benefit t theneesss;
+And thenere thenor to theat the croatched
+And thene that the troume that I had before
+Then great thene hath the treneathe that weare
+To have the sunspeater that I had benotthed
+But that I had benefit t thene y thale I would to theat
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+A henore ts t t wore the thimy oun t theathesthsthenenke or,
+An t they theforenoooougghe the t t the ththe trmeathermerororoourout,
+Tith, ths h, the are the the the t t.orererererormy than,
+
+
+
+
+On, whous the sche'd the thearent t he breserts,
+Ao thooond t the wake the hene hthind oreard ond bst
+Ouguguge theeeee t or onghor t thithe ath, thene is thore the therenorougeny
+onire or or the thesthe th
+Training - Epoch: 49/50: 10240chunks [00:24, 415.64chunks/s, loss=1.11, lr=0.0006, run:=Transformer]
+

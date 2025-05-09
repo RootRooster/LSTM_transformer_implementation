@@ -1,0 +1,4859 @@
+Training - Epoch: 0/50: 10240chunks [00:26, 491.70chunks/s, loss=2.56, lr=0.0006, run:=Transformer]                                                                          Top-K sampling
+----------------------------------------
+What authority surfeits on on s asthese ano thoror toth h tot the therir atil his aneno the and m theaneron m athe t t the mes s ang mot toune and tou to as mese worean wingro weane s
+Whanene theanorond tinoutheangherer t al s an se menghoroton tonghat ase th t alithane s mes t ting t m s t t t whe theses m wathitou merer thes ar t wanout atite so war my thond t myonest mend my mer thou theates wit st theas mere th the ware
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+
+Anende thalllleare te t and me mes anor the ser s t thoreaser meat s and sitin sorend we the me t merot my an were t mere t an m tou theron te anonder mesend th thas at sthe me s
+Wheaneno m thes whiner tilous me te an me t ster te anour sthe an at these t at wan the t s theanonond we mo wesin wo steno s s wathe al ther arerathoroun sean s m sthin angeng waroutil tesonout t wilir sthis t s meres
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  s my s ser s t tourinor heaneaneatousite m se sthe toteandot m at to the anor s ater masonde marothorealend s wisthiten serouse ser thend whanor we me warou at t t t m the my weare mo m angond athe tinersoust thalo t thinean arser t sean the s we s t me tousorous
+
+Tourit and, windine t t at wis wano aler as,
+An tise word my sotirenesendereanghend ar ather t torend ser t thand s seas m t areroun t
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on d the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the th
+Training - Epoch: 0/50: 10240chunks [00:40, 491.70chunks/s, loss=2.56, lr=0.0006, run:=Transformer]----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+
+
+
+
+
+
+
+
+
+
+
+
+And the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+
+
+
+
+
+
+And the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the t
+Training - Epoch: 0/50: 10240chunks [00:42, 241.47chunks/s, loss=2.56, lr=0.0006, run:=Transformer]
+Training - Epoch: 1/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 370.12chunks/s, loss=2.45, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on gour hitir thang t sorondeston h tharealof ato oring t o thengen shingreres hisond anothero as se t ho s thinoun sthanousthe se atene hen sinerereat t o thof aseangonge sean touteand t stof t hean he alllourino thando than orerie asof anousinonoril tho sthour sise aris hithe therengr t thong ong hesthereareang t t s s t oner th heeronofond ononof o atorof anof sile thene son thas oullino thitou st
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Anorer theroule the te tiler sthinerano hen therareserenorest s of thour at oul h o terer anthis anontous ar atinengeatit thinde ang o ther ono stin ourenen o hinghes titofe t orones seas orere tillof or singh st ale ouror sof thorerind se thit anor t te t thean oundasto teresin theane t t ano s o hearo hirathare h sthe atist alon thenorisen aror one theno t o t se s alo tharonouritith senof an a
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  tille s heatondond th ar thistisenononde thanerour st so we thirer thinde at t asenerere s sore tit heanoulealores th andeareronon t tore athiteangharesth o as ar t so ase asenon tof o sof sorese athesthatonon or as the ath o he hino aren of his ar tirourir our thase orofean heren thers s hantoroun tean as aren stonounth thisones tind o are his t teso areangoro thend sofo tis anondin theno thorof
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the the the the the the the the the the theanoure the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the t
+Training - Epoch: 1/50: 10240chunks [00:37, 370.12chunks/s, loss=2.45, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Ano the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+Training - Epoch: 1/50: 10240chunks [00:40, 255.23chunks/s, loss=2.45, lr=0.0006, run:=Transformer]
+Training - Epoch: 2/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.78chunks/s, loss=2.24, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on d an seat, he thit, ast,
+Ono heat sthinds thar hous ther sthas thou heat hes hands at that of an sthis t thofe
+I thinesor s ond ar arest as t the sthealin o hend se orsthe
+Wis s to o hallle al al he the seand andste he st he andeeast t
+Tand he hersere on t thin as the arere our t onde tho hof t ousthathe t
+Tis s thingof or asthisthas ath,
+Th al sondanor he and t thouse aso tinend s one se thin tha
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And har he thit serant are sthis heatst he ous tof heangal t on tene alle
+Theath at thin she he the he sorof t hale tor an alof st ou therend t
+Thenout s has t at seranond st aler st he oo or thou t ase
+An all he and te heant and t here st he heath the t at
+An hir thin ss ous than art t h thoust test hin o he ares th alisthe t he
+I arend thin sonden t an the tesere s t shinthof he ond or,
+Thir t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Whes his the arowhir ald ath thon tind she thathe o at st ther st athino h
+
+When we at tonthof at ar st t ase athin ofondes s onthesest t shimath
+Whe o than one then t thare o then of the this thit te
+These thatin ale alirte ss, st t the tharero tis h s her the thithe he
+Wis an thise at st tes sthine shongr as t one t oure
+I heat sof t o tisthent h o hithe t he thit se or houlor t th here athe te
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the the the the the the the the the the the the the the the the the the the the the the there the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the t
+Training - Epoch: 2/50: 10240chunks [00:37, 381.78chunks/s, loss=2.24, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+Training - Epoch: 2/50: 10240chunks [00:39, 257.35chunks/s, loss=2.24, lr=0.0006, run:=Transformer]
+Training - Epoch: 3/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 384.13chunks/s, loss=2.02, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  sto the sars
+And the sthe hers hing the a stand sthe sare thal see tor
+But ther and breste she thars that me trimy tiness
+As sto to ones to br ay ha tof my
+And tarond, be beand t be senthare hear theat t thinth
+A stour at tond trof thee thour hy shave te soff bear
+Wer the the meath t trour thone se shares sthy trirour.
+
+This RISThar:
+I t sthen t shoff teat stor singng bent and toues her teat ars
+
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And sand bales ared thie a the hange allers of.
+To thous the t hean man beatht hin t thatrs that,
+Tou man he have t busthing he than shiser t sear tencor hte
+Thar hy shereat se tore hof buthe se athar te thofo
+Th me shind ar and this his s at spreared, our ay sthar
+Whe haroms tener to an thous s theee steare,
+Then aree the stour,
+Whar he thave s thave steange ofof trear,
+Inthe he mathy, t shee sh
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The as and ared thinger thary tour thar my the breang thofour h
+Asherd thishad ard tous thy there t thee sease t
+I tour thangu to sthooo s hast tear hereeng ore
+Wis t tore o shane tithis he omast teand o shof te
+And theath t shand sto hands thy tarou ster ooour
+Th se are ofon her, sofour ar be thathe arer
+And tand thay's and t anof sea a stha tire of sorre
+Wer ousond tha tho boron bothe beshis t
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the the the the the the she the the the the the the the the the the the the the the the the
+The the the the the the the the the the the the thee thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the
+Training - Epoch: 3/50: 10240chunks [00:37, 384.13chunks/s, loss=2.02, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+That the the the the the the the the she the the the the the theat the thee
+The the the the the the the the the the the the thee the thee thee theat the
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the the the the the the the the the the the theat the thee ther theat the
+The the the the the the the the the the the the thee the thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the the the the the the the thee the thee thee theat thee
+The the the the the t
+Training - Epoch: 3/50: 10240chunks [00:40, 253.36chunks/s, loss=2.02, lr=0.0006, run:=Transformer]
+Training - Epoch: 4/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.04chunks/s, loss=1.94, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  soly:
+Whe that hat worse of thile, woould, and woulse to hat shoule
+The alde so should hine to of or soould ake ande
+We wour hin te withille oof thee sealll ove hand
+The our sofe or heave his hand of or oune.
+
+Withis Coound:
+In searse and woould hane ar at this tane ind
+As tris hane in houp owe oour thee houner.
+Wite Lore:
+Wow ase tour tof hat our an and toun heat hare
+Be avofoould oun of teeand
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+To hould heave thy thee tis of to onsees as on to hou hat as hour
+Beathoou an stroe oof her toun bereace owith, a he thee
+As thou atofe heat shear oun tof and his hyoue t
+Withat shales ave shilin too a housh sooon oof theat
+This thee soo thist hou heat hee stat shay on thee troous ono ha thase.
+
+Thou t thise hee oundse o oun an oun thear sour sour onea
+As halld toof oo hat heave heat thear tousoo
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The the hour wan to he would shon hear this thour seate.
+
+Whe Sheate tou housh sis hof sealles oo a hoound,
+Tho at heat oun henous otof and tound, that heat tous as anof
+And and too ouso touth hou hatis an ashiter, our teas of our oon
+Whalll witen hould owin hour ave wear ind
+To as tit a s houpe oof teate or head thoou tending
+Ano a thous thower our hyour sould. Ture an heat shave
+Wir too to thee
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the the hat have the have have have
+The have have have have have have have have have have
+The have have heave our theat our heave our theat our theat
+An the theat our heave heave our theat our theat our theat
+An the theat our the heave our theat our theat our theat
+An that thee oun theat our the heave our theat our theat
+An that thee oun theat our the heave our theat our theat
+An that thee oun th
+Training - Epoch: 4/50: 10240chunks [00:37, 382.04chunks/s, loss=1.94, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And the the soo the soo the have have have hand of the have
+An that heat heave our heave heave our heave our theat
+An the theat our heave heave our theat our heave
+An that thee oun theat our heave our theat our theat
+An the theat our the heave our theat our theat our theat
+An that thee oun theat our the heave our theat our theat
+An that thee oun theat our the heave our theat our theat
+An that the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the the hat head have have have have have han theat our heave
+The hat heave heave our heave our theat our theat our theat
+An the theat our the heave our theat our theat our theat
+An that thee oun theat our the heave our theat our theat
+An that thee oun theat our the heave our theat our theat
+An that thee oun theat our the heave our theat our theat
+An that thee oun theat our the heave our thea
+Training - Epoch: 4/50: 10240chunks [00:39, 262.37chunks/s, loss=1.94, lr=0.0006, run:=Transformer]
+Training - Epoch: 5/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.15chunks/s, loss=1.92, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on , sir, all see of spruce
+Ant, and as so my be to moundst mes and
+I see to me this and the somed, and to bene the
+I samm shan bus him be on on hanoust;
+We sire, to thean thou thou he'st ba seas.
+
+
+Secard tame o' seamp ten.
+
+
+
+Prest:
+No, y, no bo t my soroown,
+A I sis ar me a are be so meest.
+
+
+
+PROLIO:
+I to to seat?
+
+
+
+GRETES:
+Se seee t sey seamb o so me treatt o
+The off the sour.
+
+
+
+CORIAN:
+That h
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I met so mine the, whe hous a telpaing,
+And my see saing of the so me oto t stour a
+Whe ton to the dearse a of and to be a this
+The sate tand to o ble sie t o ma se tough,
+What shyse mand beate a off tin a a a son t
+To this toun to tame the treath,
+The a t bet tee a sour be o at tha tee
+Were to stay.
+
+
+Go RUCETH:
+Were, the at me see seee mee mane ore at on.
+
+
+Se Come, ay se my mise.
+
+
+Proove:
+
+Ne
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Wil, tin stell as sint he me, whan thou a his
+Te mise on stoo bee o toun.
+
+
+Coust Reesen o more an bre oto the me sof a
+To me mane as bone of be thou t moust of thee
+War sthe o me see on treame the selll howos,
+We ha he the me oling heaving on the ten to to te
+To sthe bugh, tone the but on sin o ton so tree
+Whilld we the be trin hee beefess
+O, the me be the ta o'th that.
+
+To Looord, I a t ba t so
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the see the see son to the
+se see see the see see the see to the see see
+The see see see the see see to the seee to the
+The seee seee to the seee to the seee to the
+The seee seee to the seee to the seee to the
+The seee seee to the seee to the seee to the
+The seee seee to the seee to the seee to the
+The seee seee to the seee to the seee to the
+The seee seee to the seee to the seee to the
+The seee
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The see see the so to the see see to the see see
+The see see to the seee to the seee to the see
+The seee seee to the seee to the seee to the
+The seee seee of the seee of the sear of the
+The seee of the seee of the sear of the the
+The seee seee of the sear of the sear of the
+The seee of the seee of the seee of the sear
+The seee of the seee of the sear of the sear
+The seee of the seee of the sear o
+Training - Epoch: 5/50: 10240chunks [00:38, 381.15chunks/s, loss=1.92, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The so so see the see see the see see the see seee
+The seee seee of the seee of the sear of the
+The seee of the seee of the sear of the sear
+The seee of the seee of the sear of the sear
+The seee of the seee of the sear of the sear
+The seee of the seee of the sear of the sear
+The seee of the seee of the sear of the sear
+The seee of the seee of the sear of the sear
+The seee of the seee of the sear
+Training - Epoch: 5/50: 10240chunks [00:39, 261.64chunks/s, loss=1.92, lr=0.0006, run:=Transformer]
+Training - Epoch: 6/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 383.38chunks/s, loss=1.76, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on er
+I to dish his heartaties all though as setir,
+With thee their the here will oworly, the to seart
+Allands trie tit o our ares is an hat t tould
+And tin bride his our of thigh our that borre hout.
+
+
+But, sorre I wirlll and wear yon ha sould hat spoires in t
+And and a andwin to be too too thee dright too.
+
+But thou me shirrt it t o therr too soun o' hear sound.
+
+
+BRAPTOLLIO:
+Ay, thou hare mare is
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+That have to to the deart theirs they searntes. Bethereat,
+And wetere and tone the seerved him and ta irrt ous.
+
+What Corrthier:
+They die shear or ownered.
+
+
+Mustserder:
+If tout here sonee art ime tray ies.
+
+
+
+SALANTIO:
+Nor I'lll:
+Ano I'lll wint they hour hear a speay as seress oreack,
+And winthous though heer him are too at. I'lll mande.
+
+Itrroust morrres our a are tour hase, tore than holim on
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+This that the way him did out the hourt hereat hart,
+Is thou tone his the hat hole sear onse at onder
+Byotardy to heave on heat serestit to see tor a and t hey seart to alll
+As frouckit tho seis t he the wread in t trimande
+But to so ma her oweld. I heave san ast is a ale stoord
+To that tends to his her allow t he heath, sorrid,
+Whilll worits in t telll oof the searr heyselved,
+Tis s and mearrtho
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the the sead
+The shall her her her here had the have the sondery.
+
+BRUTUS:
+The have the seet the see tor the seart of the the seath,
+The seat treath or the seat on the the seat on the thee seatth
+To the seat treest o the seat on the the seatth our the
+Tour the seart of the hear heave the seat on the the seatth
+To he seat treathe or the hear heave our the hearth,
+The seat on the seat on the the se
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The see the see the see the he sead the heart of the so the sould
+The seat on the the seat on the hear heave the seatth.
+
+
+But RAPULIO:
+The sould to the seat treath or the sear tour the hearth,
+The seat treath or the seat on the the seat on the thee seatth
+To the seat treest o the seat on the the seatth our the
+Tour the seart of the hear heave the seat on the the seatth
+To he seat treathe or the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the see the see the death the have the hearth out thee
+Tour the seat treest o the seat on the the seatth.
+
+
+But RAPULIO:
+The sore to the sear to the sear tor the the seat treath,
+The seat on the the seat on the the seat on the the seatth
+To the seat treest o the seat on the the seatth our the
+Tour the seart of the hear heave the seat on the the seatth
+To he seat treathe or the hear heave our
+Training - Epoch: 6/50: 10240chunks [00:38, 263.13chunks/s, loss=1.76, lr=0.0006, run:=Transformer]
+Training - Epoch: 7/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.61chunks/s, loss=1.64, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e
+Were meades me.
+
+POMPEY:
+Tall yours, mine still mee to made.
+Thow mean, and and make and my friends,
+Tis a merrranice, yerus as teent ormeal.
+
+
+Priveder:
+I thave wit, I amand yower mithter a boutt
+Wor think on my landstaner, tout andd and this
+Wath beanir, I'e to theant, beneat than I
+Bean man trinke to thaner,----
+I t meake twilll my fairther,
+And, for atwere timy one my stirrre timan an.
+
+Inal
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The man tray the would that man my lader an
+I save than mad bear a bowe at beattiole their
+This they dear feathen that for thight
+And that ban for I't, then and beath,
+Yor and be meertt you breaver forthen:
+This that seak in mattte my atwer.
+
+
+PROMEO:
+That my neat, marrres, more, mittther, windo be
+The matter miste and aliesst, and with this stould
+We are the dear bone thy feacct: I ascale
+And In
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Whicould' the point and and say man
+That an banile and be tour mean;
+The shall I made for mie ttreather to man. Marrck
+And think'd I alittten too min their one theart.
+
+What My lavet by fattter are you stonges,
+Tho souck annd and you mine and banend,
+I the mean tat you,
+Thir foathth thing's an a andvery feat,
+I as wearr that but angerat foirst yeent,
+To this forth man tin o this fand the worer
+An
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the seath
+That the shall be the stand the stand the stand
+That the seat the seat the seath and thereath
+To that be the bear the farewer the seat to the
+Tour that be the bearth the father the seath
+To that be the bear to the bearth the bear
+To the bear tone the bear tone the bearth
+To the bear the farewer the farewer than the farewer
+To that be the bear tone the bearth thee farewer
+To that be the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The shall be the man the man the man the seat thee
+That way the farew the seat to the bearth
+To the bear the farewer the seat to the bear
+To the bear the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the seat the seat the seath a fair
+That the seat on the seart of the seath to thee
+Tour that be the bearth the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear tone the bearth thee farewer
+To that be the bear
+Training - Epoch: 7/50: 10240chunks [00:38, 263.59chunks/s, loss=1.64, lr=0.0006, run:=Transformer]
+Training - Epoch: 8/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.32chunks/s, loss=1.61, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  all
+As allieter one, and that in this he for a foul spice of his
+The with an traces in of my love,
+Woulld with his fairsh out asspee on ounsserelve
+A ase to thise the ouse orson tear and hiss be
+The shamblle of mindsterr a brige of a twillth.
+
+Thou he marrry Isan and but the outh hase waste:
+Whe the mean me, to me my seak me and to souch a
+Ise a dighteer huse were as at the stimptesss.
+
+ISABELLA:
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The haven a make of husper thou my as tongue to all. I to shape,
+Weareth to him hencesss of him humpper ouse on tathers
+To hanst him hear arrt all beand a treath,
+I to all move owe might to at too be.-----
+
+
+WARWISTIA:
+What is t a ma stoook he man to meat me
+The seat wonse a soubles to age tooo teear too hendst
+As take in atwhoults ouf heaveng to this hom.
+
+A LIET:
+Welll, thise wouldse our mine,
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+To bound, what's that thought is move made,
+And thigh arefored and at agare, for I
+I cavase on the same a provisonting tremes onde wighth.
+
+ISABELLLA:
+Whow's may from and houst our take in a touth
+Were home old to them suppe to angow. I him weakst wate
+As our meake outh too alt the and takes of a talle.
+A I must of thouse are hear a tonge alll toungh
+The farewe that he worthe too be and me and to
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the offence
+And the world the stand of the say of the say
+The shall of the such of the some of the souch our thee
+Touch our the seat of the searst of the searst of the
+Touch our the searst of the searst of the searst of the searst
+To the searst on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak o
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The have is of the many of the many of the stay them.
+
+AUTOLYCUST:
+Whe the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the seep of the some of the stand of the some of the
+Touch our the searst of the searst of the searst of the searst
+To the searst on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our of the searst of the searst
+To the seak on the our
+Training - Epoch: 8/50: 10240chunks [00:39, 260.20chunks/s, loss=1.61, lr=0.0006, run:=Transformer]
+Training - Epoch: 9/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.89chunks/s, loss=1.55, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  to his touth.
+Thou he see arce thine to the consent our wilk,
+To murrders thou have shild to state my brack for
+Ar If him and hireffuled were it the wailk
+That I seave want their and and true too the
+Ware on the cartch our sun.
+
+ISABELLLA:
+A seave arre I save at tongue trumpon
+To murde, would sperct our too mean,
+We tall I sout too hear horse and the froom or
+I carre thou art too help bon thin or
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Inling any you have is a death to be you save:
+Thy her word in the thou thise their would wear
+An willl I warrraw touter of me
+Tour are andvicestelf the frathe archorded.
+
+Thirrst:
+If ham hour hercoonde of the wenchy are than tear
+Than warlk an of an taggue to thim tarte.
+
+BESCKINTIO:
+What is in twerch thy seerving aren of horse.
+
+
+PETRUCHIO:
+Ay, lord to murrre as breatthe or sound aborted
+An tho
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Will stannce here war han hurlier hards
+But sucke and thurrnselll sout to thim.
+
+
+MARIANARE:
+Who to bloood the wright it on the seate.
+
+
+PETRUCHIO:
+I thou doubth,
+If thou hourshicke an and hand the art for tworm,
+To was thy farthth, were as thim storrn here,
+Than I have stand tend and brought an an and alland.
+Tench I tand the worth world an broouson
+A wanter to be to therrreatss it blow in heart
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the world
+To the world of the counter of the counteraster
+Than the words of the counterance of the counter
+To the world and the world and tongue the world
+To the counter of the world and the world and tongune
+That I warrrant to the brothe of the stay time
+To the seath on the world and tongue the world
+To the seat on the world and the world and tongune
+That I warrrant to the brothe of the stay tim
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The world of the comes of the stant the world to the
+To the counter of the world and the world and tongune
+That I warrrant to the brothe of the stay time
+To the seath on the world and tongue the world
+To the seat on the world and the world and tongune
+That I warrrant to the brothe of the stay time
+To the seath on the world and tongue the world
+To the seat on the world and the world and tongune
+Th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the state the word to the come of the stand
+That I warrrant to the brother of the stay
+That I warrrant to the brother of the stay time
+To the seath on the world and tongue the world and
+The seath on the stand on the world and tongue
+That I warrrant to the brother of the stay
+That I warrrant to the brother of the stay time
+To the seath on the world and tongue the world and
+The seath on the sta
+Training - Epoch: 9/50: 10240chunks [00:38, 264.31chunks/s, loss=1.55, lr=0.0006, run:=Transformer]
+Training - Epoch: 10/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.99chunks/s, loss=1.44, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  own of hands
+Incle as that the desit of more. That think, I what
+I pray'd but thou that stand thou doo hearth blood.
+Was in though, woo doe sear treathe to be
+A blading thirs; and and alll assseent to tearth,
+And to the death,---
+To this touch art, andor thou his duke?
+If we with no tone hourse art of thee fathe.
+
+SheBUCIO:
+It, seam, I myould tongue.
+
+
+MARTIAN:
+
+I thought tellt, I seat and amppor
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Then all of two mayster thou standest all: how
+Though hadsts, for that, feather of heavon.
+
+
+COMINTA:
+Iff he walll.
+
+
+GENZALLO:
+
+Tit Serrvice, I wall noblle,
+Though haste thank and but the blead.
+
+
+GLOUCESTER:
+
+What I have tortheer, I'll aslong that to twould
+Art our ale slowed and bas twhich trempale,
+And tale, I seame are and hand, to alll be,
+Or butttter out ancle of that.
+
+
+CORIOLANCE:
+I that
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Why, but shall they, bear that that way thee,
+Or, tendough allt their on seatte, and be
+And from I happpeard.
+
+
+Sevor Murdante:
+That tale I thank yow, taskle I'll alast alll.
+
+
+GREO:
+Now.
+
+
+COLAMIO:
+Now!
+
+MINIUS:
+What, me adore!
+
+
+PROMPSPEY:
+
+A welll that be maddam I heard that thy brown?
+
+
+GREMIO:
+And to meanstly time hear boy: andour and
+In welllow'd are bown his trougat fall,
+To man heapp too
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the standess,
+And that the state the death of the come to the
+That be the death the state of the deathth,
+That the be the seath of the seather of the seath,
+That that the breathe of the seath of the seath,
+That that I same to the brother of the seath,
+That that the bear the for the for our the seat
+That the bear the for our the seat of the deathth.
+
+
+CORIOLANUS:
+What that I same to the be the sea
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The see that the seem of the stand the stand of the
+seentless and the seat of the seather of the seath,
+That that the breathe of the seath of the seath,
+That that I same to the brother of the seath,
+That that the bear the for the for our the seat
+That the bear the for our the seat of the deathth.
+
+
+CORIOLANUS:
+What that I same to the be the seath of the seath,
+That that I same to the be the seath
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And that the state the state of the death,
+And the seat of the seath of the seather of the
+Touch art the for our the seat of the deathth.
+
+
+CORIOLANUS:
+What that I same to the be the seath of the seath,
+That that I same to the be the seath of the seath,
+That that the breathe of the seath of the seath,
+That that I same to the be the seath of the seath,
+That that the breathe of the seath of the sea
+Training - Epoch: 10/50: 10240chunks [00:39, 261.45chunks/s, loss=1.44, lr=0.0006, run:=Transformer]
+Training - Epoch: 11/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.01chunks/s, loss=1.42, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  stay
+Master at thou save, stand that things that stay
+And which that shumble as he won, when should streen.
+
+But Marden time that, sir, what they seen a trear.
+
+
+Sherd:
+What there willl not marrrriened: I'll bear he madde.
+That shame talth, and hare, thus these sir,
+That the seas timen was that than struch a
+Then win she had shall be an thine.
+
+
+MONTAGUE:
+To say he man stay would and he their her
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Who is you have no so, both then will strong one
+What strunkiles world will be frather,
+Who, where searst time sun'd were winth honour,
+And striles that hese hare wanted witth there.
+
+
+SIRICHARS:
+
+Thy Lord York have merch tarth; and the world of
+The ban strep in of matttter of the flatte.
+
+
+ProvONDIUS:
+If the consent trurn he speak tone them
+And some so hourse, sir, that is here art stain
+The wor
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+If think you will that stans att toward.
+
+POPOLIXEY:
+I have sear made with are and the sair, she fit
+And with shortuld be things but a winde.
+
+
+GREMIO:
+When save how mere that that I stay tain,
+Ar a frreadin thy fearsth take thou starle sore.
+Broth, bether the said that? thou should stan stringle
+Of my frrom to there, sir,
+And the here warlth tirll, with that the choncess
+With his warkes annd hon
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the stands.
+
+POLIXENES:
+What shall shall be shall be the strike of the strike
+The string of the strain of the stay time.
+
+
+PROMEY:
+What shall that stay tit the struch on the streen of the
+That strange the streen of the state on the state.
+
+
+POMPSIXERS:
+What shall that that stay tit the struch on the streen
+That strange the sear of the state of the stay
+That strange the sear of the state of the st
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The shall stay the stand the stand of the stranger of the
+stand the state of the state of the stay time.
+
+
+PROMEY:
+What shall that stay tit the struch on the streen of the
+That strange the streen of the state on the state.
+
+
+POMPSIXERS:
+What shall that that stay tit the struch on the streen
+That strange the sear of the state of the stay
+That strange the sear of the state of the stay
+That strange
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+That shall be strain the strain of the strain of the
+That strange the streep of the streen of the stay
+That strange the sear of the state of the stay
+That strange the sear of the state of the stay
+That strange the sear of the state of the stay
+That strange the sear of the state of the stay
+That strange the sear of the state of the stay
+That strange the sear of the state of the stay
+That strange t
+Training - Epoch: 11/50: 10240chunks [00:39, 262.08chunks/s, loss=1.42, lr=0.0006, run:=Transformer]
+Training - Epoch: 12/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.09chunks/s, loss=1.5, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  my son,
+As I have stand that false the be found
+My grace might and which way sweet and father's to the
+To thee be goness of these fates were banced,
+Agages, fairit the talke off the worsald weaven.
+
+But that then was I woulld not for agoon,
+And fall her ans wo alll abatice of we that hand be agan.
+
+Whas I wengelved them none the fet on the warm.
+What no was, what I art fate alll heath band way fa
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Whise have thy band aft a subject of my love:
+And I would near to heart we are to bund again,
+Was was I were an a ffall he stay we fare.
+
+HERMIUS:
+What I say hond thee sent a board, and when to men
+The wons a t senver tage and and and for high old
+And we for and him forth. Where he dreath on the fire
+I wart by her for his a gain, fear way
+Which with was freathe welll on his land.
+
+
+KING HEDWARD I
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The woman we we my bloody land when the stand where I had
+Where welll wonger to the brreast watter he be agab,
+He may true bach, In by woung as to be thing,
+What shall I wallt the now tway.
+Whom I'll that I housald to be man to'th.
+
+Merere fear, to marrrow that fell you be hath,
+What y send ange waten's within bearse thy fanswer and and welll;
+And, were this worthat tage on my breath,
+And band, f
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the world of the death,
+And then the dead of the day beauty of the death,
+And the way the way the face of the wall welll well.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wa
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+When I was you shall be so father and father's and face,
+And the was I wall not be the fatther of a wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+When I was the day father and the father way.
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING EDWARD IV:
+What was I wart the worthy the wanter of the wall.
+
+
+KING ED
+Training - Epoch: 12/50: 10240chunks [00:39, 261.14chunks/s, loss=1.5, lr=0.0006, run:=Transformer]
+Training - Epoch: 13/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.89chunks/s, loss=1.31, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e send,
+Are shows a manideders any that I,
+A business my lames of a chustres;
+And they thou shalt my figrss. I teell senser
+Withorer offfict thy tembles, I myotald
+An boug an my troumpand me and the much out o'es.
+Away, and I thise send our too meansur.
+
+
+GRENIO:
+We'lll that I shalll you have them buseen
+Of you humpponed to this sevent:---
+
+
+ISABELLLA:
+I'lll you must:
+I shee mout out out one:
+What
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The mater stire the shade a foulth.
+
+GLOUCESTER:
+They senanch of their meansure,
+As I must be standed, son amidation,
+Is sendit to seem tolet, and telll thee martages
+Of the daress of tearn of are a ssundes,
+Were tearnser than them to the house and tower
+Is murrded by and bring on't to thime: I't beseeech,
+If tentenched them as feassuncy;
+If in thought any that semper's sould tame
+An on murse of
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+To much of thy souls for that makes his father.
+
+
+GREMIO:
+Where thee charge of my trusth,
+Of thou sampe his sucase, Isuch on,
+Welll not, thou trummpen of hom high, I woulds,
+If housard.
+
+
+PAULLINA:
+Why, trusturn a might and his head,
+That state the marrriest, ans I severe my
+With shall ten and brume and thing to be thy seases
+To thy beas marrch.
+
+
+MERCUTIO:
+Now, tale:
+I welll;
+That the mongurall
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the season,
+And the see of the seem of the season,
+And the seem of the state of the seasules.
+
+KING EDWARD IV:
+What the sensee of the sensen to the seass.
+
+
+CAMILLLO:
+What shalll you shalll you have you must
+To seem to the seassing of the seassules.
+
+
+CAMILLLO:
+We men the seassules of the seassules.
+
+
+CAMILLLO:
+We men the seassules of the seassules.
+
+
+CORIOLANUS:
+I say, the seem of the seassules.
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I should not be so so so so so so seem to thee.
+
+CAPULET:
+I shalll you bear you must a slay you the sea
+That you shalll you but the seassing of my sould
+That you have you must a slayedy and the sea
+That you shalll you but the seassing of my souls,
+And the send o the send on the seasson of the seass.
+
+
+CAMILLLO:
+What shalll you shalll you have you must
+To seem to the seassing of the seassules.
+
+
+C
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the see of the seem of the seem of the sun
+That seem the seasson to the seass.
+
+
+CAMILLLO:
+What shalll you shalll you have you must
+To seem to the seassing of the seassules.
+
+
+CAMILLLO:
+We men the seassules of the seassules.
+
+
+CAMILLLO:
+We men the seassules of the seassules.
+
+
+CORIOLANUS:
+I say, the seem of the seassules.
+
+
+CORIOLANUS:
+I say, the seem of the seassules.
+
+
+CORIOLANUS:
+I say, th
+Training - Epoch: 13/50: 10240chunks [00:39, 259.21chunks/s, loss=1.31, lr=0.0006, run:=Transformer]
+Training - Epoch: 14/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.70chunks/s, loss=1.47, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on
+thy best trums; but broot, by but by there
+Those whiles the doing to-morrow.
+
+GLOUCESTER:
+Nay, brother sorrrace in the heaven.
+
+
+KARD INCHARD:
+Therefore, I shame be this world was thou hour
+To shep out with soul, worthing, would to do might worth
+And banish'd, some the tongue
+The death, we with him tongue hong to the honour.
+Wart we have harm to thee bratth, but out thy heare,
+Whiles hough be and
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+This say boodys the wars brother breath, and show'
+To banish'd thy have sons. But I sabe, so should none,
+Whils be brother by thangues and broooks subbsting
+Marganeler: the sit one onld to here bodst made
+Buch in tit once and her she speaks and to be
+As trayatorors of this worthing stort seep
+Than then to seems thy that service as souch
+To steems oft a sstrawngers, this son bearth.
+
+BRUCKINGHAM:
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Is have sent stopped, should him so brought the
+Trown on welll with all one her free,
+But thousat what tild with him honour,
+And wife tongue and broot sorrrow.
+
+
+MIRANDA:
+Wit thou say art be to the send our blood
+What, if I'lll teach, to my hence.
+
+
+GLORE MIO:
+What sours shere's to struck and before
+Than sun with a souls bed some and tooo strick on mine;
+This strange on this put whith stoop banid
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the strong,
+And so the shall be so brow the strong of the
+should be some to subject the shall be son true.
+
+
+GLOUCESTER:
+I warrrant the brother be this straight brother
+And sorrrow the world be this son sound sound
+To see the seat of the strange of the stranger
+And sorrrow the service of the stranger one
+To the seat of the strange of the stranger the sea
+That strange of the stranger the seat of t
+Training - Epoch: 14/50: 10240chunks [00:36, 381.70chunks/s, loss=1.47, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would not the shame be some to sound the strong,
+And so so sound to the seat of the stranger
+That should be so so sound sound sound sound
+To see the seat of the strange of the sea
+That strange of the stranger on the seat of the
+service out of this straight brooth brooth brooth.
+
+Whirst Marrcham, then to the seat of the straight
+To the seat of the straight of the straight
+To the seat of the stra
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And so so so so so so be the strong brother.
+
+KING EDWARD IV:
+What should be so so sound sound sound sound
+To see the seat of the strange of the sea
+That strange of the stranger on the seat of the
+service out of this straight brooth brooth brooth.
+
+Whirst Marrcham, then to the seat of the straight
+To the seat of the straight of the straight
+To the seat of the straight of the straight
+To the seat
+Training - Epoch: 14/50: 10240chunks [00:39, 260.20chunks/s, loss=1.47, lr=0.0006, run:=Transformer]
+Training - Epoch: 15/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.91chunks/s, loss=1.37, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the subject.
+
+KING HENRY VI:
+And be my brother father the seeming, and
+To soundly minds the sun of have the blooks
+To beatt as the broave of the winth alll off
+Bindece in helll see out, as alt aslay.
+
+
+DUCHESSSS OF YORK:
+
+I wall thou hading our beack a mongult out on.
+
+
+GLOUCESTER:
+
+We KING EWIS V, Eor I manster brreak the befire,
+The bettheresomes out: were with severest
+In blieve besouting to a
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+But in my brother's brother's likence.
+
+DUKE VINCENTIO:
+Thine was would stain of moundest welll bear to make
+The watest of mine our for our sits.
+
+
+PAULINA:
+I warrraw whench I'll nate?
+
+
+CLUCIO:
+Why, I'lll not thee deceassion, I wake, and
+With thee sigh on thee wordshoow, what we theee
+wont take this deepttage, then sout out a fies
+Oxfeect.
+
+
+DUCHIOMAS:
+A say, a welll see too me and mine,
+To make
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Or to his back as my life, as in soul,
+And sounds welll winthinks, to the happpes the pettimess
+as the when at thou hist apptiesh
+Willess free an husband,
+And such with allock and that seem here;
+And were it she welll shalll such at housalt
+And thenesss alll to be might thee words but
+A bouth in a peerfuctial soul.
+
+
+FRIAR LICAUS:
+I' that toowe, where apppety,
+Whout with not, beack to seak world,
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the world of the death
+That which with the seal of the death of thee
+That with the present of the prest of thee found
+That was the worthy theee world of the death
+That the seat of the world be the seast of thee
+Tower the theee world of the world be the sea
+That was the world be the seast of the world,
+That was the best of the back on of the death
+That was the worthy theee world of the best
+That t
+Training - Epoch: 15/50: 10240chunks [00:37, 381.91chunks/s, loss=1.37, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will not the king of your soul soul,
+I will not so so soul sound alll thee sea
+The world of the world be the seast of the world
+That was the best of the back on of the death
+That was the worthy theee world of the best
+That the washiness the seast of the world besold
+That was the worthy theee world of the world
+That the world thee world of the world besound
+That was the worthy theee world of the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+That with the present of the present of thee
+That with the world severest thee world of thee found
+That was the worthy theee world of the death
+That the seat of the world be the seast of thee
+Tower the theee world of the world be the sea
+That was the world be the seast of the world,
+That was the best of the back on of the death
+That was the worthy theee world of the best
+That the washiness the se
+Training - Epoch: 15/50: 10240chunks [00:39, 259.23chunks/s, loss=1.37, lr=0.0006, run:=Transformer]
+Training - Epoch: 16/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.99chunks/s, loss=1.38, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the do soul,
+If that there we diddding tents of them thristre,
+Which shall be my sovere time, but seet were
+This world this seat that has to heer.
+
+ARTCARIS LEOF:
+A maltess as me weelll of hand, I warrrant him her and there fight,
+Whosh histerss on whith town her hath he'st.
+
+
+GLOUCESTER:
+The stort on my heart, tearn the when we they seeess.
+
+STERSSSdlingman:
+Has nearrsh, shere'd, to telll him ta
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The shall have bleed hear he itsels, and thou he should she
+wich with the hate hath stuffff or the heersselvish,
+That thy haspe state here bliness a tongue of allong.
+
+But O's thine is true out the state of my sears,
+Thy leggs to the earth; the it talempty trait
+A loover it once with the truturn's day wrelch.
+Third Claudio Marcansard to me take on this plain.
+Ah, whipst, whith the pardon tall tha
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+I am thee times, the plict as the watch of his prutsest
+And the peersest or my heearts or alian.
+Then, that this warrsh is at her aslive to his here,
+With hidest, and and heard the seast, thus that would the
+As to make thy trusk that trick on mine or our marrreass,
+Bein a fleatts on my bloood thus; they seet,
+That should with trusts our hatst the streath out
+Which our tearls, and hundst his such
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the prince,
+That the preserves the preserves of the prince,
+And the seath the prince of the princely of the seat,
+That the seat the the perture of the seats the treath,
+That they lights to the treather the treath the tread thee
+That the treather the treather of the treath,
+That the wash the seats the treath on the treath,
+That they lights to the treather the treath the tread themselves,
+That the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The shall be the prince of the prince of the prince,
+And the seat the our of the seat the our of the seat,
+That the seat the treath on the seat the ourse,
+And the seat the the streath the our of the seat,
+That the seat the the perture of the seats the treath,
+That they lights to the treather the treath the tread thee
+That the treather the treather of the treath,
+That the wash the seats the treath
+Training - Epoch: 16/50: 10240chunks [00:37, 381.99chunks/s, loss=1.38, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The seat of the prince of the princely seat,
+The seat the ourse of the seat the treath or the orthere,
+And the the seat the treath on the out of the heads,
+And the the seat the the treath on the out of the heads,
+And the the seat the the treather of the treath,
+That the seat the the perture of the seat,
+That the was the seat the ourse of the seat,
+That the was the seat the ourse of the seat,
+That
+Training - Epoch: 16/50: 10240chunks [00:39, 258.40chunks/s, loss=1.38, lr=0.0006, run:=Transformer]
+Training - Epoch: 17/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 374.14chunks/s, loss=1.29, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  his heard,
+Where is that we shall she shill. O He trust thou art
+Would not fellow the pridest, we'll nor frather a fall,
+And to black a mights to thie simpe of thim,
+I with thy furtheer such and state allonge thousand
+That humbles struch we hatch a mindnesss of the spake
+And whose thou shallt to seet hit hat the brothel's
+But the dukes to this pallant, when it sadnd state these
+I hope she willl n
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And, with some forth the folks hour hours of seen
+With his his death soundler thou serve a holly hand
+Suppply his seconsessiess. Him stread to sear,
+And silk that the for this still anst of thee
+And they treasons the world to a tail on of this
+soless the seat o' heaven a boats out, and stay,
+And but for the seat the splangle from their sign,
+But in thou hit heartence, I shall not to thine ence?
+
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+all the fault one of all hiss sunducless,
+On my brothe to-night.
+
+Thirdunner:
+If thy near whillst be thine that stall to take
+Fong whom so so sto blood twell with our dance.
+
+Thirdst Mercutiate for this sove welll addish,
+And welll I speak off this feall it withs shine,
+This flattter'd was to bedief to breathe one,
+But shall no so man time a shappe and thy losss,
+Take me alll tall the state.
+
+
+PO
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state,
+And the state the state of the people of the death
+That should be so so so so so so so so soul.
+
+
+BAUTISTA:
+I say the seat of the seat of the streather of the
+secrves the stread of the state of the sea
+That would stand the seat of this state the state
+To the tread of this state the state of the sea
+That would stand to the seat of this state the state
+That the state of this state the st
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And yet the shall be so so so so so so so so.
+
+BAPTISTA:
+And then the state of the seat of the streather
+And the state of the seat of this state the state
+To the tread of this state the state of the sea
+That would stand to the seat of this state the state
+That the state of this state the state of the sea
+That would stand to the seat of this state the state
+That the state of the state of the state
+Training - Epoch: 17/50: 10240chunks [00:38, 374.14chunks/s, loss=1.29, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the shall be so so so so so so so so so so.
+
+
+BAUTISTAN:
+I say the seat of the seat of the streather of the
+And the state of the seat of this state the state of the
+secrves and the streather of the tready of the the stread
+That the state of this state the state of the sea
+That would stand to the seat of this state the state
+That the state of the state of the state of the
+To the tread of this
+Training - Epoch: 17/50: 10240chunks [00:39, 256.87chunks/s, loss=1.29, lr=0.0006, run:=Transformer]
+Training - Epoch: 18/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.47chunks/s, loss=1.3, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e of all
+shieps or mainted with thie sin of those the sist
+And there will to him, and then why to the
+sernatest with the time: here world thee tearst thee
+arish on or the hourse, hath triue in misscresss'd,
+The worthy shulll strike and shiref steen thine
+Where shouts be strength fure the sin,
+Sound, with thy thine enremity
+And the trush this down trim here time.
+
+
+ProvONCENTES:
+Ay, therefore that
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Which your houses the heart, then you sittle,
+May home, as I had band at you shore:---
+And the servenss there wish she seen, then
+With may I shall be he imira their friends:
+Are they time, there's there, to the treason him a
+The fairstity, then this shorte blowls, his with hate
+The ware tits that their how with soursest,
+Whith not take the simple of his honerst.
+
+
+KING RICHARS II:
+In that set it
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And this worthiph, another, by thee sir.
+
+Messenger:
+They signier teyes the tearest of a their own:
+Then woulds them service of mine or serrvice
+But in this were arrish, brough, which now troy that temper;
+Therrefore, that traitors, and sit, be so my soul.
+
+
+Keing Merrsuie them surp arison: and to this world.
+
+
+KING LEWIS XI:
+Now, sire that I would the world be thee;
+Thou speech is brother, I had
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the straight of thee,
+The strike of the prince of the strike of the strike
+Than the strike of the strike of this world,
+That the world the services of this world,
+That the world the services of this world,
+That the world the services of this world,
+That the world the services of this world,
+That the world the services of this world,
+That the world the services of this world,
+That the world the se
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The may some of the strike of the strike of the sin
+The strike of this with his strike and his heart
+That the barken of this heart to the house.
+
+
+CORIOLANUS:
+The sir, the more than the strike of this sin,
+That the world the services of this world the world,
+That the barrreath of this with his strike,
+That the world the services of this world,
+That the world the world the tormper of this straight
+Training - Epoch: 18/50: 10240chunks [00:38, 381.47chunks/s, loss=1.3, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The strike of the prince of this sin a prison,
+That with the strike of this world the world,
+That the barrreath of this with his strike,
+That the world the services of this world,
+That the world the world the tormper of this straight
+To the strike of this world the world the world,
+That the barrreath of this with his strike,
+That the world the world the world the hourse.
+
+
+CAMILLLO:
+Why, then the
+Training - Epoch: 18/50: 10240chunks [00:39, 256.31chunks/s, loss=1.3, lr=0.0006, run:=Transformer]
+Training - Epoch: 19/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.73chunks/s, loss=1.31, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  the happiest, a misery
+this shall be sentenced a sure of a sorance:
+If that base the stay son at and toucher
+Than true or solsent to the sea son the back
+Tongue and banishes boots and thou sents.
+Ithereof, the torture, the shoould to be sea
+A thinguish and soldient.
+
+
+POLIXENES:
+Mine enemient.
+
+
+MONTAGUE:
+Tever the words of this abonour orcease
+In this father a boorn succh be oreacher'd
+Becauting
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And woman so many to the crossed to the forget
+Though and fier fair our beat,
+The crosss on offficer's businesss,
+We she should soull's buck again,
+But, tolne o'twere banishent.
+
+
+Farewelll:
+Margaian, with mutour's sorrow to the sea
+And what to yon yourselves sorrow be or that hour.
+
+
+POLIRGA:
+Help, you'r for soo subject alloces and yone,
+And then, this sovereign our falll off allong
+And should h
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+But have both troad interriane.
+
+HASTINGS:
+What sain, and I should beaut my booy.
+
+WERWISTR:
+I dout the lord of youth: by youth, If the be death.
+When, son your lordshierely but angreath,
+To him heard tonguar, taluth a caup,
+As a troatous ass a this farrier;
+And thourtest marries man thousand many are
+Thirngst and banishment; there for the courch
+To hurt of the ourar, husband, thus bread the
+Touc
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the stay,
+And the seem of the seas and so seems
+The seems of the seems of the state of hear,
+And the seat of the seas of the seas of hear
+And souch as a soul souch as a soulse ass ass
+A shalll be sorrrow a the world of the sea
+That serve her bear the orear of the sea
+That serve her bear the seas of heaven and soun
+The seas of the seas of the seas of heaven,
+And the seat of the seas of heaven and
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would not so so sound a subjects as a soul
+That stay the seas of the seas of the sea
+That serve her bear the orear of the sea
+That serve her bear the treason of heaven,
+And the seat of the seas of heaven and soun
+The seas of the seas of the seas of heaven,
+And the seat of the orear of the sea
+That serve her bear the orear of the sea
+That serve her bear the treason of heaven,
+And the seat of the
+Training - Epoch: 19/50: 10240chunks [00:38, 382.73chunks/s, loss=1.31, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And so so soul be as the seas of the sea
+The sent of their severest and sounds,
+And the seat of the seas of the seas of the sea
+That servest the seas of the seas of the sea
+That serve the seas of the seas of the sea
+That serve the seas of the seas of the sea
+That serve the seas of the seas of the sea
+That serve the seas of the seas of the sea
+That serve the seas of the seas of the sea
+That serve
+Training - Epoch: 19/50: 10240chunks [00:39, 256.22chunks/s, loss=1.31, lr=0.0006, run:=Transformer]
+Training - Epoch: 20/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.75chunks/s, loss=1.33, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  mistress,
+Those hate he the head of the hence, the state, we
+Which to breathe heavy to him; and I take the wail
+With wife thy hand, therefore were then the have didded
+In brief thy wrench, that thy bortherefoe,' welll no martain
+Against this is wars thought thy working.
+
+
+RICHMOND:
+Why love they say thou tread ast then horse:
+I willl help at the hand tender the heart;
+Though affter the hand a man
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Which that, we'll should see you there is many to you.
+
+BRUTUS:
+What, stir.
+
+
+SERBASTIAN:
+I henk's strange: I am not be more the wisest?
+
+Thirdinking Constage:
+Then, being thy blood teach are of this wate.
+
+TRANIO:
+Though then a fool talle the peach, that then him
+Where they deeds with they're hand him sour
+Of honomable sincence, how thy house wish to the band,
+I am bear thy sorrraved heart, thou
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+their armong such a manswer the precians.
+I warrant thou hast to tellan the trooop's offficers
+That I have thee stay thou, sir.
+
+WERMIONE:
+I'll to the batttle at thy was ans true they house:
+I tread, they him to themse an that I mistures tread
+And that the prison of the worst: tauth I talk
+And to his was a gaunt and wit of this
+would thank whereso here services;
+To strives the blood these swears
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the strokes,
+That shall be so much at the prince of the state,
+And then the state the state the stay the strong to the
+That worst the strong to the heaven of the death,
+And then the streak of the streak of the streakest of the
+strong the world to the heaven of the streakest of the
+strong the world to the heaven of the streakest of the
+strong the world to the house: then I thenk then they state
+Th
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I am the stroke the prince of the state a traitor
+To the heaven of the strong and the streak of the death
+That was they streak they they truth, they say they they
+are they streak the tread of the tread the tread of the
+penountentss of the streakest the tread of the tread of the
+strong the world to the heaven of the strongs, then they state
+That they state they they truth, they say they treason
+Th
+Training - Epoch: 20/50: 10240chunks [00:38, 381.75chunks/s, loss=1.33, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The stroke of the people, the state the state the streakest of the
+would the streak of the streak of the streakest of the
+penience of the streakest of the streakest of the streakest,
+and the streakest the world to the house of the death
+That was they streak they they truth, they say they they
+are they streak the tread of the tread the tread of the
+penountentss of the streakest the tread of the tr
+Training - Epoch: 20/50: 10240chunks [00:39, 256.19chunks/s, loss=1.33, lr=0.0006, run:=Transformer]
+Training - Epoch: 21/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.35chunks/s, loss=1.3, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  thing, but not what
+say that shall be doth she still, stand wound,
+Where in the which?
+
+First Welcomes, though these to this seat,
+I had the troubler that I mine anoth,
+To commes and that takes with our shounds;
+For this stand telll metthis time tires,
+Which with they honour son me, whilst sert,
+Than men with the worship the world?
+What wilth strange? whilet me in my men. Goo
+That stranger this t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+The wilt shall shall set with hath some might
+Too the sea same with such serching throws.
+
+WARWICK:
+O, whould I have not with this have, that I hold
+Her cowarts to the trumple of alll seast, with
+them were wath thoughts.
+
+
+FRIARll:
+I thank then.
+See that's then, man my man to misstresss
+Much didst on this cannot to mooous,
+I seem to the crapttion, womb, art title.
+
+
+Clown:
+And woman, sir, what th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+thing straight's deceit, but to thy heat,
+And think's my throw that they hath men,
+Than that was we'lll thou this land, as thou sayst
+Though to satisfact our straighs and shearest,
+And strangest that was strict did not shall be att thing be
+Tranis's coomse to the chances with him such trust
+Shalll bing, though seet these have ten.
+
+BUCKINGHAM:
+What's a torn me?
+
+BUCKINGHAM:
+I would, since have th
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the strange,
+That was thou wilt not thou wilt not shall be to make
+That what thou shalt shalt be such astrical
+That thou wast thou wast thou wast thou wast, that
+Which shall be stranged to this senselesss to the
+seem that the world to this world with the sea,
+That was thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will the world will be so strange the world,
+That was thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+Tha
+Training - Epoch: 21/50: 10240chunks [00:38, 381.35chunks/s, loss=1.3, lr=0.0006, run:=Transformer]                                                                          ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the state of the statue of the sea, that shall
+Which shall stand the world be the sea, that
+Which shall see hath the stating to the traitors,
+That was thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That wash thou hast thou hast thou hast thou hast
+That
+Training - Epoch: 21/50: 10240chunks [00:40, 254.54chunks/s, loss=1.3, lr=0.0006, run:=Transformer]
+Training - Epoch: 22/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.46chunks/s, loss=1.23, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  him,
+To chide other with his palants and wil suit
+The people which we walls all one will poor.
+We stronger, I am and not to dige theee:
+Take this warst of were the cornsert in mine,
+Thats that were so mine eye wars the nape,
+And win this time sound with his caup and will;
+We warwick, with a slander again to be.
+
+
+First MOPSTINIUS:
+We then; and it is not.
+
+
+CUMISTIUS:
+We wart the grow. Wellcow mar
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+But see the night o' the present which in your child,
+I will, sorrroow and your counterserves, to the
+The prettend of a tailon: alll one stands: and sorrt,
+That is the carrrupt on this world with his
+tink hence, shall warr, a this woorld: that is not.
+
+WARWICK:
+An we so we addveress: we are newded welch.
+
+BAPTITA:
+Ay, tray, as youth make, I say. Lady yond me
+That struck and too the sentempents ou
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And shall be ashook and stay well as.
+
+CATESBY:
+I pray you, as you mpander in this tempest,
+To treen as it sly weeping withal south.
+
+
+BIAPTA:
+Within that?
+
+MAMILLLIUS:
+The gardes one at the pendewered wares.
+
+
+BRUTUS:
+We warest, what we child?
+
+
+First Murderer:
+Why, were it?
+
+BAPTISTA:
+And we wint to the waitn?
+
+
+PRATCLISTINGS:
+Why, it is ir.
+
+
+KATHAM:
+Witere it not bid me, to seat, were as whit
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state?
+
+BAPTISTA:
+Why, then, the shall not be so for the state?
+
+GLOUCESTER:
+Why, then, the shall I be the sea stringer?
+
+BAPTISTA:
+Why, she were shall not be so sound to the sea,
+That is not the state of the state of the death.
+
+GLOUCESTER:
+Why, then we were not to be the seat of the state?
+
+BAPTISTA:
+Why, she were shall not be sound to the sea,
+And the sea struck of the state of the death.
+
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will not so be so for the state of his child.
+
+KING RICHARD III:
+Why, then we were are to be the sea stringer?
+
+BISTAN:
+Why, then we were are the counterful the world?
+
+BAPTISTA:
+Why, wellcow I will not be so sound?
+
+BAPTISTA:
+Why, shalt you be so ffortune of the state?
+
+BAPTISTA:
+Why, she were shall not be so sound to the sea,
+And the sea stay the sea of the state,
+And the sea of the state of
+Training - Epoch: 22/50: 10240chunks [00:38, 381.46chunks/s, loss=1.23, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Where is the people, and the state of the country,
+Which with the country of the world with the child
+With shalll see his sound with his sound with his
+And the seat of his sound with his sound with his
+with his sound with his sound with his sound.
+
+
+BAPTISTA:
+Why, shall you have so been to the sea,
+And the sea streak of the state of his child?
+
+BAPTISTA:
+Why, she were shall not be so sound to the
+Training - Epoch: 22/50: 10240chunks [00:40, 254.50chunks/s, loss=1.23, lr=0.0006, run:=Transformer]
+Training - Epoch: 23/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.91chunks/s, loss=1.31, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  him, I have discarred the patient
+that he hath hellow at his lenithen and son,
+To the content here's the cold and his feast.
+I he thou hast the bannivishs to mine own how
+In tenters you and telll ther with himself.
+What's the sure? I heave made murder but me? I would not
+seen they seet thou and must be a more fault.
+That I shore is the caut of my brother tongue.
+
+Second Captus:
+Wort souch a wash'
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+In hastly the peril to the power to the chill:
+There were not time the peonsits of heaven,
+Worthest our senates anon to her found him;
+And therein stay they hand termpts and alone,
+Tenterney witcher hence with this cause off them
+And bid the creature.
+
+
+PERDITA:
+When, son were we are to stir here, and he wat his
+being breathe the couttsmelts, being agoin
+On honest be a touth a men and a proove
+As
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+as I she best, we heaven any whiles to her.
+Sham, hath bettter this tribune supe a plack;
+And the world seerves them with on a plette
+And sorrrow a servent a welll sea
+Of wardinglish on tenter'd the with a peast.
+If that we are sile to speak of heat is to a
+shee worthy the wortheor worst, tell me thee with
+an terraitor their own cousin and the beat anguisish
+women and salew's with the camble to b
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the strength of the sea
+The prince of the state of the state of the sea
+The princes of the state of the seat the world,
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I am to the prince of your grace and the prince
+The present of the penounter to the county
+The county the county the cause of the cause
+and the seat of the seat of the seat the world,
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of
+Training - Epoch: 23/50: 10240chunks [00:38, 382.91chunks/s, loss=1.31, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the seat of the penitence of the sea
+The wars of the streets of the seat of the sea
+The warriest of the seat of the seat the world,
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat of the seat of the seat the world the sea
+The seat
+Training - Epoch: 23/50: 10240chunks [00:40, 254.43chunks/s, loss=1.31, lr=0.0006, run:=Transformer]
+Training - Epoch: 24/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 380.87chunks/s, loss=1.19, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  a seven of state.
+
+PRINCE EDWARD:
+Nay, be so; I'll part you.
+
+First Gentleman:
+A ground is outward: what then?
+
+Second Murderer:
+What, that we are, to should to my soorrr.
+I may brow the oracle, when I say welll be again,
+To make the cannot creaturater'd to hear it,
+Though be so lange, alll thou at the heavens
+And alll the more of my mounth army.
+
+
+FERDIATANCA:
+And thousand for a subbject of trus
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And, when he shall not lived: he would hear the
+bitter the leven-seech you seenter.
+What news the manace that we alll out another
+In therewarest never so dary to talle here?
+Ah, my lord of sungler and her sellves alloness
+And that seall of my strattlely tame home.
+And happpy much along,
+Or in the meat of the wordst, by a man ore.
+Therefore none be night a talle talle.
+Though the camest: thence st
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And being as service order, whom I lamed it.
+Then, were not the sadd off those that welcome
+And her soull to merry. This love me seet has news,
+Where in thy humall they tormph; the worth welll,
+Who darest thought in thy choungry, but my
+To holds and honour themptation was brother.
+
+ARIEL:
+Thou coward with thy hollds and meak our course.
+If the bold of soul, though talk the crown.
+
+WERMITAR:
+Angel
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the stranger.
+
+GLOUCESTER:
+I will not so long and so subject as the sea
+That shall be so be and all the seat one alll.
+
+GLOUCESTER:
+I willl not be so discord of the day sorrrow.
+
+ANGELO:
+I willl not be so discord that I have seen
+The orrared of the seat one our souls.
+
+
+ISABELLLA:
+What is the mattter of my love,
+That she world and here be and alll one.
+
+ANGELO:
+I thank you should be my lord, I wi
+Training - Epoch: 24/50: 10240chunks [00:38, 380.87chunks/s, loss=1.19, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I have so much on my son, I will not so long.
+
+KING RICHARD III:
+What is the more of the more of my master?
+
+Third Servingman:
+What is the day of the day of the day?
+
+
+GREMIO:
+What is the mortal of my love, I willl not be done?
+
+Third Servingman:
+What say you must be sorrrow.
+
+
+MENENIUS:
+What is the country?
+
+
+MERCUTIO:
+What is the more of the marrrial of my heart?
+
+ANGELO:
+I willl not be so disc
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the second of the stranger of the stranger stranger
+And the secret of the dear of my soul,
+When she shalll stay be the seat one and alll
+That shee shalll be so bround our soull of my
+soul: but I shalll be so be and alll one alll.
+
+
+AUFIDIUS:
+I thank you the sea worse: I willl not be so.
+
+
+GRUMIO:
+I thank you that love me to my love.
+
+
+PETRUCHIO:
+What is the more of my master with his long,
+An
+Training - Epoch: 24/50: 10240chunks [00:40, 254.34chunks/s, loss=1.19, lr=0.0006, run:=Transformer]
+Training - Epoch: 25/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.64chunks/s, loss=1.31, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  thee, seize thee honour,
+I will. I will be cold well heart the cord that,
+Which the weakness of his forery hath the bold
+Here henceforth and here with our havest, torge
+Tilll me than I servant. I I came to you.
+I think your heavils calleying worth
+I willl new agle to her treason,
+That in the worst the churds of your brother.
+
+
+ROMEO:
+Though the told my before I'll tent your again.
+
+
+GREEN:
+It is
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Thy brother image to him.
+
+PERDITA:
+It is thy body.
+
+RATCLIF:
+I willl never welp thee have done.
+
+
+PAULLINA:
+The lost of strew tempts upon yet,
+With thanks the wind the seat inflects
+Is are to the wert itself of the senales,
+In this trick wellcome with her with this field,
+Though the world of this badd farewelll,
+To bling for the steen and the watcches
+To the secrn the sea of welllow the wayer.
+T
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+I would the cause are and some speech the heaven,
+And thought the world'st fortunes and this image
+A than we mean the sea-son of heaven,
+But seekinss on him, that they wench to telll him,
+What here water'd to him I adverrty:
+I had they work thee hand with mump on that:
+If thought, though I hit, thou honest wert's mean.
+
+
+ROMEO:
+I think this that I have sheekin to be at
+the fount whosest asssister
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state,
+And the stand of the corn that I have stay'd
+The seal'd of the consument of the state,
+And the world the seat of the world the world,
+And the world the seat of the stand and the streaker
+And the world of the world the world of the death,
+The man of the world with the sea of the death
+That the world of the sea ore the world of the
+Tongue the tongue of the the death of the world,
+The ser
+Training - Epoch: 25/50: 10240chunks [00:37, 381.64chunks/s, loss=1.31, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will not the sea of the court of the court,
+And the sea the world the world the world of the death,
+The man of the state of the world the world,
+The serves of the state of the the death,
+And the world the search of the world the world,
+The serves of the state of the the death,
+And the world the search of the world the world,
+The serves of the state of the the death,
+And the world the search of
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the stand and the stand and the stands of the world,
+And the world the world the world of the death,
+The man of the world with the sea of the death
+That the world of the sea ore the world of the
+Tongue the tongue of the the death of the world,
+The serves of the stating the world of the death,
+The man of the stating the world of the death,
+The man of the world with the sea of the death
+That th
+Training - Epoch: 25/50: 10240chunks [00:40, 253.26chunks/s, loss=1.31, lr=0.0006, run:=Transformer]
+Training - Epoch: 26/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.56chunks/s, loss=1.27, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  your hangs,
+Without a passage of the corser and be tried to-night.
+
+HERMIONE:
+Wercurse he did strike from her would I willt,
+Breturn to break an every son of thee free.
+
+
+KENTORD:
+I thank your from Laddy Surrrey?
+
+
+QUEEN MARGARET:
+O, take here all and as I was here worst,
+Who id it be the contempt as a comffort,
+As we are to say of acreepss and tale strance
+Was done't best us were be doling or to
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Trump your heard made my lord, to dry thing that,
+By morreated to the worst if
+I'lll tend the peace ope our deputy,
+Though sorrt be and to streak the first: I'lld,
+Wellcow to their willl speak of the carriess; for
+This was to the devil it. His were headsts
+And thus at the sendsess twent thence soundest
+and tribumes, take't up and the stread of my son,
+The serpity of the pair, the warr'd not weddd
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+though surficion we will be so for thee speech,
+Withough the wretched thy crotcled for wanton.
+
+BISHON ELLIZ:
+O serrve to bring the corse bed; a those they day,
+So drinkeess o' that I should be that staturn'd with sold
+That was true the tat back this tortuch,
+So thou spake me warr'd their fair sovereign,
+And both blide that duke it.
+
+ISABELLLA:
+How do indeedffule that I wore a burthen force.
+Who
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the strange?
+
+BUCKINGHAM:
+What is the things that the may be so far
+To the prince of the desire of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the de
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would have me to the people of the state
+The pretty of the death of the people,
+Were are to the people of the death of the
+death to the presence of the death of the death,
+Which with the people of the death of the death,
+Which with the people of the death of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+T
+Training - Epoch: 26/50: 10240chunks [00:37, 382.56chunks/s, loss=1.27, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the seat of the people, and the state of the
+duke and the people of the death of the death,
+Which with the people of the death of the death,
+Which with the people of the death of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the death,
+That thought the contracted of the de
+Training - Epoch: 26/50: 10240chunks [00:39, 261.75chunks/s, loss=1.27, lr=0.0006, run:=Transformer]
+Training - Epoch: 27/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 380.98chunks/s, loss=1.15, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  yours,
+What thou seee the house hads too late in the stature.
+
+TRANIO:
+Then time imake my hornest woman or the war.
+
+
+BUSTIGBER:
+What hast by this harbour tender thanks?
+
+
+RICHARD:
+I tall my heart name, this is a back bawd;
+And thereo the world so time to he death,
+There in all out there which wee heapt was here daminds:
+Band and head, the hour and the duke of hour,
+And so her in his bed for his
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+It is a simple dead and so brief a content,
+And to take him a splague: wife all he be
+I had been so feast, by heaven and the borne horse.
+
+
+First CAULIUS:
+Who should I want him,
+Whom he sister manner himself that thou direst the horse
+Whether he is here, when he will hate the been
+As bound to the hold on his part hours to this hand.
+
+AUTOLYCUS:
+I am that he his dead, in be hit me.
+
+
+ESCALUS:
+I th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+hour have hardled with him and black his lineable;
+And then he truthles senate hath the brow'd off heart,
+We should be that were he born me of thy head,
+Which in the will stand be the here dire that shis
+Within art the day and helm heart talle of war.
+
+
+HORSPERO:
+That I hope that hatre by him that the day.
+
+HENRY BOLINGBROKE:
+My gracious lord, the desigously sense hath
+The prisonations! O heavy i
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the day,
+That we have been the day of the death,
+That with the dead that thou hast been the day.
+
+ROMEO:
+That thou art do not that thou hast been thy brother's
+That thou hast been time to the day of the death.
+
+
+RUTLAND:
+Thou art not thy constrance that thou hast been
+That be so bloood in thy brother bed,
+And thy brother beat thy brother beasts,
+That thou hast been to this dead time to the day.
+
+
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I am a banished to the people of the death.
+
+ROMEO:
+The more of the more thanks that the wars that
+That thou hast been time to the day of the death.
+
+
+RUTLAND:
+The wards of the death on the oracle of the death,
+That thou hast been time to the day of the death.
+
+
+RUTLKE:
+What is the didd beat the tread of the death?
+
+
+RUTLAND:
+The wards of the death on the oracle.
+
+
+RUTLAND:
+The wards with the peo
+Training - Epoch: 27/50: 10240chunks [00:38, 380.98chunks/s, loss=1.15, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the world that with him and his contracted
+That thou hast been time to the day of the death.
+
+
+RUTLAND:
+I have been by the disposition of the death,
+And then the devil of the death of the death.
+
+
+RUTLKE:
+What is the didd beat the duke of the death?
+
+
+KING RICHARD III:
+Why, then we will not that I have send to do to death?
+
+
+RUTLAND:
+I am the disposition of the death of the death.
+
+
+RUTLKE:
+W
+Training - Epoch: 27/50: 10240chunks [00:39, 260.80chunks/s, loss=1.15, lr=0.0006, run:=Transformer]
+Training - Epoch: 28/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.23chunks/s, loss=1.23, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e of man,
+Because, was winking and dinn stand, who would say
+Is the world, that he was not any the controve
+To the contracted of the world, and thou art
+To thou avoid the count to my fall. But,
+That is my stand, to my lord; and who I may nurse
+To take the time to that; and if my souls
+It win win my tongune our man temporary
+To touch one our merrithan and thou, by must day,
+I was with theeir one ou
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I'll the worldly and so fled as young son in the sorrow.
+
+DUKE OF YORK:
+What, in thy the sovereign come the worst?
+
+
+KING EDWARD IV:
+This, tribunes, wife, with thanks, and with my soul,
+And madm he the warrs may from the tongue,
+But show and with the time supprises of his complaint,
+And banished which we to triches with the sourse
+That storms, her whipp, tin and thankes my sorrow,
+I mise we ware
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And by ministers, and thinks their factise
+Which work outward the courterer's, winger'd with him
+And her business on him, he was with mysellf and sing.
+
+
+DUKE VINCENTIO:
+Swilll out out
+With hear than which shall we willl his business
+haste, one the othing war, to warm to that;
+Who have brought that sours our most things against
+As then which with they would shows not thourse.
+Mandam, we'lck now a
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state,
+And the state the world to the sentence of the death.
+
+GLOUCESTER:
+The good man, then, the world I say, and thence
+To be the worst of the death of the orators
+To the tormutous of the devil or worse.
+
+
+Second Murderer:
+What, willl you be marrried to the world?
+
+
+Servant:
+What, willl you be marrried to the world?
+
+
+Servant:
+What, willl you be marrried to the world?
+
+
+POMPEY:
+What, willl
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will do not the world to be so so bed.
+
+GLOUCESTER:
+What, willl you be the world with the commpand.
+
+
+KING RICHARD III:
+What is the world with the commmon the world?
+
+
+QUEEN ELIZABETH:
+What shall so we shalll be so sound to the world?
+
+
+KING RICHARD III:
+Why, then, with the truth of the death?
+
+
+QUEEEN ELIZABETH:
+What shall I be think to the world to the world?
+
+
+KING RICHARD III:
+What is the w
+Training - Epoch: 28/50: 10240chunks [00:39, 381.23chunks/s, loss=1.23, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the sent the stand and the stands of the day.
+
+
+GLOUCESTER:
+What, willl you be the world with the commpand.
+
+
+KING RICHARD III:
+What is the world with the commmon the world?
+
+
+QUEEN ELIZABETH:
+What shall so we shalll be so sound to the world?
+
+
+KING RICHARD III:
+Why, then, with the truth of the death?
+
+
+QUEEEN ELIZABETH:
+What shall I be think to the world to the world?
+
+
+KING RICHARD III:
+Wha
+Training - Epoch: 28/50: 10240chunks [00:39, 259.18chunks/s, loss=1.23, lr=0.0006, run:=Transformer]
+Training - Epoch: 29/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.02chunks/s, loss=1.3, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  thy standing,
+The services of the still spirits are not thy heart.
+The son of these blessed with her sevits the world,
+Whom with allies of alll our winderings,
+With souchs as alll to him serrvice,
+That was he will be a siggnar'd and bless,
+Taking the signs and alre and bit and stellls
+On the digre of my heads and terms to have.
+This fancy the sea shall store hence are those asle
+Misthinks, the ba
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I thought to a sallow as ten or wanton a maid,
+What thinks man shall have sorrrow thy life,
+That thou her do bear's torment man, staint and allong
+That was seerful tining on a sistick,
+Talling suitolers of our ancienting
+Thinie eyes spirit the bearing sunglueds, thus
+Was folllowing all toge on her the stoon.
+
+
+ROMEO:
+And the traitors of his might best the side
+On he hand a sorrew or sisthephers.
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and that when we sail her the stock of all mother,
+And say his, hone the ballady and heartels;
+For he hither be did them but of a strick,
+To shoould the top of our and and welll think that
+In alll storm the six of a traitor or to the pounder,
+And the track of alll on were win so our hearts,
+Being the true of him, and thirty is on't and to
+That hath no so blight of his heartily sire.
+
+
+BIRANDEL:
+W
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the season of the death,
+And there is not the seas of the season and stand
+That the shall be so strong and the treasorse of the strange
+And the sea of the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I am a gone and that the state of the death,
+And the shall be so so strong and strick and strick
+The state of our streets on the statings,
+And the sea of the statings of the statings
+And the seat of the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the stat
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the sea which the shall be so still the sick
+Of the seasing of the statings of the death,
+And the sea of the statings of the statings
+And the seat of the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the statings
+Of the deep on the statings of the stati
+Training - Epoch: 29/50: 10240chunks [00:39, 261.67chunks/s, loss=1.3, lr=0.0006, run:=Transformer]
+Training - Epoch: 30/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 380.46chunks/s, loss=1.23, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on
+mercy hang at the last, when my friends and said
+But my brother subjects, to my shearets,
+That lent is contrive anothed to her.
+Take her long, by the muthtion that hope.
+His worthine, that made with sorrrow to the lanks,
+Were thy litttle and thy fitcess to thee welll;
+And thy trueuthoughin, when thy steat, but surft
+Thou dover way thou art aside.' Him thou art,
+Or now I toward. Where chouse thy c
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Till him I to-morrow his neck to thee,--
+
+First Citizen:
+Why thou warth no serpit? no monster, stay?
+
+Thirdan:
+They son, sir! but not that she stinks that.
+
+HORTENSIO:
+Mi with, to seen! the world, boy my treary!
+That's that the crown but the world, think the bear
+Of the dovest, worst thy thoney say was never;
+And thou do so, stains, thy lord, thy life, and my meet;
+And then, thy stoors it is not
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+were at the lurk, wherefoe these two commanders
+Of shoutchers with thee tope allong.
+
+
+MENENIUS::
+We are not think?
+Wellcow, we drunk it; but the king withdraw hour,
+That we meet,--thus but the llackers within,
+There buttter lurgs, while with she were?
+O, now down, whoo that but my lusty? nothing?
+For doy! why she wears then? flome, sir.
+
+CLIFFFORD:
+They matttter do thee forehear? still? be they
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  his head?
+
+BUCKINGHAM:
+Why, then the sea white the mattter? why, then?
+The matter may shall be the bride out of the death?
+
+WARWICK:
+The mattter with the coron that shout within the stay.
+
+
+KING RICHARD III:
+Then were not to be this to the crown.
+
+
+QUEEEN ELIZABETH:
+Why, then the senate that the mattter that?
+
+
+KING RICHARD III:
+Then were not to be this to the crown.
+
+
+QUEEEN ELIZABETH:
+Why, then
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will not so be that the mattter of the king.
+
+KING HENRY VI:
+Then welll the senators, the truth of the king.
+
+
+QUEEN ELIZABETH:
+Why, then the senate that thy love think?
+
+
+KING RICHARD III:
+Thou do the lord, thou dost not so much for thy love.
+
+TRANIO:
+Thou do think the life, that thy love think thy love,
+That thy love that thy love with thy love,
+That thy love think thy love think thy love,
+Th
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the senators of the statue of the deed.
+
+HENRY BOLINGBROKE:
+What shall be think the world that the world?
+
+
+KING RICHARD III:
+Then were not to be this to the crown.
+
+
+QUEEEN ELIZABETH:
+Why, then the senate that the mattter that?
+
+
+KING RICHARD III:
+Then were not to be this to the crown.
+
+
+QUEEEN ELIZABETH:
+Why, then the senate that the mattter that?
+
+
+KING RICHARD III:
+Then were not to be thi
+Training - Epoch: 30/50: 10240chunks [00:39, 259.26chunks/s, loss=1.23, lr=0.0006, run:=Transformer]
+Training - Epoch: 31/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.30chunks/s, loss=1.17, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on ?
+
+DUKE VINCENTIO:
+The dispatch: I will not so; for, nor which, good forward.
+
+DUKE OF YORK:
+It is not truly, stir. Thou hast nee'er so,
+And seven more warms as much boy:
+Thou art any for out with such suppers; folld
+As the wind that this befrell as we do field
+Than the windows, and with my south addors:
+If with his power, I should be a foot.
+
+AUTOLYCUS:
+
+Where it is seen:
+We shrild win to be an o
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+If I'll present you before you any must
+Than the purpose of a stabble; but yet
+Infly man of the businesss of you,
+What never mother have, and the rank of shame, should,
+and to their businesss. Therefore, I willl were hence.
+
+
+CURTIS:
+It is a shame.
+
+ABRGONA:
+We are as we must be think in me.
+
+
+GRUMO:
+That shall with the man of heavenly together.
+
+
+PRINCE:
+If he were, so thou hast made her as mons
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and to tune on the point-foot, and as he will
+As in alll daughter, still, as told were would.
+
+
+SICISTA:
+Is it not, though the foound
+That which see should then for a death of death.
+And till thou buy their suffferer off this sort;
+Thy forget and bour dust as most and willl,
+And terrruly to my seat, for no one bettime
+A sea--for the corrrow beatt me but for most,
+If be thou douthour by my suit is
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the state,
+And that the world be so breath of the store
+Of the sea of the stopp'd of the sea-seemble,
+And then before the sea whom thou art thou art
+Thou art a found to thine eyes be this death,
+And then between the sea should be thine own sound.
+
+
+GLOUCESTER:
+It is not the rest of this offfice of the death,
+And then but the sea of a woman to the people,
+That state and the sea of the sea which sh
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+If thou didst be thy body and born thy body,
+That will be thy borde and thy soul seat:
+Thou art not be thought to be this statisffied
+That thou art not but the forth offf the death,
+And then but the sea of the death of the death,
+And then but the sea of the death of the death,
+That should be the sour of the death of the
+To the people, and the sea of the death of the
+To the people, and the sea of
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the seat of the state of our souls,
+And then between the sea of the state,
+And then before the sea whom thou art not:
+Thou art not but thy soul discover thou art
+Thou art not a man to this state: thou art not
+Thou dost but thy soul: but thou diesest thy face
+Thou dost but thy fortune and thy soul:
+Thou art not but thy soul discover that
+Thy soulse and thy bounds and the seat
+Thy brother beari
+Training - Epoch: 31/50: 10240chunks [00:39, 261.42chunks/s, loss=1.17, lr=0.0006, run:=Transformer]
+Training - Epoch: 32/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.97chunks/s, loss=1.09, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on e what with you.
+
+First Musician:
+It is not.
+
+First Senator:
+How do you this?
+
+PETRUCHIO:
+Who, with a warrrant of this.
+
+
+DUKE VINCENTIO:
+No, by the matter; but the honourable
+I said 'betts a litttle banished out.
+
+
+DUKE OF YORK:
+Away, be yong and merrcy, I willl ano hour;
+I'll hence it be; young take him, since your sons,
+A man bousom's ones! Bolinton, sir; and sound
+Miss-sougage the old toges, w
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will buy, and the heavens in the treason
+In a silly thing that I do him than by a sun.
+
+
+GaLONEY:
+I will out with that was more to than I had.
+
+
+PETRUCHIO:
+This willl I telll this most thou have more true from
+Their some hope; the one o'er bid the time.
+
+AUTOLYCUS:
+I shall: but it is no be time, I apparent, I could sing,
+Would have be so disterinated for tears?
+
+AUFIDIUS:
+No bring to my forth t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and with yearners and better than he show.
+Have here the leaven to some to make the words,
+Whom I hot best bear this sad to himseelf:
+And that his birth as to that strike him and minister
+And birth, thou shalt have had as monster'd than we
+Are nobler to beast, and the country's distresss'
+That be cradd-celled; but which with him sour,
+If you have serve, to bine as yours beats.
+
+
+KING EDWARD IV:
+T
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him,
+And he hath some prince of his son a prince,
+And his son a word and his hand a subject,
+And the honourable and the hotes of the house.
+
+
+GLOUCESTER:
+I have been a suitor of the hotter bettter than the
+And the service of the hotest of the house of York.
+
+
+KING EDWARD IV:
+What says your honour and me to the man.
+
+
+LADY GREY:
+I thank your sorrrow sorre with the crown.
+
+
+GLOUCESTER:
+I will tell
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I am a sorry of your prince, and you are a subject as you.
+
+GLOUCESTER:
+I will tell you to hear the world is the wise
+That wounds you here be an arrguing of my son,
+That wounds you have been a sorre of my soul.
+
+
+GLOUCESTER:
+I will tell you think your honourable and me.
+
+
+KING EDWARD IV:
+Now, by Somerseing and the treasor of your house,
+That I have seen to be an arrgunt of my sons,
+That be so mor
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the service of the house of York.
+
+KING EDWARD IV:
+What wish the man that I have been so so satisfy.
+
+
+LADY GREY:
+I thank thee to the man that waits the wars.
+
+
+GLOUCESTER:
+I will tell you this world with the hand, and the
+think you with the sea-straign of your soulses, and the
+serves the sea truttter's son: but the other state, and the
+serves the man that was the sea traitor of the death.
+
+
+
+Training - Epoch: 32/50: 10240chunks [00:39, 260.07chunks/s, loss=1.09, lr=0.0006, run:=Transformer]
+Training - Epoch: 33/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 380.20chunks/s, loss=1.1, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  o' the chase,
+As I have been sent.
+
+MIRANDA:
+No, good sir, the gods be word,
+That with thou wilt be plain; which is it.
+
+HENRY BOLINGBROKE:
+We stoood in this duke is vice to tears,
+And be it welll, the word work.
+
+
+PRINCE EDWARD:
+Anon yet was allone this service a thousand help
+Or elongemand: if we we must both were thou,
+That warnt it is to were all them bore:
+That was this way work'd on his cou
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I do not look not, and by he is mother;
+To be the general postern of my stand weeping.
+
+
+KING HENRY VI:
+I do believe more that I love try falle.
+
+
+QUEEN MARGARET:
+Ay, and that we have but steep to said
+At want to teach within this here in the heavier
+Would not with the pleader. Was thou hast,
+But for thy sweet sons, to do the ransported
+The stoome-moree than my father is the world,
+But that I may
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+worser the person of another and take up,
+And so to the ground soldiers, to thempts
+Of your treembling to mee or way,
+But we are undo this and sellf to thempless.
+
+
+CATESBY:
+Ay, farewelll. He'lll usurp the commmon
+And send her sould hurrridder on.
+
+
+ClUCHESS OF YORK:
+What slander my heart teell my happpoe.
+
+KING RICHARD III:
+Thank's me think, that y thou canst not weell:
+But we were welll enterpa
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  his head?
+
+GREMIO:
+A hundred, and the worse that word willing,
+That we will be so dissemble to the ground.
+
+
+KING EDWARD IV:
+We were as the commmon the commmon for the company.
+
+
+QUEEN EELIZABETH:
+What is the matter? the duke is dead?
+
+
+KING RICHARD III:
+The matter of the tears of the heavens the world,
+The words of the death of the orach of the head
+That we would seeem on the world of the death.
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will to the grow of the court.
+
+CORIOLANUS:
+I will tell thee white wore the world,
+The words of the death of the orach,
+The oracle of the heavens to the danger.
+
+
+CAMILLLO:
+I thank your good willling counsel of the greeen.
+
+ISABELLLA:
+I thank your good willling counsel of the greeen.
+
+
+DUCHESSS OF YORK:
+What is the matter? the duke is dead?
+
+
+DUCHESSS OF YORK:
+We were as the wash the way to the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the service of the state of the death.
+
+GREMIO:
+What is the world with the cause of the death.
+
+
+KING EDWARD IV:
+We were as the commmon the commmon for the company.
+
+WARWICK:
+The gates of heaven is the world of his country.
+
+
+KING RICHARD III:
+We were as the commmon for the commpander.
+
+
+QUEEEN EELIZABETH:
+What says that we here in the world?
+
+
+KING RICHARD III:
+We were as the treemble of the
+Training - Epoch: 33/50: 10240chunks [00:39, 260.53chunks/s, loss=1.1, lr=0.0006, run:=Transformer]
+Training - Epoch: 34/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 381.12chunks/s, loss=1.08, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  my land
+Is to the day, that she shall do colours too?
+
+Third Messenger:
+Was thy dire,
+By heaven sails in thy state and state on
+Hath sorrrow to the saider's death. Though injure with thy
+soldy as these says, as welll as I swing,
+That she stomew'd atward on Romeo's truth?
+
+TRANIO:
+More too much, with all more in sinerss,
+Which so we must spleakin, with allow'st,
+With stricks of her brewixthan the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+'Tis now some stones and thine own she did gift.
+
+ROMEO:
+Wilt thou didst so? whale thy words?
+
+Third Servingman:
+Which sends it is now for with that doing?
+
+MERCUTIO:
+It wise no more of the streets.
+
+
+CATELBY:
+Ay, my lord, it seems the commmonards.
+
+Third Citizen:
+I came to on, I willl do it.
+
+
+ROMEONE:
+Where is not so my sons wife is none
+Than women here with our soulsess are spelll.
+
+NORTHUMBER
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+with music and lowfully discharged;
+But tale the forth it with our foorcative
+As fresh the stand as as traings as we this.
+
+TYRREL:
+I'lll not a sign of you corrrect, you seee
+I telll now your stored words, would not
+This is that they should be as you here,
+But faith when it is distratenct,
+Bing feet a dew-sole and appaired of a
+Andop-streengt once frozeth in their foorce fruits,
+As in the strong
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him,
+And he shall see him as some strict of a strange.
+
+ROMEO:
+Then shall I see thee are of the fire or two
+To strict on the earth, the torture of the death
+To the earth of our strangess of the death.
+
+BAPTISTA:
+I willl not so, I willl do with theee with theee.
+
+BIONDELLO:
+The same of the duke is victory.
+
+
+POMPEY:
+I hope it in the duke sis on my souls and
+solemn on the station of our state and s
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will do not so, I say, I say, I say, I say,
+I see thee are thee for thee toward theee,
+And there with the sea of the duke with theee.
+
+ROMEO:
+Then shall I see thee for that seee years the world.
+
+MERCUTIO:
+Ay, and the second I seee thee for that words,
+That with the house of our deaths, they should stay
+They shall see him some on the fortune of a great
+and grandsire of the death on the oracle.
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the sea of the death of the world of the death,
+That is not a dead too falll of winders,
+To the second that the sea was not a side.
+
+ROMEO:
+The fortune of the death on the oracle,
+That willl not so stay the sea with theee:
+There in thy soldiers and state it is
+To the dangerous of the death on the oracle,
+That willl not be so discourse the towards
+That thou wilt with some of the state
+To the e
+Training - Epoch: 34/50: 10240chunks [00:39, 259.73chunks/s, loss=1.08, lr=0.0006, run:=Transformer]
+Training - Epoch: 35/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.37chunks/s, loss=1.11, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on 't?
+Then tell me, in the time of my mistress,
+Wothy the whitest the son of men, the time
+For thee and cupoule of allong is and so dear and so soul
+We have sents our tongues son: would you bettter
+Than your bound to stay the son: then immed
+In yonder only out, towack your father's love?
+
+AUFIDIUS:
+My lord,
+I willl die to your goood or the towe
+For when you and, you should here before your
+To sin yo
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I must be so madness, something but my brothers' love,
+And telll me where thy hence, to this world,
+Willl never basting but with my sirech too me
+To the people of himself, but with thee heart,
+And therefore so much an alllienesss, too live,
+And, in the peopining, and to the peoplle,
+And tell the presentinesss off our desparaid;
+And, as it is, thou wouldst should not the way
+French to the coldest
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the man of heart is lightnings' strangess,
+Alllaying strangess for a touch and humelt's.
+In humbly, boy, and hear the marriage.
+
+
+BIASTANDA:
+What is the dillerss of this ortwain ill.
+
+
+GLOREY:
+To thou his son off truth, to thy lord off
+With thought wench, if their rivals and world
+To here before their senses thin illl or tale.
+
+Alll:
+I pray thou didst thou forthwithst: the pray thought
+That s
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the silvers
+Of the dear of the lieutenant's love and the
+Tower the people to the people, the world of my son,
+To the pooor of the pooor of the pooor of mine
+And the hourse of alll the ponderianse of the hourse.
+
+
+GLOUCESTER:
+I would your honour and your honours and my heart,
+That you should not be tongue on the world.
+
+
+KING RICHARD III:
+Why then, then, in the world of the death?
+
+
+QUEEN ELIZABET
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would he had a holy for your highness to yours,
+Which you have been a son of mine of your house,
+Which is the house of York is too heaven,
+And then to the enemies of your and your house,
+Which is the poossible of the orach,
+To the people of your households you to the hourse.
+
+
+GLOUCESTER:
+I would your honour and your honours and my heart,
+That you should not be tongue on the world.
+
+
+KING RICHA
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the sea that would have seen the state of hells,
+And then to here beat the one the other
+And the second the heart of the hourld of his heart,
+And then to himself and hour and his powerful to him.
+
+HENRY BOLINGBROKE:
+My Lord of Bolingbroke, then he is my love,
+And then to the enemies of the offficial of
+And the second the heart to the one of the hourse.
+
+
+GLOUCESTER:
+I would your honour and yo
+Training - Epoch: 35/50: 10240chunks [00:39, 259.36chunks/s, loss=1.11, lr=0.0006, run:=Transformer]
+Training - Epoch: 36/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 380.35chunks/s, loss=1.19, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on , that hand of her bodes?
+
+CURTIS:
+Why, thy speak watch her husband's done, that thought o'er a
+month our morta talks of thy honour's flower.
+
+BENVOLIO:
+My gracious lord, his son will be thou done.
+
+MERCUTIO:
+In that alll the disgrounate here, have hearen this
+To hand and a hush to himself.
+
+
+BRUTUS:
+There is no one a touse hearer's foreher's head.
+
+MERCUTIO:
+A happpiling of thine own dear of heav
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+But since in this he war? and yet nine hanger
+but himself this we warmeries and honesty our high.
+There is no fundler an any thought the patience,
+To have our angentner. Though be thou art a comfort
+To thy ono my wind, to all to my foes on other. Theree's
+way not, by your honour's notorication, they
+wound as a tasste that would do here beseech your
+with a beast to send and as your anchor, you tha
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+the sun as the wannting of his fairer and heart,
+Would have hand a tound asom'd of alll of themse
+Though's fiery my fair lamy's promises therein:
+Some and whom alll their bosom welll and a stranger on.
+
+BUSHY:
+Why, wilt thou hathore over a sone of those wars
+And that hand then by the house of our coupinion,
+And hand no more once would stay himself.
+
+LUCENTIO:
+By heaven, sirr, if they death be tru
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him.
+
+BUSHY:
+Why, then he was nothing but the world?
+
+SICINIUS:
+Why, then he was nothing but the world?
+
+BRUTUS:
+Why, then he shalll have stat here be a stranger to
+the county hate of the house of a hope of the house
+of a pooor, a buttterer to the people, a boon,
+and the hand of the house of our dear love and his
+here be an hour, and he shalll have to himself.
+If they be not to be a bunty to hims
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I have not so much with her sorrow's name in the world,
+Which now hand they hand a touch of the house,
+Which now they hand they hand they stating to himself.
+If they dead not the other business the duke of themse
+To have a scorn to the people, and the house of heaven
+The oppening of the house of a hoppe of a band,
+Which is the world the stating of his head,
+Which they hand of his patience of his
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the stroke of his power in his hand,
+Which he hath some off a husband to his father's
+And bid him here be a bound of his head.
+
+HENRY BOLINGBROKE:
+What is the mattter? why they hand they hand of his country?
+
+BUSHY:
+Why, shall he be the world not here before the booy?
+
+BUSHY:
+Why, she was they say, and they have stream'd to the world?
+
+BUCKINGHAM:
+Why, they stay we shalll not be the world?
+
+B
+Training - Epoch: 36/50: 10240chunks [00:39, 257.30chunks/s, loss=1.19, lr=0.0006, run:=Transformer]
+Training - Epoch: 37/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 380.55chunks/s, loss=1.17, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  your head?
+
+ESCALUS:
+I could know it is such a puish sea
+And, that shall pay this from something friends
+That you allow the fair instories, I am
+she's dead, in allaing by; as it is it is,
+And I, in a sovereign.
+
+
+CORIOLANUS:
+You have been as I shalll, I have stain'd
+The might of your sword.
+
+CORIOLANUS:
+This did simple be allouded
+Mistake honest the wisest. This is't island,
+I would never weap in
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And I am in an hands this, and being dead;
+For I will have hend the sit with his banishment.
+I have nead betrimed him hence, he wised alight;
+And his should have win hollow tendings than his hunds
+That's shine, the sun that hath seen his
+disease of his fortunes and steet's by
+his son with beasts, I hear them, and I
+Ansign our time towards their sons; and they then;
+And thou art towards their high
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+these sades as well being as the first field
+In alll often budgeres. We have no these
+To entempt our susesian death.
+
+ISABELLLA:
+Wert they love did I leisure.
+
+POLIXF:
+Welll, my lord; I shall you be shorn wear to
+Aside: my brother is is the lord, and how
+with the miss-boding there is no the sick here,
+That we may bear the testorm is in himself
+And their tenemions, the stews men trusts, and feast,
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him,
+As he had so fair for a wise and house,
+As he is a little made a more sin,
+And that his son head is no more bettter him.
+
+AUTOLYCUS:
+I have no more.
+
+
+AUFirst Citizen:
+I come, I come, I could telll you him.
+
+
+CAMILLLO:
+Welll, I have heard thee toward of his son.
+
+AUTOLYCUS:
+I have no more bettter than you, sir.
+
+AUTOLYCUS:
+I have no more.
+
+
+CAMILLLO:
+I have sent to be a shore,
+As I have said
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I wis a maid of stain, and the world be so for the
+will be dead the other be the winded of the
+sin is the world.
+
+PERDITA:
+I should say 'tis sorre, I have sent to beed,
+As I have been so break and bridegr oaths
+With themselves with the hearts of the death.
+
+BUCKINGHAM:
+I doing to him, I hope him in heart the field
+Of his fair windows to the sea thou hast,
+As we are the first in the streets of his
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+as the way we shall be so be as in a bawd,
+As the world of the dead bank and sense the house
+of Marcius is shame, the words of sheep, since is in the
+wounds the sea of the house of York is she
+That being so shee shall be so be as true beast.
+
+PERDITA:
+I have sent theee, I hope, there is no more.
+
+ISABELLA:
+I have sent theee, sir.
+
+
+ANGELO:
+Why, I have no more than the world?
+
+ANGELO:
+I doubt not
+Training - Epoch: 37/50: 10240chunks [00:39, 257.11chunks/s, loss=1.17, lr=0.0006, run:=Transformer]
+Training - Epoch: 38/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 340.94chunks/s, loss=1.13, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  him:
+And therefore I partly borow the counterfeit,
+With thee here of hangs breath, whose--tongued lover,
+And me then tearts to be court-poul, then,
+And this thy forceing, then inn thy chamber,
+And be to the feagl thy following.
+
+
+GLORE:
+A Patriciciance, to thy frather for thy head;
+And fear, a lettterminent to thee foool.
+
+ISABELLA:
+Were you too churt.
+
+DUKE VINCENTIO:
+Thou art no foool.
+
+AUTOLYC
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I am too, the soldiers of a woman of this.
+To be the common and brother's friend, belind,
+thieff to doour, to be restrating them to
+For what thy bears a banchied feed thou come,
+Telll her father's brother of his fear;
+But there wheer is sore strupent may their clouds,
+And the cause to-morrow's bane eyellong of my
+birrds foul meaning, within here; for honour,
+Whom thou shalt sorrow.
+
+
+CLEOMENES:
+H
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and altering the case obey,
+And we have done that doubled their bourner.
+Thou art nootorish'd with their persons,
+But follow things a while to seerr thee on him.
+There is thy life to denough thou slay stooom.
+
+Clown:
+The planett me, their best for earth one thy holly fool,
+When the dispatcts of them both thee hellps,
+To tread atttermpe their teed tears stiffie
+Wherein doth creature for the plate.
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him.
+
+First Servant:
+Where is the professes of the house of York?
+
+Second Murderer:
+Where is the truth o' the commmon for the country.
+
+CORIOLANUS:
+I then to my soul, I thought the coronal make
+The fairest of the death of the torment
+That the people of their servants to their servants,
+Their father their bear their bears their best
+And their true bear their bears their best,
+And their true bear t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I am a sorry of the people, and soldiers,
+That is not the sentented of the death.
+
+
+KING RICHARD III:
+And so do I do despert to thee for thee.
+
+TRANIO:
+I thank your goood coupe of their soulsels,
+The peoplle deep in their servants to death.
+
+
+GREEN:
+Welll, then, there the commpate to thee.
+
+
+Second Murderer:
+Where it is the tortue of the death of thee?
+
+First Murderer:
+Where it is the deeperent c
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the second there beauty to thee allow.
+
+First Lord:
+Welll, then, there the commpend the course.
+
+
+First Lord:
+Welll, then, there the tread that the commmon for the
+house of her falllower.
+
+
+First Lord:
+Here in the tortue.
+
+CORIOLANUS:
+I the court.
+
+MENENIUS:
+I the court-mark'd the court-chup of their souls
+And their true beats their true bounds, their father
+Was their before their bears their
+Training - Epoch: 38/50: 10240chunks [00:40, 249.97chunks/s, loss=1.13, lr=0.0006, run:=Transformer]
+Training - Epoch: 39/50: 100%|█████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 364.46chunks/s, loss=1.1, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on .
+
+KING RICHARD III:
+What is increase myself?
+
+HORTENSIO:
+What says shall I be myself? what was the
+To this friend in the businesss tortures or
+ease fallsed as we made their aridic, at fair their hands the countest off heart,
+as the father of ourselves, or it beard;
+The prayered them that hidest thither from him.
+
+BUCKINGHAM:
+Wouldst he had been from thy body it it,
+Beateful thy heart; the winds t
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+'Tis again, and this this a world speak it was speed.
+
+DUKE OF AUMERLE:
+As thou art for his soul's sword to his bosom,
+And his timedes by his seasility of his basoluted,
+I should be so much and further for mine;
+And womeuns makes as mindstrely,
+And show mayoring but that waid, and fully offf
+With this haste the wind that stays shoould then.
+
+MIRANDA:
+A blond with a great a hand futter-hot,
+As the
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+or then thee heavest of our tent, thou wert draw myself
+The wisses'st troous to the corrn, as thy friends
+To-morrow to briding in the blood strange, the tiditates
+My sorrrow, by the sound my soul winter the time,
+And bodilies it in the strong felllows things;
+I do defast, I have discoured the sile
+Thou art all acquittion with my father and hour.
+
+MARCIUS:
+I thank you, sir; indeed, sir.
+
+ABRATHAM:
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  his house,
+And there it be so so soon as the waste star
+That which his beauty to stay his honours is to the fair.
+
+BUCKINGHAM:
+Why, thends the Duke of York is the Lord Angelo?
+
+
+KING RICHARD III:
+A match, and therein your brother brothers,
+And so in the best your honour to my soul,
+I would the body to the head of the head,
+And therein what they say it idle the beasts
+I could be the duke to the de
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will be so for your highness to so much a
+day the word in the state of your honour soulse and your
+best and services as yourself as yourself as you.
+
+AUTOLYCUS:
+
+
+Clown:
+I hope to be a shortest and to sea yourselves to
+the streets of the heavens to the heart the truth that
+it were a should stay to the orach of your honour,
+I am sorrry you than you are all, you say yours.
+
+
+CAMILLLO:
+I have so b
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the stream of the streams of the state
+And the street of the heavens to the heart.
+
+Second Murderer:
+What if were you are all to your houses too sourt
+And the sea of the house of York is it enteer
+That the bed of sour soulse to be a shoour
+Than you are to be a shorter to be a man
+To you the commmon and your brother brother of your house,
+I would you have been so brought a younded and
+the stre
+Training - Epoch: 39/50: 10240chunks [00:41, 249.34chunks/s, loss=1.1, lr=0.0006, run:=Transformer]
+Training - Epoch: 40/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 377.33chunks/s, loss=1.03, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  arms,
+And strongely that throughoughout there art thou art a
+could all fire watch.
+
+LEONTES:
+Now Marcius amore can best a torth apppearer:
+I would have a subject, when I was a wise,
+That will strongle for such a doings:
+This banish a true-mean that the live of death,
+Thou art a pooling wants within thy steam
+In and boorn on bitter and such as
+As wanderous thy bittern boass, that before his
+new wi
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I'll shall he will tell your grace of my life
+feediful and so shall be seen undischirABETRAN:
+I'Sa, thou canst missforth me none amazemer.
+
+POMPEY:
+I cann by some but I had not said have the warls.
+
+ELBOW:
+His name is Ludy Angeman what wilt thy live,
+Or service that we can suppper my lord.
+
+PETRUCHIO:
+With wash these maids! That I may should be thy
+worship astes impeacing along?
+
+WERWIV:
+Ay, ay,
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Would bring from the banish'd of such anoishment,
+Who is now tread to the blood passsing well
+That I would have some sporne other beautinss
+Of the baby: being themselves and for all
+watchers, be blows and beat along.
+
+
+PRIRINCE EDWARD:
+Now Warwick, my master garlandful face
+To the worst alone as they's death shroud.
+Whilst thou hath this tormun me from thy light
+To see thy friend that's to dear's
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  his friends
+To see the prince of the death of the prince,
+And the rest be so far and for brothers' love,
+And that the best wise must to the prince,
+That was the fardes of the first way the crown,
+And the rest of the first that the first way they sea
+The way to consent the first that the world within the world
+That the brother of the traitors of the death of the orach,
+That the people of the dead
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+If you will be so brief to your lordship.
+
+KING RICHARD II:
+Then we will be trustches to your son and your brothers:
+The father was the people of your brother's life,
+And the brathe of your counsins, and your hands
+To see you should be to your cornam's lane.
+
+PETRUCHIO:
+Why, then you shall have we the bridal search
+To be the endemies of your ancifient stay
+That you should be the world by your fat
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+To save the life of the state of the deed.
+
+ROMEO:
+I thank you, my lord.
+
+
+MERCUTIO:
+The warling the search of the first that the world within.
+
+
+ROMEO:
+The mattch that I may say the common for the
+county this way to choose the first of the fieeld that the world
+the sea sealful and traitors of the princess that we hath
+destroyed the statin to the people, whose worth
+trows widows with the way with
+Training - Epoch: 40/50: 10240chunks [00:41, 248.81chunks/s, loss=1.03, lr=0.0006, run:=Transformer]
+Training - Epoch: 41/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 384.92chunks/s, loss=1.12, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on ,
+Signior Bianca country, and I want your men
+To the cord of sin, as you may chant to say.
+
+Keeper:
+And so we shall stay.
+
+BAPTISTA:
+An even so, to death, the devil of him:
+Bristh, as we wan a drum, and so out of ann ears
+Things that we made glad of theme. I have hither on
+To one that crept I shalll dretp it.
+
+TaGed more:
+I pray, as I am gued, and a honourable conck--
+The night-deed of such cracks
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+And tell that shall not stay, forgot his hate,
+Methinks on thy short to on, take them boy,
+They sun to another witch their way.
+
+TRANIO:
+So day, sir: we are as thousand is tender, the
+sights or too me: but, as if it be thought immmend
+The secrect most down to his cunning: to
+being him, go and telll y outh at once again,
+To wain of his heaven want outwaings and witnesss,
+This would stay to hear me
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The onest of hearing, and what say 'God say,
+To might here at the torts!
+If I would despert
+The sheate of dishonous of my teach his most
+And shall have to sstrong the heavens of men;
+And what of think, there of thome steeel, the people to teell me
+The sorre and break offf.
+Me, gentle I sulllant with him.
+
+
+ShUCLIFIAT:
+I am content to be, and so I thank thee world
+Upon the heavens, taking on me, o
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him,
+And the rest of the field of the death,
+And the rest of the senate of the deer,
+And the senate of the death of the man,
+The one of the man and the tear of the heart,
+The one of the heavens of the morn to the prince
+That she was with a shonte of the heavens,
+And the sea high and of such a sillence as the
+she wise of the fight of the heavens of the heart,
+And the rest of the sea, and the time
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would the world to the language of the maid,
+The market-place the seast of the sea, and the
+sea thing to the hear of the heavens of the heart,
+And the rest of the sea, the torth on the hear
+That she was not to be so fight on me,
+To the prince of the death of the man,
+The sealth of our soldiers and seen thems
+And their own their penitent to their own.
+
+
+GLOUCESTER:
+The gates of the commfort of t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The senate of the man and the man to thee.
+
+BAPTISTA:
+Well, welll, goood night on me, the bearest of them
+To the prince of their peace, and the rest on their
+offfice to the prince, and the traitor of the present,
+Which is no more to the people, and the rose of the
+streengess, and the sea throngs of the field, and the
+thing the strong of the street, the towards of me, the
+she windows of themselves
+Training - Epoch: 41/50: 10240chunks [00:40, 254.96chunks/s, loss=1.12, lr=0.0006, run:=Transformer]
+Training - Epoch: 42/50: 100%|███████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 382.15chunks/s, loss=0.952, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  me,
+To send at once warlike all my lands.
+
+GLOUCESTER:
+I would thou hide a world thou show'd the gods.
+
+
+KING RICHARD IIII:
+Thou didst thou offfering, my girl.
+
+
+QUEEN:
+With this way! with mine own, this way, that
+is not the office of the wealling
+That which it shall be so: in sometimes
+To one a silder, thing in thing willl I
+Apollo wish her willt to London our heads?
+
+Alll Throwick with one anot
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I think him strike, as to women, and
+The sanctival self-look on.
+
+
+CURTIS:
+I will, I though
+As the day.
+
+
+Grow:
+Ay:
+O home, by my lord,
+I think is no one of the deed;
+The honour is of some hangling.
+
+
+HERRMIONE:
+Why, sir,
+Is in the peopinion our cares and welll whisper
+Was they will into dead, their tongue out: let him have
+all the super-time; though I should six
+When I do more with a merciflip.
+
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And though she with the lews of York send with me;
+And thou show'lt six and with aid with his
+The starkest offf, I willl read him and his
+With alll sign and long along to thine else
+yes, for the doubling is with him this:
+And thus I will diving to Lewis on one other.
+
+BAPTISTA:
+We had your highnesss too sudddly; and I had
+presently
+That you hour at that your honour to-morrrow must
+And when my bea
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him.
+
+BRAKENBURY:
+I will be something to thee anon.
+
+KING RICHARD III:
+The sing of the time to the duke.
+
+
+QUEEN ELIZABETH:
+The long shall I believe the time of the death.
+
+
+KING RICHARD IIII:
+The toward of the duke is dead;
+The only side the thing with right willl down.
+
+
+QUEEN ELIZABETH:
+The long shall I see the duke is dead.
+
+
+KING RICHARD IIII:
+The time that should do I do in the duke.
+
+
+QUEE
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will do it with him.
+
+Provost:
+I am your highness will I willl do it.
+
+
+DUKE OF YORK:
+I willl be so disposition, I willl
+To him one and the poor of the pooor.
+
+
+DUKE OF YORK:
+I willl be so disposition, I willl
+To him one and the poor of the pooor.
+
+
+DUKE OF YORK:
+I willl be so disposition, I willl
+To him one and the poor of the pooor.
+
+
+DUKE OF YORK:
+I willl be so disposition, I willl
+To him on
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And the sea that she was not to be so our soul.
+
+
+PRINCE:
+Why the sings of the duke is dead?
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I think you, sir.
+
+
+MARCIUS:
+I thi
+Training - Epoch: 42/50: 10240chunks [00:40, 253.90chunks/s, loss=0.952, lr=0.0006, run:=Transformer]
+Training - Epoch: 43/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 364.38chunks/s, loss=1.05, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on , that they
+Three and craves a woord, and the time
+That torch'd the prince's death in the scent,
+Take on the other's patent wing's daughter:
+Then why, when the dead do the old distrance once
+Once stitted and that the secrets of the peoplle.
+
+BAPTISTA:
+Ay, merrcy:
+When with they dead the weds our mends are now: I mean, the tray
+tespite when would have me trifliness of their
+dember it in the stoorts
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will not do them at thyself and hostess,
+Then to die thee, to the old thought thou desirest
+The deep of this inntext doing to thine and thy sons!
+I do blot belove my heart to tail, I shortly
+To my soul.
+
+
+DUKE OF SUMERSS:
+Your grace honour that touch'd Romeo's and three--
+She is only one to onld marrk thing to hith
+And his own and his countraged out the order
+To calll their high before his powe
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Where the husband to the sugger, the king
+Those thundered, takest me to me: if this come to
+me try that work that mightove me that thou do haste, he do
+Think so me welll, what not think here too helll.
+
+Servant:
+There lends it on her to-dare on him here,
+Though the torment's in the city of the day
+That ido commfort their thoughts their only stains,
+That with thems blaning truth to me from them
+To
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  his country,
+That which she was and the strength on his face,
+The flowers of his partner, the trespassed of the deep,
+The day once the other once the order once,
+The ordering on the orderled ordest,
+The stronger or the treacheror than the traitor
+Of the deadly that the dead things to the crown.
+
+
+Sherrvant:
+And the street one that were the commended on;
+And then the dead that the land that thou h
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I would the were the loss of the state and down.
+
+DUKE OF YORK:
+When should she lives the deadly done?
+
+DUKE OF YORK:
+The longs of the Tower, the duke is dead;
+And the thing the world that the day of the dead;
+And then the dead that the deadly doom one,
+The once of the other once the order once,
+The ordering on the orderled ordest,
+And the thought on the commmon the crown
+The other on the testres
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+To the streets of the deep of the deeds,
+And the trumpounte of the death of the time:
+The one o'erward to the commmon the commmon thence,
+The strew on the commmon the starch of the death,
+The one of the other day or two order the dead;
+And then the dead that the dead thought on the city
+To the commmon that thought the ordest of the deed
+The duke is deadly and the truth on the complexer,
+The one o
+Training - Epoch: 43/50: 10240chunks [00:40, 250.26chunks/s, loss=1.05, lr=0.0006, run:=Transformer]
+Training - Epoch: 44/50: 100%|███████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 379.59chunks/s, loss=0.995, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  me.
+We know to stand, betrave them all;
+For though I have done done this fat is curse
+And be as presset the same it. Sirrsh'd! What
+Which nothing shot is that? There's some wish
+Me in a torms to dalish.
+
+
+SLERD:
+I shall do so ffind while I do this;
+And then if they were at have their so fonss;
+That he is that he some mere that his man
+An halm, a man hand, whiles I shall be so:
+Then same's was hea
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+Who was a subject, and be so set it down.
+
+BUCKINGHAM:
+Tush, I have not sadd I.
+
+
+SHBASTISTIN:
+Would have so lost, I had rather before thee,
+And therefore, though heavy me sad I
+And pride his heapths time wastent from on
+That warrrants himself. He shall not this sway,
+Whom this world whoms far his for hereafful?
+Thou dart poossitive to his property,
+And half made that suffficess, to hear the towa
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+as to bad the fatal as I with her,
+As he shall shake, as thus apparing hence;
+That will be dissdove is to banished,
+And favour that honesty to short.
+
+
+DUKE OF SURRRREY:
+Thou happy do move mine owlingly with those
+Take the prettiese the heaves or fall, and sole shoould
+Italys to that still seeize on a maidman:
+Aman, but it is not to bear.
+
+Clown:
+What noshin is so strone in that sea
+Tickenss as w
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  his hands
+To hands and the princess that hath he done
+That hath been back to the prison.
+
+CAMILLO:
+I pray you,
+I saw your partess.
+
+
+ANGELO:
+What, what a paith of what is doisemar'd
+That is not so shorte than you have to seek,
+And that the sea which was the painte of the
+Tower the people.
+
+
+CAMILLLO:
+Yes, madam:
+There's no more world I was to hear his majesty.
+
+
+LUCENTIO:
+And what worship here is
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will the world is come to be made.
+
+GLOUCESTER:
+I prithee, marrry, I have done so discoute
+That we may besides the penites of the world,
+That willl seem to be a pair of the poois,
+And with the soft disposition, which then we shall
+All seeem the soft of this day doubtful down
+And then the world with the heavens of the world.
+
+
+DUKE OF AUMERLE:
+Some London, thou hast a foour mean to dark.
+
+
+DUCHE
+Training - Epoch: 44/50: 10240chunks [00:40, 379.59chunks/s, loss=0.995, lr=0.0006, run:=Transformer]                                                                        ----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And that the sea won of the world be so found.
+
+LUCENTIO:
+And what of what sorre I have seen to beat
+your pardon, and it is the world be the world.
+
+
+BUCKINGHAM:
+Why, then I should die for this land will
+Than thou dost the people the world with those
+That wouldst thou hast do so much more than thou hast
+Than thou shalt show me what thou dost die?
+
+TRANIO:
+And then thou shalt seee, thou shalt safe
+Training - Epoch: 44/50: 10240chunks [00:41, 248.87chunks/s, loss=0.995, lr=0.0006, run:=Transformer]
+Training - Epoch: 45/50: 100%|████████████████████████████████████████████████████████████▉| 9984/10000 [00:27<00:00, 371.18chunks/s, loss=0.99, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  him, as we may continency,
+Only Buckingnoce, and I am sudden too gratudbed,
+And thus I know, in which nows news to sadd forward,
+Which shoulds, being, savoury in strain
+To allled at oppenince, and we hence at at his
+And high and the godds-seven his hands. A last, honour!
+If he be heaven, trust and his crown at our bring.
+
+HASTINGS:
+Why, thou wilt'st not, mighty house, how must two
+shall seem to h
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I worth he maid, we shall be thought our king.
+
+Second Citizen:
+An if I drink my maste hate the drum, and I
+Have wast the ventet of war with the rists of these.
+
+Second Musician:
+If were he stay, and let this stratnd feel of hone.
+
+
+TRANIO:
+Then, taking my lord, I'll know you what he will,
+But in the rest.
+
+
+POMPEY:
+I hope, if you hence, we'lll shower allied the prince,
+The seat, the remultan and
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,  take
+on, water the plain, that this his his dream, when
+Is non the coffer is but the forty mind
+With allwicless the strange and the truthles sound
+And bettter any thing the hands of the body.
+
+CORIOLANUS:
+I hope, sir,
+What you hence what thou wast, and therefore
+The patrley will have here too minde.
+I am allready for the dreesy than one,
+And the seast of this isldip heir honour.
+
+WARWICK:
+What sh
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him.
+
+Second Servingman:
+What, ho! he doth shall be so fail?
+
+Second Murderer:
+A man, a man, a word a tortoise her best to their heads.
+
+
+Second Murderer:
+What is your hand?
+
+
+First Senator:
+Now, by Sir John, and Senators, and Susan Peter's Christ,
+Whose worth the rest warm the rest on his present,
+And then the heavens with the heavens the world,
+The heavenst was the war with the steely of his co
+Training - Epoch: 45/50: 10240chunks [00:39, 371.18chunks/s, loss=0.99, lr=0.0006, run:=Transformer]                                                                         ----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will tell you the world with her silver sound,
+And then the rudge of the prince that your honours
+In this sententing the other station and honest.
+
+
+Second Murderer:
+So shall you be a horse, and a slaughter with him!
+
+COMINIUS:
+You have made a shower a tower to the crown,
+And the rest on his sons and the rooof obe,
+Who hath dong him the house of York is deep this strange?
+
+Second Murderin:
+And
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+The rest and the stronger of the people,
+Shall we allia? there is no one in the prince,
+That we may be allied to his present condemn him.
+
+
+KING RICHARD II:
+An if they could be the filles, and then,
+So he hath soo long adventation.
+
+
+CAMILLLO:
+I have not seen time to seee you this deep doth king.
+
+
+LADY CAPULET:
+Welll, then, my lord.
+
+
+CLAUDIO:
+I pray you, sir, is it the marriage of the maid,
+And
+Training - Epoch: 45/50: 10240chunks [00:42, 241.09chunks/s, loss=0.99, lr=0.0006, run:=Transformer]
+Training - Epoch: 46/50: 100%|███████████████████████████████████████████████████████████▉| 9984/10000 [00:26<00:00, 372.15chunks/s, loss=0.978, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on ,
+Or what this issue of that were thy blood;
+We acquaint of the son as true and myself.
+
+GLOUCESTER:
+Welll toook. he shall fond this sufffericy,
+With the began to the earth, and with store
+After the hence singule storm,
+With alrerady over sainty,
+Their treacherous a solishong;
+But they to the crown crown and the currs,
+To save the sacrret off and blood,
+Some tongue the searchors, and allive;
+And,
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+It was in the meeting of whose could now
+Were had abition, to these say torms,
+That heaven they that stand upon: there is
+again; for they are a man to the people;
+The open issolemity
+And all, affraidy,--whise one table my
+sting; there his many hoars wrongs there,
+And best as the way to age and his
+And there tongue to London,
+To allow the traitor's spit in healths,
+That forbid, hath thy mother sal
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Are man'd with that asks of me, to save,
+The soft these waters; they would he watch,
+These artic and the heads of sons welll.
+
+BISHOP OF RIZELABURLA:
+The together of ourselves to her succcerss.
+
+GLOUCESTER:
+I would him how I head of a gentleman.
+Would you not heaven away her withal.
+
+GLOUCESTER:
+What alloware these?
+
+BISHUS:
+The wearsoes that streets the steed of
+He the sentence and the sailors o
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on .
+
+Second Servingman:
+What, ho! he is there?
+
+Clown:
+Not son, but the son of Capulet, and the
+hate, and the trags of the house.
+
+
+AUTOLYCUS:
+O, the most red, the house and his son is the world.
+
+Clown:
+We are alloward to her by some of and the commmon fortune.
+
+
+Second Servingman:
+Why, he is it the toot?
+
+
+Second Servant:
+We are alloward to the state, and the state
+To the state of a world to the s
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will in the world to the sea worship,
+And that the stage of the state, and the house
+of the offficers of the table, and the world
+We have strong'd to the sea-stated here,
+And the heavens to the earth, and the hole
+To have a horse for a tender this to the heart.
+
+GLOUCESTER:
+The grave of the mother of the moood,
+The moost of allow, and the thing to the state,
+When he shall still take the state o
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+Were as the sad as an ashes to ask.
+
+GLOUCESTER:
+Why, then, then, as we are allowed and here
+The comes to the commpander of the commmon a
+pesterhance.
+
+Nurse:
+We cannot be: it is the mattterat that
+To save the stand that stand the earth to the
+constant of a man.
+
+
+CAMILLLO:
+No, my good for ward.
+
+LEONTES:
+Why, he is it?
+
+PAULINA:
+The mantle, my lord,
+The miself of a woman's woman,
+That the season
+Training - Epoch: 46/50: 10240chunks [00:41, 247.66chunks/s, loss=0.978, lr=0.0006, run:=Transformer]
+Training - Epoch: 47/50: 100%|███████████████████████████████████████████████████████████▉| 9984/10000 [00:27<00:00, 369.31chunks/s, loss=0.992, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  haunt? Tell me, no man,
+Whose woest comixe hence with her silence?
+
+Provost:
+And I will take my lend frie to speak, my most goood
+soolerize of breathing; but I accquainted
+Withalf worrn terrriness to be weell ass the
+hates: the holess buried by his concking as them;
+thin the conclucation shows money one thought of allong
+of heart, what cannnot be coon telling hollow.
+
+HERMIONE:
+What willst thou n
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I could he show in his highest shreel and himself,
+Walp piercing and purgned in his breast,
+That hand he should rubb wind out of andvorcy.
+
+GLOUCESTER:
+To-morrrow in this cold a place. You kiss her for
+The conscience with marrried? who is choice?
+
+BAPTISTA:
+Ay, my good fries, and holy pity me to hear;
+Why with his palments like men, which she loved me
+as well folking men as yourself parrtners, we
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+which treach then to true. Have you done that yet?
+
+PROSPERO:
+The king is come; welll to welll; but be devil
+In winnners pore of trade, that thou call'd hereach,
+And salught so with an arglic and holdst a frace
+To expell him thus wilt the kingly dear
+Thin who should he could be happined to hear;
+And he willl pluck a straight languesS and gold
+At one half our happpinesss. With ways, whom,
+To begui
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him an hour before her;
+And here will I love her life and lovely heart.
+
+HENRY BOLINGBROKE:
+What is the mattter of his country and his country?
+
+DUKE OF YORK:
+The hands I beween thee heavens to the king.
+
+
+DUKE OF AUMERLE:
+The marrry hath that been before the batttle and
+The hearts of heaven here and here with her browfucy.
+
+HERMIONE:
+What is the mattter?
+
+POMPEY:
+The virtue is the county of the
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will do your heart in your head and heart,
+And she will prove a shrew to her beauty traitor,
+And when he shall have will be the world be found?
+
+LUCIO:
+This innocent and honesty of the dearth,
+That laught in the heaven of your house,
+Who hearing your crown in his earst country,
+And he shall be found and a subject of her,
+And then recreeant the court and her born to hear;
+And here willl I am and
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+And will as he were a perfect and so shriek a father.
+
+PETRUCHIO:
+Welll, sirr, I have heard of her bodies and heart
+Willl be the heart in her appellant as yours.
+
+HORTENSIO:
+
+SICINGBROKE:
+I warrrant your house, my lords: I have been
+The warrs where you were allied before the castle,
+Whose were and bed the babe but borne the beats
+That bloot in the heaven of your house,
+Who is your house sour to b
+Training - Epoch: 47/50: 10240chunks [00:41, 244.70chunks/s, loss=0.992, lr=0.0006, run:=Transformer]
+Training - Epoch: 48/50: 100%|███████████████████████████████████████████████████████████▉| 9984/10000 [00:28<00:00, 356.36chunks/s, loss=0.942, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  him.
+
+TRANIO:
+But to the sword I abide to happy king,
+That hath brought my help here to make mine eit!
+What trully, it is the lossses of mine art thou?
+That hath contemn'd you att hand, and hanging:
+I'lll send to have advised that his hands too much.
+
+CORIOLANUS:
+And I'ld stold withal.
+
+Shepherd:
+Away, away.
+
+First Lord:
+'Twere means to world and alll to make him allong
+upon him.
+
+DUKE VINCENTIO:
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+'twill it draw me away, sir; for had I keep it well!
+All so much for me to meach to this shame,
+Who with she is far and she time of some affrest?
+Our shame, what was worst? Thou hast auturess
+Tarron to be mittress interchance.
+
+MERCUTIO:
+Come, come; I have had an honourable woman,
+That we wanged anon only to that, but would be wated.
+I sleep and weep welll so harsh and holing on
+the compasssion;
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and so do me shall be marr'd, she says himself and should not broide
+Without change dust him: the brides of the king
+And that hath head him depart; then shunteen in,
+Are so fast an open for time many can make for her;
+And I, in many amplear, and when I seee miscance
+To touch me ass you arrew to the swear of York;
+And then I mean to have said, but not alloned.
+Meethink the hang, what wilt thou do
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  him.
+
+BAPTISTA:
+What man have I done to you that hear him would were for
+his temples were a sword of trade.
+
+PETRUCHIO:
+What say you to her? what come your hands?
+I'lll make you both to that strange it in the world,
+And that the sea of this world willl remain.
+
+BAPTISTA:
+And then I have done to you that talk'st on the forest
+man to the people, and that was the swarn and shoutsad
+That was the wars
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+If the would be hang'd to be a propheted belong
+to the six of the dead, the heart whose deadly
+That would be sound at that were alll so dooubled too murder,
+And then in the head of the harsh of more than they
+To that want which hath tongued match the heart.
+
+DUKE OF SURREY:
+My lord, I think it on our tongues to the prince,
+And that the sea willd with her spirits of mine,
+And then to hear the eart
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+and the sea way to take of the senators, to the people
+With alll the housewiese of the king.
+
+ShOMBERLAND:
+What is the devil that thought of the king?
+
+BRUTUS:
+The serving of the hallf of Coriolanus and Camitole
+wounds to the people, and that was the swarn alll the
+have spent to the earth to that would have spoulsed to the sea,
+which is in the seenses to harsh will apppeared.
+
+BUCKINGHAM:
+What sa
+Training - Epoch: 48/50: 10240chunks [00:41, 247.52chunks/s, loss=0.942, lr=0.0006, run:=Transformer]
+Training - Epoch: 49/50: 100%|███████████████████████████████████████████████████████████▉| 9984/10000 [00:28<00:00, 356.89chunks/s, loss=0.982, lr=0.0006, run:=Transformer]Top-K sampling
+----------------------------------------
+What authority surfeits on  his leavy:
+And it is the news, we'll no less than he would would do;
+For he hough this a tear true, and be it should
+In that be manififieded to him, if it be so?
+
+
+BUCKINGHAM:
+What does our generworn, in the mindstrue o' the mercy;
+Thou wouldst discour and of kinsmen crowds, though his
+fie the daunt be rough undertake me with the field:
+I have him not stay: but thou calll'dst much of mit
+Would hi
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+In brief out o' the markety-booer one and the reipest
+Of the berea begin. The beauty of his countried
+in the world with the firmalle of his bonness,
+Though they shald be treeason in peace, as we he slain
+With their weaking: and we here willl not be trade
+Tie this begin within; and stilll think thyself,
+Which as I truth fore-in-law and for her speech
+Transore of traitors with thee to the term ther
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+our person with the outrage of them; but I
+had rather with that the body of their water--borne in most
+whicker I wonderies or number should now or o'clock:
+This wisdom, my heart, and the rubbs, who has
+Alll have him trive and our bid to the enemy.
+
+
+KING RICHARD:
+I know his roar. Bestorizon him to-morrrow,
+And that we may bring thus within their brother
+Take their with a bringing. Nurthumbiter:
+I
+
+
+
+
+Greedy sampling
+----------------------------------------
+What authority surfeits on  the storm,
+Whose stewses ministers of the people,
+Which he didst lost their heads of their best
+And their true brought to himself, and their own
+To the fix o' of their best. Thou art the people:
+Thou wilt not with the best: it is my soul,
+The mayor of the mine owith of my brother
+To meet might be mistress of the maint,--
+And herea she willl be the borrough of my brower,
+And bid him here the broug
+----------------------------------------
+I say unto you, what he hath done famously, he did it to that end:
+I will revenge his with the best of the flowers,
+And with his parting from his honours and his bonness,
+The best of his another bears of himself,
+This is the people of the country of his body.
+
+CALIBAN:
+We are our his and honesty offficer: we here hence, and
+being something but a serpent man; he is being a
+prepared of the court? I willl tell thee this man that born:
+'Tis the man that I may seek t
+----------------------------------------
+That in submission will return to us: And then, as we have ta'en the sacrament,
+our purpose to the people, and the rest o' the streetch,
+When he shall stand be in the bastard.
+
+LEONTES:
+What have I spoke of bettterer than he?
+
+
+HERMIONE:
+A merriegn, and honest that are t the man: I hence,
+with the manage of the king, and the king shall be
+Till the better than the best: but he has he died
+With the fire out of his birth, he hath made a his
+old and his brother off bound and bea
+Training - Epoch: 49/50: 10240chunks [00:41, 244.50chunks/s, loss=0.982, lr=0.0006, run:=Transformer]
+

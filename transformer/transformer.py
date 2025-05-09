@@ -298,7 +298,7 @@ def greedy_sampling_iter_transformer(model, x, num_chars, chunk_len, output_toke
 
 # Sample parameters, use whatever you see fit.
 batch_size = 256
-chunk_len = 128
+chunk_len = 64
 train_dataset = TextDataset(chunk_len=chunk_len)
 trainloader = torch.utils.data.DataLoader(
     train_dataset, batch_size=batch_size, num_workers=0

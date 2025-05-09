@@ -1,0 +1,531 @@
+
+Training - Epoch: 0/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1551.42chunks/s, loss=3.05, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou tor soatto toe  e s ao a a ote teatoo sos toe ees s s  th e s thee thoer se er seer se  eaett e  ooot aeo t  hi othee  hae tho atase s t aa e aa terte seeeso oo sesett  thessote te  o te ae aee ea e  hit th ath  to s er e te e ea teetta to  t t  ater t oeerttaanoeer tanere aere  oe  eatore ee sisa
+Greedy sampling ----------------
+O Romeo, wherefore art thou t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e t e
+Training - Epoch: 0/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1321.29chunks/s, loss=3.05, lr=0.005, run:=LSTM]
+Training - Epoch: 1/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1518.18chunks/s, loss=2.48, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thousthit ou mase thasd mous so thend shot ou more the thim worout het arthe the thin mathis withend an tou wores hand therd ang oud mathe hot on s thou s anes thas thatou tourd tiat tou tor wou tould be tial she were thes sot ood thart ile se wee tore wind the mares was aot ind wot ofe thant thot thas
+Greedy sampling ----------------
+O Romeo, wherefore art thou the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+Training - Epoch: 1/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1353.26chunks/s, loss=2.48, lr=0.005, run:=LSTM]
+Training - Epoch: 2/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1511.78chunks/s, loss=2.28, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thous andenges sine,
+
+at at or as the sere sorenges ane sorenes, and men and ant at hat mesthis anderste hat soul werestoun myow al him allend ase, te that, and thal that thand thes, wares sath tere with whisth sount as, thit ware,
+Thour thar hil men the har halis the him shes hit, the his thim ta she t
+Greedy sampling ----------------
+O Romeo, wherefore art thou the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the he the h
+Training - Epoch: 2/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1346.12chunks/s, loss=2.28, lr=0.005, run:=LSTM]
+Training - Epoch: 3/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1500.87chunks/s, loss=2.13, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thous are well wourt ofres the hears ter heallound the lingher merardico forede ther,,
+What marien the to thour he have ho hit mo hend hor, whaten in tho susthere.
+
+BINEUS:
+Wild that shallourd he his mate hand he hare southe for thith sise tout ate so mang se tho stall busting that hill whale, what with
+Greedy sampling ----------------
+O Romeo, wherefore art thou hath the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the here the he
+Training - Epoch: 3/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1326.49chunks/s, loss=2.13, lr=0.005, run:=LSTM]
+Training - Epoch: 4/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1479.20chunks/s, loss=2.01, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thours boone sear wist my lisce an I myount as ath art in thee mines to sime on mean.
+
+SAMENLIN:
+Whes should the counter ancersens, thou thoule, as ours timing of is and tay
+I mak shat, I have me woul hend torst mo sor mo bes mand brees,
+And thou thene will to her my. hit the caneser sit.
+
+PONDET:
+Whill
+Greedy sampling ----------------
+O Romeo, wherefore art thou the prace the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the prace the have the
+Training - Epoch: 4/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1320.42chunks/s, loss=2.01, lr=0.005, run:=LSTM]
+Training - Epoch: 5/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1515.02chunks/s, loss=1.93, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou home thite to he pood and heres.
+
+CIISAN:
+I'll and thes ther, my have ancer stor toon.
+
+CLOLIO:
+As my brook and with strist of he mary.
+
+COLIOLA:
+An, a thar we to sto the simp of the thy hearse, she wir me are.
+Wat this sould, and thim to the praine to mence,
+Ifre the sone then with shall strate.
+
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the come the co
+Training - Epoch: 5/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1281.86chunks/s, loss=1.93, lr=0.005, run:=LSTM]
+Training - Epoch: 6/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1391.54chunks/s, loss=1.84, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou weell were and a foush,
+And way loth him the caners,
+The simp of the prent thou stands tinges
+And bous for asserss that sance ones and hemast.
+
+LUCESTARGARUTE:
+That are are thinkens ander are
+Ifeast thay ard wathed
+Shich ofted, well hemy, and with he stall.
+
+GRETIUS:
+All my san tho sand him shay,
+W
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes and the come the comes
+Training - Epoch: 6/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1305.01chunks/s, loss=1.84, lr=0.005, run:=LSTM]
+Training - Epoch: 7/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1506.22chunks/s, loss=1.82, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou hose, as my faith,
+And this what may seed and moor a could me,
+Thete hissens, and to make her mading of
+To all head, the king and but the have my
+Ratile the peat and shall'd home what he stien you.
+
+PORINCA:
+Here have to thou have make om so nothers my failt
+The can is mants is truch as thy wassire
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the counter the court the coun
+Training - Epoch: 7/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1316.84chunks/s, loss=1.82, lr=0.005, run:=LSTM]
+Training - Epoch: 8/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1480.01chunks/s, loss=1.75, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou sare tor to men so hon shill bondself.
+
+KING EDWARD IV:
+Sone as at the bourss. 'tis fruender thou, well.
+
+GRUEM:
+The partels, and troughter,
+Tree my for thy forent, and he swords
+To this in me provese the sir, the knaght,
+The counter, bean that well be me when shall be the wifther,--
+A sartous or m
+Greedy sampling ----------------
+O Romeo, wherefore art thou are the propest the sond the sond the sond the dost the propest the sond the sond the dost the propest the sond the sond the dost the propest the sond the sond the dost the propest the sond the sond the dost the propest the sond the sond the dost the propest the sond the sond the dost the propest t
+Training - Epoch: 8/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1314.43chunks/s, loss=1.75, lr=0.005, run:=LSTM]
+Training - Epoch: 9/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1475.05chunks/s, loss=1.72, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou stard and we soored
+Alang them word, than are a moster, are that and thought the call more and the heads may
+Betold but her sice, and soon all that he see the sir,
+And me that with her to my say our life.
+
+LADY ANEELLLA:
+This, sir.
+
+PETER:
+No, sir, and the seathes a may.
+
+BENVOLIO:
+As if thou with
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing and the sing
+Training - Epoch: 9/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1319.40chunks/s, loss=1.72, lr=0.005, run:=LSTM]
+Training - Epoch: 10/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1428.99chunks/s, loss=1.67, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou ars desertiss;
+I am such ourst the stings,
+And thou way, will nemer, shall be the blood, servist, would to my
+Laces, be is then so more my like thoush,
+We conseds as that world me than to the pray of the peader
+As the wild, whe strong ho hath his fare, we shall me
+Not heart, tall here that he do bu
+Greedy sampling ----------------
+O Romeo, wherefore art thou have the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the send the se
+Training - Epoch: 10/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1305.27chunks/s, loss=1.67, lr=0.005, run:=LSTM]
+Training - Epoch: 11/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1478.74chunks/s, loss=1.67, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou'ds; bestrenges
+This parche of have so more a geed
+As this, shall then were see is this fonered manest thee sir.
+
+PROLEE:
+Serachingess their seastion on your feirs, and stall
+And both a sardy of her sandy all and suce of my lard.
+
+PERCITI
+O:
+I amoster to me worls,
+And seep and thou to blooks their t
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes and the provest the comes
+Training - Epoch: 11/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1325.15chunks/s, loss=1.67, lr=0.005, run:=LSTM]
+Training - Epoch: 12/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1482.93chunks/s, loss=1.62, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou shill the stents the fired
+And truet of the wasting to he his did thee,
+The pase on muse that should the cheadented
+And will thy speing his bread a server tell be thou ares and to
+Fone, which it.
+
+GLOUCESTER:
+I will so hangs, thou head me my govered we how terr a fight thy brioks ourst and
+The pric
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the forth,
+And the king and the come to the fail of the forth,
+And the king and the come to the fail of the forth,
+And the king and the come to the fail of the forth,
+And the king and the come to the fail of the forth,
+And the king and the come to the fail of the forth,
+And the king and the com
+Training - Epoch: 12/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1317.66chunks/s, loss=1.62, lr=0.005, run:=LSTM]
+Training - Epoch: 13/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1488.54chunks/s, loss=1.6, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou thas then was were and wink
+Were'd anthen thas woman so sen the dother,
+And sow you to the more of mothen, the fith my both the wite
+As me the pair a deproust him on my wife
+As be so men and to be the seed world
+The comment would soneth this will me well as anger:
+When you say the stopting of twan
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the sent the send
+The prince the man and the sent the sent the sent the send
+The prince the man and the sent the sent the sent the send
+The prince the man and the sent the sent the sent the send
+The prince the man and the sent the sent the sent the send
+The prince the man and the sent the sent
+Training - Epoch: 13/30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1307.82chunks/s, loss=1.6, lr=0.005, run:=LSTM]
+Training - Epoch: 14/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1479.57chunks/s, loss=1.58, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou all.
+
+KING EDWARD IV:
+To show doth, and thou will, a lend you have
+I hand the world,--thy house of straight thee will be proces
+But were on thy haster flilt thou talk on the corming
+This than's now hot arthard bother weeping of take her briet,
+The both mishord his badger alt trouble bess of hen som
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the courtest the court
+Training - Epoch: 14/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1314.91chunks/s, loss=1.58, lr=0.005, run:=LSTM]
+Training - Epoch: 15/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1503.87chunks/s, loss=1.56, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thought,
+And wait thee, befternt aguin thee the such things
+And the world than a wilks al an the muther to be that say,
+Who should hours of this tongue wouldss.
+
+POMIEN:
+Why helpest, the wife of the starting that have
+their son all be trume of that wanesh and spent train.
+
+POMPEY:
+What, when they well t
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the warring son.
+
+POMPEY:
+The present the senter the stander the stands the stands the stands,
+And the world the stander the stander the stands the stands,
+And the world the stander the stander the stands the stands,
+And the world the stander the stander the stands the stands,
+And the world the
+Training - Epoch: 15/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1317.21chunks/s, loss=1.56, lr=0.005, run:=LSTM]
+Training - Epoch: 16/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1471.68chunks/s, loss=1.54, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou shall not some hast to thy heart.
+
+MAstisay:
+And we am then it so to the morress to tolk the sen
+This stann'd the chose: thy such it not me, I am so shold and words on the
+well be suchin sounds to the hard,
+By your good may a marken to-diem, by stand and with o'et.
+
+MONTAGUE:
+Bring, the world was s
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the state to the part
+That the comes the comes to the part of the part
+That the comes the comes to the part of the part
+That the comes the comes to the part of the part
+That the comes the comes to the part of the part
+That the comes the comes to the part of the part
+That the comes the comes to
+Training - Epoch: 16/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1307.63chunks/s, loss=1.54, lr=0.005, run:=LSTM]
+Training - Epoch: 17/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1485.17chunks/s, loss=1.56, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou all true wise, boy.
+
+MENENIUS:
+No for her let'st have bade my boods,--
+
+SICINIUS:
+I chape his courin,
+Thence makes me, which you thou stould should to she do so, sir
+The wife, mistrefilaces.
+
+POLIXENES:
+Ternt, there out they she woo heaven thee.
+
+LUCENTIO:
+To shall the heast, any any like a founts;
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the stand the state
+To be the world the world with the stands and the stands,
+And there a send the stand the stand the stands,
+And there a send the stand the stand the stands,
+And there a send the stand the stand the stands,
+And there a send the stand the stand the stands,
+And there a send the
+Training - Epoch: 17/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1308.35chunks/s, loss=1.56, lr=0.005, run:=LSTM]
+Training - Epoch: 18/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1464.67chunks/s, loss=1.52, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou head ind shind,
+Where is now be to the promatest to the sent
+To make you to huphen that the brother after
+Thine trath on his chose and to stread his bood.
+
+LADY CLENCIO:
+I have have buticion and too lad her
+to the shout this blood us were wontemple
+Than the presence, bring his praved be bonie me
+Th
+Greedy sampling ----------------
+O Romeo, wherefore art thou shalt to the state of the state.
+
+KING RICHARD III:
+The senter the state of the send to the state of the state.
+
+KING RICHARD III:
+The senter the state of the send to the state of the state.
+
+KING RICHARD III:
+The senter the state of the send to the state of the state.
+
+KING RICHARD III:
+The senter
+Training - Epoch: 18/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1293.06chunks/s, loss=1.52, lr=0.005, run:=LSTM]
+Training - Epoch: 19/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1508.56chunks/s, loss=1.47, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou art
+In instrieman before hat be a father
+Be strings there is me to the world,
+And should be propent o'er head to them of you.
+
+MARCIUS:
+I dear must, if you and his life, sir,
+Though here would thit spake me a deperved me.
+
+RICHARD:
+I will be out with the cunsed a mark.
+
+SICINIUS:
+Ay, what we say yo
+Greedy sampling ----------------
+O Romeo, wherefore art thou shalt thou shalt thou shalt thou shalt thou hast thee the strange
+And strange the state of the compant of the world.
+
+COMINIUS:
+What is the state of the compant of the state of the world.
+
+COMINIUS:
+What is the state of the compant of the state of the world.
+
+COMINIUS:
+What is the state of the comp
+Training - Epoch: 19/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1305.15chunks/s, loss=1.47, lr=0.005, run:=LSTM]
+Training - Epoch: 20/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1493.46chunks/s, loss=1.47, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou wilt thou
+till hear the peopless and sear ans
+a man, my fear he had but tows you arry;
+For I amen my life, my lord, so,
+Why timages of your subject and.
+
+LADY CAPULET:
+All seat them that well that these to seems a morrow
+With alose under this angeling.
+
+DUCHEST:
+And sirrer to the dead man, this sta
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the man and the death,
+The man the man the man the man the man and the death,
+The man the man the man the man the man and the death,
+The man the man the man the man the man and the death,
+The man the man the man the man the man and the death,
+The man the man the man the man the man and the deat
+Training - Epoch: 20/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1340.14chunks/s, loss=1.47, lr=0.005, run:=LSTM]
+Training - Epoch: 21/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1510.09chunks/s, loss=1.48, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou art
+That though he will hap that I am bear thee the king
+That what is a father, sir live age: and to her her.
+
+CAPULET:
+What is me would be that thy black to stands,
+And stook the king of, to she have my love.
+
+KATHARINA:
+Who, that I med they stell him friends;
+But was he done as I candled to my
+br
+Greedy sampling ----------------
+O Romeo, wherefore art thou wilt the state
+To him the senter than the senter than the sens
+That the senter than the senter than the sens of the sens
+That the senter than the senter than the sens of the sens
+That the senter than the senter than the sens of the sens
+That the senter than the senter than the sens of the sens
+That
+Training - Epoch: 21/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1332.52chunks/s, loss=1.48, lr=0.005, run:=LSTM]
+Training - Epoch: 22/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1487.36chunks/s, loss=1.46, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou to the comple our dear
+As whose anyers along then the state,
+Thou wearing she wounds man that wearing. I hasp
+To take them wither are most. I would sigh and true
+
+Butiols word are his sakest it; and so, says a word.
+
+PAMINIUS:
+The could he had looks me find mine one heard.
+
+GLOUCESTER:
+
+KING RICHAR
+Greedy sampling ----------------
+O Romeo, wherefore art thou wilt the common of the world
+That which the duke of the world he will be so son
+The world he will be the heart of the world,
+That which the duke of the world he will be so son
+The world he will be the heart of the world,
+That which the duke of the world he will be so son
+The world he will be the he
+Training - Epoch: 22/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1322.92chunks/s, loss=1.46, lr=0.005, run:=LSTM]
+Training - Epoch: 23/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1502.16chunks/s, loss=1.46, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou wast that hath
+minetelence with the does of to hear my honour's
+And for the storp's farrian of his chall, who
+have thee, for that his wits for his hangs.
+
+KING RIVERS:
+Thou hast, what is the duke of shame with sorriffect.
+
+KING RICHARD III:
+The place to the stops, these shall break to the call of h
+Greedy sampling ----------------
+O Romeo, wherefore art thou shalt the stands
+The state and the contraring to the sunder to the sund
+That the duke of the contraring to the sunder
+To make a father of the sunder to the sunder
+To make a father of the sunder to the sunder
+To make a father of the sunder to the sunder
+To make a father of the sunder to the sunder
+T
+Training - Epoch: 23/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1322.85chunks/s, loss=1.46, lr=0.005, run:=LSTM]
+Training - Epoch: 24/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1513.46chunks/s, loss=1.47, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou stands,
+Should she is not beand is dangerous.
+That have no petciant as a grown and a friends to sound too land,
+Wash then are pleasent thoush have to daughter true.
+As we heard him befated: so inder atther.
+
+KING RICHARD III:
+The nurse is selmans of heaven,
+What would be thou desprienely with her f
+Greedy sampling ----------------
+O Romeo, wherefore art thou shalt the duke of the death,
+And there is not the death of the common of the state
+That the death of the common of the state of the common of the state
+That the death of the common of the state of the common of the state
+That the death of the common of the state of the common of the state
+That the
+Training - Epoch: 24/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1336.04chunks/s, loss=1.47, lr=0.005, run:=LSTM]
+Training - Epoch: 25/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1502.02chunks/s, loss=1.45, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou art burnt.
+
+GLOUCESTER:
+He hads my souls, thou she spike thy sovereign of a speach,
+And by a man, and whose serversh while
+Oul tenders. Which was to make a friends.
+
+Second Messenger:
+And your body strength; and most near, and so stown,
+While wild seen will be prize; thou she sport again;
+And witho
+Greedy sampling ----------------
+O Romeo, wherefore art thou shalt thou art the state
+That she shall be so for the prince of the death
+And see the state and so for the prince of the death
+And see the state and so for the prince of the death
+And see the state and so for the prince of the death
+And see the state and so for the prince of the death
+And see the s
+Training - Epoch: 25/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1321.31chunks/s, loss=1.45, lr=0.005, run:=LSTM]
+Training - Epoch: 26/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1490.82chunks/s, loss=1.43, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art though was some stait.
+
+LUCIO:
+Why would stake the soul, were my life me a man are
+To bust and my learter with a father,
+And the way to have the brath stowling old stay of shemerance,
+And hath no happle and have manns and sorrow.
+They would his much, the faults, and his from ore the sit
+The strenglest t
+Greedy sampling ----------------
+O Romeo, wherefore art thou shalt thou art the man
+That when I say the prince that the world with him.
+
+KING RICHARD III:
+What shall be the man that we may be a banks the world with the world
+And the world have been the world have been the state
+That which shall be the world have been the state and the man
+That when I say the
+Training - Epoch: 26/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1313.78chunks/s, loss=1.43, lr=0.005, run:=LSTM]
+Training - Epoch: 27/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1506.15chunks/s, loss=1.42, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou hast there is so.
+
+MORCAUS:
+So me, as you the ression of the blase as you we held
+And so faults to take a speak in our fill.
+
+ROMEO:
+I theep it were to see her truites of thy brokent.
+
+SICINIUS:
+Ahas! I hear me: this your freely.
+
+LEONTES:
+Shall nit the haste alace within thee,
+And not have been do
+Greedy sampling ----------------
+O Romeo, wherefore art thou art the rest of the heart
+That she shall be the heart the sentent of the world
+And the rest of the world he shall be the heart
+That the death of the world he shall be the heart
+That the death of the world he shall be the heart
+That the death of the world he shall be the heart
+That the death of the
+Training - Epoch: 27/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1320.28chunks/s, loss=1.42, lr=0.005, run:=LSTM]
+Training - Epoch: 28/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1498.75chunks/s, loss=1.39, lr=0.005, run:=LSTM]Top-K sampling -----------------
+O Romeo, wherefore art thou speak thy lord.
+
+COMINIUS:
+The world whick the peeps it wish
+You say the people have young holour, as I cannot stone
+High measing in that, I, there is me for
+I made the wairs, thou art the sought were
+As they then at yount a morter warm a persed
+With teld in the parting, who show is dead.
+
+DUCHESS
+Greedy sampling ----------------
+O Romeo, wherefore art thou she shall be so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so so s
+Training - Epoch: 28/30: 100%|█  █ █ █████████ █ ████████  █ █ ████████ ████   █████████ ███████████████  ███ ███████  ███████████   ███████████ █ █ █ █ █████    ██    ██ █████ ██ | 9984/10000 [00:07<00:00, 1318.86chunks/s, loss=1.39, lr=0.005, run:=LSTM]
+Training - Epoch: 29/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:06<00:00, 1466.58chunks/s, loss=1.41, lr=0.005, run:=LSTM]
+
+
+
+Top-K sampling -----------------
+O Romeo, wherefore art thou wils they see the world.
+
+GONZALO:
+A good carely sharl that to her it wee, by haste in
+With angerous but a with thy country. I will not be not,
+They all the sounder worst and she well.
+It is, and the sender brights of this accordine souls
+The seasons of his sweet but the poor other;
+For stays hell
+
+
+
+Greedy sampling ----------------
+O Romeo, wherefore art thou she shall be so so so my brother.
+
+CAPULET:
+What shall be so the more that we may be so my soul
+The seate of the seates of the sease of the sea
+come to his brother to the people of the sea
+come to his brother to the people, and the sea
+come to his brother to the people,
+That we will be so to the pe
+Training - Epoch: 29/30: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊| 9984/10000 [00:07<00:00, 1314.86chunks/s, loss=1.41, lr=0.005, run:=LSTM]
+
