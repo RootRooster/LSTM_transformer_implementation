@@ -66,13 +66,12 @@ class ScaledDotProductAttention(nn.Module):
         # matrix of dimensions (length x length) after the scale operation
         # in Figure 2 of the paper.
         self.mask_opt = AttentionMasking(max_len)
-        self.max_len = max_len
 
     def forward(self, q, k, v):
         # length = number of input tokens
-        # batch_size, num_heads, length, num_neuron = k.size()
+        batch_size, num_heads, length, num_neuron = k.size()
         qkt = torch.matmul(q, k.transpose(-2, -1))
-        qkt = qkt / math.sqrt(self.max_len)
+        qkt = qkt / math.sqrt(num_neuron)
         qkt = self.mask_opt(qkt)
         qkt = self.softmax(qkt)
         return torch.matmul(qkt, v)
@@ -267,7 +266,7 @@ def topk_sampling_iter_transformer(model, x, num_chars, chunk_len, output_token)
         # int
         out_char_index = output_ind[0, top_ind]
         # int -> 1
-        out_char_index = torch.ones(1).to(device)
+        out_char_index = torch.ones(1).to(device) * out_char_index
 
         outputs[:, t] = out_char_index.item()
         if inp.shape[1] > chunk_len:
@@ -360,6 +359,24 @@ for epoch in range(epochs):
 
             # out_test= greedy_sampling_iter_transformer(model, sample_input, 400, chunk_len, output_token)[0]
             out_test = topk_sampling_iter_transformer(
+                model, sample_input, 400, chunk_len, output_token
+            )[0]
+            out_char_index = out_test.long().detach().cpu().numpy()
+            out_chars = (
+                sample_text
+                + " "
+                + "".join([train_dataset.all_characters[i] for i in out_char_index])
+            )
+            print("----------------------------------------")
+            print(out_chars)
+
+        print("\n\n\n\nGreedy sampling")
+        for sample_text in sample_texts:
+            sample_encoding = train_dataset.encode_text(sample_text)
+            sample_input = Variable(sample_encoding).to(device).unsqueeze(0).long()
+
+            # out_test= greedy_sampling_iter_transformer(model, sample_input, 400, chunk_len, output_token)[0]
+            out_test = greedy_sampling_iter_transformer(
                 model, sample_input, 400, chunk_len, output_token
             )[0]
             out_char_index = out_test.long().detach().cpu().numpy()
